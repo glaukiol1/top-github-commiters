@@ -18,3 +18,4 @@ Its simple to add a country;
 - Create a access token.
 - Run the script with the access token as a command line option; Example; `node main.js ghp_9uhjpIgozqmbuM5M1b***********`
 - Wait until the script finishes, you will see the names and how many followers you are on right now in the command line.
+- Push the changes to GitHub, open a PR.
