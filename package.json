@@ -1,0 +1,22 @@
+{
+  "name": "top-github-commiters",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glaukiol1/top-github-commiters.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glaukiol1/top-github-commiters/issues"
+  },
+  "homepage": "https://github.com/glaukiol1/top-github-commiters#readme",
+  "dependencies": {
+    "@octokit/graphql": "^4.8.0"
+  }
+}
