@@ -2,6 +2,10 @@
 
 See your countries leaderboard for most GitHub commits!
 
+|Country|
+|-------|
+|[Albania](output/albania.md)|
+
 ## 🤔 Why am I not here?
 
 One of the reasons might be that you dont have your country in your `location` part of your GitHub profile. Another might be that the list might not be updated to the latest time, to update it, look futher down this document.
