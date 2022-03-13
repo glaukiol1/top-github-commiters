@@ -1,8 +1,11 @@
+const makeMarkdown = require("./markdown");
 const getCountryList = require("./requesters/request_country");
+const fs = require('fs');
+const path = require("path");
 
-getCountryList("albania", 20, "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")
+const country = "albania"
+
+getCountryList(country, -1, process.argv[2])
     .then(list=>{
-        list.list.forEach(s=>{
-            console.log(s.contribs)
-        })
+        fs.writeFileSync(path.join(__dirname,`/output/${country}.md`), makeMarkdown(list.list,country), {encoding: 'utf-8'})
     })

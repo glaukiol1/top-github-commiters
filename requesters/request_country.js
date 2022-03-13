@@ -29,21 +29,20 @@ class List {
 
 const list = new List()
 async function getCountryList(country, amount, authkey) {
-    var data = [];
     var current_cursor;
     var done = false;
     while (!done) {
         await request(country,authkey, current_cursor).then(
             dat => {
-                data = data.concat(dat.search.edges)
                 dat.search.edges.forEach(s => {
-                    // var spaces = 30-`${country}: {${s.node.login}}`.length
-                    // var spaces1 = 50-`${country}: {${s.node.login}}${" ".repeat(spaces)}${s.node.contributionsCollection.contributionCalendar.totalContributions}`.length
-                    // console.log(`${country}: {${s.node.login}}${" ".repeat(spaces)}${s.node.contributionsCollection.contributionCalendar.totalContributions}${" ".repeat(spaces1)}Followers: ${s.node.followers.totalCount}`)
-                    // console.log(s.node.contributionsCollection.contributionCalendar.totalContributions)
-                    list.add(s.node)
+                    if (s.node["__typename"]==="User") {
+                        var spaces = 100-`${country}: {${s.node.login}}`.length
+                        console.log(`${country}: {${s.node.login}}${" ".repeat(spaces)}${s.node.followers.totalCount}`)
+                        list.add(s.node) 
+                    }
+                    
                 })
-                if (data.length >= amount) {
+                if (amount != -1 && list.list.length >= amount) {
                     done = true
                 }
                 if (dat.search.pageInfo.hasNextPage) {
