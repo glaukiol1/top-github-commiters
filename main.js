@@ -4,7 +4,7 @@ const fs = require('fs');
 const path = require("path");
 
 const country = process.argv[3] || "albania"
-const seconds_to_grab_data = -1; // change this to the time you want to grab data; use -1 if you want to grab until there is none left
+const seconds_to_grab_data = parseInt(process.argv[4]) || -1; // change this to the time you want to grab data; use -1 if you want to grab until there is none left
 // i recommend upping this more if your are in a very big country; something between 10-30 mintues; if you are in a very small country; set it to -1; where it will get all the users.
 
 console.log(`Starting with country ${country}`)

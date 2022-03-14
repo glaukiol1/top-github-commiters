@@ -5,6 +5,7 @@ See your countries leaderboard for most GitHub commits!
 |Country|
 |-------|
 |[Albania](output/albania.md)|
+|[Kosovo](output/kosovo.md)|
 
 ## 🤔 Why am I not here?
 
