@@ -32,27 +32,37 @@ async function getCountryList(country, seconds, authkey) {
     const start_time = Date.now();
     var current_cursor;
     var done = false;
+    var errors = 0;
     while (!done) {
-        await request(country,authkey, current_cursor).then(
-            dat => {
-                dat.search.edges.forEach(s => {
-                    if (s.node["__typename"]==="User") {
-                        var spaces = 100-`${country}: {${s.node.login}}`.length
-                        console.log(`${country}: {${s.node.login}}${" ".repeat(spaces)}${s.node.followers.totalCount} | Second: ${Math.ceil( (Date.now()-start_time)/1000 )}/${seconds}`)
-                        list.add(s.node) 
+        try {
+            await request(country,authkey, current_cursor).then(
+                dat => {
+                    dat.search.edges.forEach(s => {
+                        if (s.node["__typename"]==="User") {
+                            var spaces = 100-`${country}: {${s.node.login}}`.length
+                            console.log(`${country}: {${s.node.login}}${" ".repeat(spaces)}${s.node.followers.totalCount} | Second: ${Math.ceil( (Date.now()-start_time)/1000 )}/${seconds}`)
+                            list.add(s.node) 
+                        }
+                        
+                    })
+                    if ( seconds !== -1 && (Date.now() - start_time)/1000 >= seconds) {
+                        done = true
                     }
-                    
-                })
-                if ( seconds !== -1 && (Date.now() - start_time)/1000 >= seconds) {
-                    done = true
+                    if (dat.search.pageInfo.hasNextPage) {
+                        current_cursor = dat.search.pageInfo.endCursor
+                    } else {
+                        done = true;
+                    }
                 }
-                if (dat.search.pageInfo.hasNextPage) {
-                    current_cursor = dat.search.pageInfo.endCursor
-                } else {
-                    done = true;
-                }
+            )
+        } catch (error) {
+            errors=errors+1
+            if (errors>=3) {
+                break;
             }
-        )
+            console.error("Error "+errors)
+        }
+        
     }
     return list
 }
@@ -60,7 +70,7 @@ async function getCountryList(country, seconds, authkey) {
 let request = async function (location, AUTH_KEY, cursor) {
     try{
         const graphqlWithAuth = graphql.defaults(getHeader(AUTH_KEY));
-        const response = await graphqlWithAuth(getQuery(location, cursor));
+        const response = await graphqlWithAuth(getQuery(location, cursor))
         return response
     } catch (error) {
         console.log(error)

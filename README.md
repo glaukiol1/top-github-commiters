@@ -6,6 +6,9 @@ See your countries leaderboard for most GitHub commits!
 |-------|
 |[Albania](output/albania.md)|
 |[Kosovo](output/kosovo.md)|
+|[Macedonia](output/macedonia.md)|
+|[India](output/india.md)|
+|[Canada](output/canada.md)|
 
 ## 🤔 Why am I not here?
 

@@ -9,7 +9,7 @@ function getHeader(AUTH_KEY) {
 function getQuery(location, cursor) {
     if (!cursor) {
         return { query: `query {
-            search(type: USER, query:"location:${location} sort:followers-desc", first:${10}) {
+            search(type: USER, query:"location:${location} sort:followers-desc", first:${5}) {
               edges {
                 node {
                   __typename
@@ -40,7 +40,7 @@ function getQuery(location, cursor) {
           }`};
     } else {
         return { query: `query {
-            search(type: USER, query:"location:${location} sort:followers-desc", first:${10}, after:"${cursor}") {
+            search(type: USER, query:"location:${location} sort:followers-desc", first:${5}, after:"${cursor}") {
               edges {
                 node {
                   __typename
