@@ -1,7 +1,8 @@
 function getHeader(AUTH_KEY) {
     return {
         headers: {
-            Authorization: `bearer ${AUTH_KEY}`
+            Authorization: `bearer ${AUTH_KEY}`,
+            "Keep-Alive": "timeout=100000 max=1500000"
         }
     }
 }
@@ -37,10 +38,15 @@ function getQuery(location, cursor) {
                   hasNextPage
                 }
             }
+            rateLimit {
+              limit
+              cost
+              remaining
+            }
           }`};
     } else {
         return { query: `query {
-            search(type: USER, query:"location:${location} sort:followers-desc", first:${5}, after:"${cursor}") {
+            search(type: USER, query:"location:${location} sort:followers-desc", first:${10}, after:"${cursor}") {
               edges {
                 node {
                   __typename
@@ -67,6 +73,11 @@ function getQuery(location, cursor) {
                   endCursor
                   hasNextPage
                 }
+            }
+            rateLimit {
+              limit
+              cost
+              remaining
             }
           }`};
     }

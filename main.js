@@ -11,9 +11,13 @@ console.log(`Starting with country ${country}`)
 
 getCountryList(country, seconds_to_grab_data, process.argv[2])
     .then(list=>{
+        console.log(list.list)
         var lowest_follower_amount = 100*100;
         list.list.forEach(s=>{
             if (s.followers.totalCount < lowest_follower_amount) {lowest_follower_amount = s.followers.totalCount};
         })
         fs.writeFileSync(path.join(__dirname,`/output/${country}.md`), makeMarkdown(list.list,country,lowest_follower_amount), {encoding: 'utf-8'})
+    })
+    .catch(error => {
+        console.error("Promise Error: "+error)
     })

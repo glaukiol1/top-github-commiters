@@ -32,49 +32,56 @@ async function getCountryList(country, seconds, authkey) {
     const start_time = Date.now();
     var current_cursor;
     var done = false;
-    var errors = 0;
     while (!done) {
         try {
             await request(country,authkey, current_cursor).then(
                 dat => {
+                    console.log(`==== ${dat.search.edges.length} entries ; ${dat.search.pageInfo.endCursor} ====`)
                     dat.search.edges.forEach(s => {
                         if (s.node["__typename"]==="User") {
-                            var spaces = 100-`${country}: {${s.node.login}}`.length
-                            console.log(`${country}: {${s.node.login}}${" ".repeat(spaces)}${s.node.followers.totalCount} | Second: ${Math.ceil( (Date.now()-start_time)/1000 )}/${seconds}`)
+                            var spaces = 80-`${country}: {${s.node.login}}`.length
+                            console.log(`${country}: {${s.node.login}}${" ".repeat(spaces)}${s.node.followers.totalCount} | Second: ${Math.ceil( (Date.now()-start_time)/1000 )}/${seconds} | RateLimit: ${dat.rateLimit.cost} / ${dat.rateLimit.remaining}`)
                             list.add(s.node) 
                         }
                         
                     })
                     if ( seconds !== -1 && (Date.now() - start_time)/1000 >= seconds) {
+                        console.log("Done with time!")
                         done = true
                     }
                     if (dat.search.pageInfo.hasNextPage) {
                         current_cursor = dat.search.pageInfo.endCursor
                     } else {
+                        console.log("No next page; done")
                         done = true;
                     }
                 }
             )
         } catch (error) {
-            errors=errors+1
-            if (errors>=3) {
-                break;
-            }
-            console.error("Error "+errors)
+            console.error("Error "+error)
+            await sleep(5000);
         }
         
     }
     return list
 }
 
+function sleep(ms) {
+    return new Promise((resolve) => {
+      setTimeout(resolve, ms);
+    });
+}
+
 let request = async function (location, AUTH_KEY, cursor) {
-    try{
-        const graphqlWithAuth = graphql.defaults(getHeader(AUTH_KEY));
-        const response = await graphqlWithAuth(getQuery(location, cursor))
-        return response
-    } catch (error) {
-        console.log(error)
-    }
+    const graphqlWithAuth = graphql.defaults(getHeader(AUTH_KEY));
+    const resp = graphqlWithAuth(getQuery(location, cursor))
+    resp.catch(async error=>{
+        console.log("Error: "+error)
+        await sleep(1000*5)
+        console.log("Continuing")
+        return
+    })
+    return resp
 }
 
 module.exports = getCountryList
