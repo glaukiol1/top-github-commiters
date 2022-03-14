@@ -1,4 +1,4 @@
-# top-github-commiters
+# 🔝 GitHub Commiters
 
 See your countries leaderboard for most GitHub commits!
 
