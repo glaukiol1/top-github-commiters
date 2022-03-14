@@ -40,6 +40,9 @@ async function getCountryList(country, seconds, authkey) {
                     dat.search.edges.forEach(s => {
                         if (s.node["__typename"]==="User") {
                             var spaces = 80-`${country}: {${s.node.login}}`.length
+                            if (spaces<0) {
+                                while(spaces<1) {spaces++}
+                            }
                             console.log(`${country}: {${s.node.login}}${" ".repeat(spaces)}${s.node.followers.totalCount} | Second: ${Math.ceil( (Date.now()-start_time)/1000 )}/${seconds} | RateLimit: ${dat.rateLimit.cost} / ${dat.rateLimit.remaining}`)
                             list.add(s.node) 
                         }

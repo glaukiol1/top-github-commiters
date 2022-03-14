@@ -7,10 +7,14 @@ function getHeader(AUTH_KEY) {
     }
 }
 
-function getQuery(location, cursor) {
+function getQuery(_location, cursor) {
+    var location = "";
+    _location.forEach(s=>{
+      location+=`location:${s} `
+    })
     if (!cursor) {
         return { query: `query {
-            search(type: USER, query:"location:${location} sort:followers-desc", first:${5}) {
+            search(type: USER, query:"${location} sort:followers-desc", first:${5}) {
               edges {
                 node {
                   __typename
@@ -46,7 +50,7 @@ function getQuery(location, cursor) {
           }`};
     } else {
         return { query: `query {
-            search(type: USER, query:"location:${location} sort:followers-desc", first:${10}, after:"${cursor}") {
+            search(type: USER, query:"${location} sort:followers-desc", first:${10}, after:"${cursor}") {
               edges {
                 node {
                   __typename
