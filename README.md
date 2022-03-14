@@ -14,6 +14,7 @@ See your countries leaderboard for most GitHub commits!
 |[Italy](output/italy.md)|
 |[Greece](output/greece.md)|
 |[Afghanistan](output/afghanistan.md)|
+|[Germany](output/germany.md)|
 
 ## 🤔 Why am I not here?
 

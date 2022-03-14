@@ -79,9 +79,9 @@ let request = async function (location, AUTH_KEY, cursor) {
     const graphqlWithAuth = graphql.defaults(getHeader(AUTH_KEY));
     const resp = graphqlWithAuth(getQuery(location, cursor))
     resp.catch(async error=>{
-        console.log("Error: "+error)
+        // console.log("Error: "+error)
         await sleep(1000*5)
-        console.log("Continuing")
+        console.log("Continuing...")
         return
     })
     return resp
