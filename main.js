@@ -11,7 +11,6 @@ console.log(`Starting with country ${country}`)
 
 getCountryList(country, seconds_to_grab_data, process.argv[2])
     .then(list=>{
-        console.log(list.list)
         var lowest_follower_amount = 100*100;
         list.list.forEach(s=>{
             if (s.followers.totalCount < lowest_follower_amount) {lowest_follower_amount = s.followers.totalCount};
