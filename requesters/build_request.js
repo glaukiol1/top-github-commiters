@@ -23,8 +23,6 @@ function getQuery(_location, cursor) {
                     avatarUrl(size: 72),
                     name,
                     location,
-                    company,
-                    twitterUsername,
                     followers {
                       totalCount
                     }
@@ -59,8 +57,6 @@ function getQuery(_location, cursor) {
                     avatarUrl(size: 72),
                     name,
                     location,
-                    company,
-                    twitterUsername,
                     followers {
                       totalCount
                     }
