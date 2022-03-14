@@ -14,9 +14,20 @@ See your countries leaderboard for most GitHub commits!
 
 One of the reasons might be that you dont have your country in your `location` part of your GitHub profile. Another might be that the list might not be updated to the latest time, to update it, look futher down this document.
 
+
+## 👽 I dont have enough followers, how can I fix this?
+
+You can do the same steps for adding a country; but just leaving the script to run for a longer time; or you can create a issue, I will update the list for you.
+
+## 🚨 How do I update one of the lists?
+
+You can follow the steps to add a new country; it is simple to run the script, and push your changes. You can always open a issue and I will update it for you.
+
 ## 📕 How do I add my country?
 
-Its simple to add a country;
+You can either follow the steps below to add it yourself; or just open a Issue, I will get that country up in a few hours!
+
+Do it yourself;
 
 - Fork this repo.
 - Clone it locally.
