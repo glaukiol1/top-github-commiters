@@ -28,7 +28,8 @@ class List {
 }
 
 const list = new List()
-async function getCountryList(country, amount, authkey) {
+async function getCountryList(country, seconds, authkey) {
+    const start_time = Date.now();
     var current_cursor;
     var done = false;
     while (!done) {
@@ -37,12 +38,12 @@ async function getCountryList(country, amount, authkey) {
                 dat.search.edges.forEach(s => {
                     if (s.node["__typename"]==="User") {
                         var spaces = 100-`${country}: {${s.node.login}}`.length
-                        console.log(`${country}: {${s.node.login}}${" ".repeat(spaces)}${s.node.followers.totalCount}`)
+                        console.log(`${country}: {${s.node.login}}${" ".repeat(spaces)}${s.node.followers.totalCount} | Second: ${Math.ceil( (Date.now()-start_time)/1000 )}/${seconds}`)
                         list.add(s.node) 
                     }
                     
                 })
-                if (amount != -1 && list.list.length >= amount) {
+                if ( seconds !== -1 && (Date.now() - start_time)/1000 >= seconds) {
                     done = true
                 }
                 if (dat.search.pageInfo.hasNextPage) {
