@@ -78,4 +78,6 @@ async function main() {
     }
 }
 
-main()
+// main()
+
+pushChanges("albania")
