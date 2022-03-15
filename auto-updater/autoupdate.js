@@ -69,6 +69,7 @@ const run = async (country) => {
             list.list.forEach(s=>{
                 if (s.followers.totalCount < lowest_follower_amount) {lowest_follower_amount = s.followers.totalCount};
             })
+            pushChanges("-")
             writeToFile(makeMarkdown(list.list,country,lowest_follower_amount), country)
             console.log(`Done with country ${country}, please check if the corresponding file at output/${country}.md has been updated`)
             resolve()
@@ -93,7 +94,6 @@ const writeToFile = (data,country) => {
 async function main() {
     for (const country of countries) {
         await run(country)
-        // pushChanges(country)
     }
 }
 
