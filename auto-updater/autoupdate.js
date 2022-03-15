@@ -63,7 +63,7 @@ const run = async (country) => {
     return new Promise(async(resolve,reject)=> {
         console.log(`Starting with country ${country}; waiting 5 seconds before start...\n\n\n`)
         await sleep(5000)
-        await getCountryList(country, -1, process.argv[2])
+        await getCountryList(country, 5, process.argv[2])
         .then(list=>{
             var lowest_follower_amount = 100*100;
             list.list.forEach(s=>{
@@ -97,5 +97,4 @@ async function main() {
     }
 }
 
-// main()
-pushChanges("albania")
+main()
