@@ -16,7 +16,8 @@ const countries = [
     ["andorra", "andorra-la-vella", "santa-coloma", "la-margineda", "engolasters"],
     ["angola","luanda","cabinda","huambo","lubango","kuito","malanje","lobito,benguela"],
     ["argentina"],
-    ["addis+ababa", "ethiopia"]
+    ["addis+ababa", "ethiopia"],
+    ["azerbaijan"]
 ]
 
 const { exec } = require('child_process');
