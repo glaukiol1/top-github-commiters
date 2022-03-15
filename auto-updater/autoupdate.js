@@ -1,0 +1,20 @@
+const countries = [
+    ["albania"],
+    ["kosovo"],
+    ["macedonia"],
+    ["india"],
+    ["canada"],
+    ["ukraine"],
+    ["usa","united+states","united+states+of+america","america"],
+    ["italy"],
+    ["greece"],
+    ["afghanistan"],
+    ["germany"],
+    ["netherlands"],
+    ["france"],
+    ["algeria"],
+    ["andorra", "andorra-la-vella", "santa-coloma", "la-margineda", "engolasters"],
+    ["angola","luanda","cabinda","huambo","lubango","kuito","malanje","lobito,benguela"],
+    ["argentina"],
+    ["addis+ababa", "ethiopia"]
+]
