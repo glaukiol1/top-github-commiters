@@ -23,6 +23,7 @@ See your countries leaderboard for most GitHub commits!
 |[Argentina](output/argentina.md)|
 |[Ethiopia](output/addis+ababa,ethiopia.md)|
 |[Azerbaijan](output/azerbaijan.md)|
+|[Bulgaria](output/sofia,bulgaria.md)|
 
 ## 🤔 Why am I not here?
 
