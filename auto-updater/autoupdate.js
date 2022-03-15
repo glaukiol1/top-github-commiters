@@ -37,23 +37,17 @@ function sleep(ms) {
 
 function pushChanges(country) {
     return new Promise((resolve,reject)=>{
-        exec("git add /Users/glaukiollupo/Projects/top-github-commiters").on('exit', (code)=>{
-            if (code != 0) {
-                reject()
-            }
-            exec(`git commit -m "update ${country} | autoupdate"`).on('exit', (code)=>{
-                if (code != 0) {
-                    reject()
-                }
-                exec("git push").on('exit',(code)=>{
-                    if (code != 0) {
-                        reject()
-                    } else {
-                        resolve()
-                    }
-                })
-            })
-    })
+        const d = exec("sh /Users/glaukiollupo/Projects/top-github-commiters/auto-updater/push.sh")
+        d.stdout.on('data', (dat)=>{
+            console.log(dat)
+        })
+        d.stderr.on('data', (dat)=>{
+            console.error(dat)
+        })
+        d.on('exit', (code) => {
+            if (code == 0) {resolve()}
+            else {reject()}
+        })
     })
     
     
@@ -61,8 +55,7 @@ function pushChanges(country) {
 
 const run = async (country) => {
     return new Promise(async(resolve,reject)=> {
-        console.log(`Starting with country ${country}; waiting 5 seconds before start...\n\n\n`)
-        await sleep(5000)
+        console.log(`Starting with country ${country}\n\n\n`)
         await getCountryList(country, -1, process.argv[2])
         .then(async list=>{
             var lowest_follower_amount = 100*100;
@@ -92,8 +85,14 @@ const writeToFile = (data,country) => {
 }
 
 async function main() {
+    var i = 0;
     for (const country of countries) {
+        if (i!=0) {
+            console.log("Waiting 30 seconds before start... (due to ratelimit)")
+            await sleep(30000)
+        }
         await run(country)
+        i=i+1
     }
 }
 
