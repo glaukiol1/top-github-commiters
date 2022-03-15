@@ -30,6 +30,11 @@ function sleep(ms) {
     });
 }
 
+function pushChanges() {
+    exec("git add .")
+    exec(`git commit -m "this is a test by autoupdate.js"`)
+    exec("git push")
+}
 
 const run = async (country) => {
     return new Promise(async(resolve,reject)=> {
@@ -42,6 +47,7 @@ const run = async (country) => {
                 if (s.followers.totalCount < lowest_follower_amount) {lowest_follower_amount = s.followers.totalCount};
             })
             writeToFile(makeMarkdown(list.list,country,lowest_follower_amount), country)
+            pushChanges()
             console.log(`Done with country ${country}, please check if the corresponding file at output/${country}.md has been updated`)
             resolve()
         })
@@ -68,7 +74,4 @@ async function main() {
     }
 }
 
-// main()
-exec("git add .")
-exec(`git commit -m "this is a test by autoupdate.js"`)
-exec("git push")
+main()
