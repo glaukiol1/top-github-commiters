@@ -20,6 +20,7 @@ See your countries leaderboard for most GitHub commits!
 |[Algeria](output/algeria.md)|
 |[Andorra](output/andorra,andorra-la-vella,santa-coloma,la-margineda,engolasters.md)|
 |[Angola](output/angola,luanda,cabinda,huambo,lubango,kuito,malanje,lobito,benguela.md)|
+|[Argentina](output/argentina.md)|
 
 ## 🤔 Why am I not here?
 
