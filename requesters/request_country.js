@@ -27,8 +27,8 @@ class List {
     }
 }
 
-const list = new List()
 async function getCountryList(country, seconds, authkey) {
+    const list = new List()
     const start_time = Date.now();
     var current_cursor;
     var done = false;
