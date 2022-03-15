@@ -36,9 +36,27 @@ function sleep(ms) {
 }
 
 function pushChanges(country) {
-    exec("git add /Users/glaukiollupo/Projects/top-github-commiters") // change this to your path
-    exec(`git commit -m "update ${country} | autoupdate"`)
-    exec("git push")
+    return new Promise((resolve,reject)=>{
+        exec("git add /Users/glaukiollupo/Projects/top-github-commiters").on('exit', (code)=>{
+            if (code != 0) {
+                reject()
+            }
+            exec(`git commit -m "update ${country} | autoupdate"`).on('exit', (code)=>{
+                if (code != 0) {
+                    reject()
+                }
+                exec("git push").on((code)=>{
+                    if (code != 0) {
+                        reject()
+                    } else {
+                        resolve()
+                    }
+                })
+            })
+    })
+    })
+    
+    
 }
 
 const run = async (country) => {
@@ -46,12 +64,12 @@ const run = async (country) => {
         console.log(`Starting with country ${country}; waiting 5 seconds before start...\n\n\n`)
         await sleep(5000)
         await getCountryList(country, -1, process.argv[2])
-        .then(list=>{
+        .then(async list=>{
             var lowest_follower_amount = 100*100;
             list.list.forEach(s=>{
                 if (s.followers.totalCount < lowest_follower_amount) {lowest_follower_amount = s.followers.totalCount};
             })
-            pushChanges("-")
+            await pushChanges(country)
             writeToFile(makeMarkdown(list.list,country,lowest_follower_amount), country)
             console.log(`Done with country ${country}, please check if the corresponding file at output/${country}.md has been updated`)
             resolve()
