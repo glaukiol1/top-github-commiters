@@ -1,7 +1,7 @@
 const countries = [
-    ["albania"],
-    ["kosovo"],
-    ["macedonia"],
+    // ["albania"],
+    // ["kosovo"],
+    // ["macedonia"],
     ["india"],
     ["canada"],
     ["ukraine"],
@@ -37,7 +37,7 @@ function sleep(ms) {
 
 function pushChanges(country) {
     return new Promise((resolve,reject)=>{
-        const d = exec("sh /Users/glaukiollupo/Projects/top-github-commiters/auto-updater/push.sh")
+        const d = exec("sh /Users/glaukiollupo/Projects/top-github-commiters/auto-updater/push.sh "+country)
         d.stdout.on('data', (dat)=>{
             console.log(dat)
         })
