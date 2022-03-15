@@ -36,7 +36,9 @@ function sleep(ms) {
 }
 
 function pushChanges(country) {
-    exec("git add /Users/glaukiollupo/Projects/top-github-commiters")
+    exec("git add /Users/glaukiollupo/Projects/top-github-commiters") // change this to your path
+    exec(`git commit -m "update ${country} | autoupdate"`)
+    exec("git push")
 }
 
 const run = async (country) => {

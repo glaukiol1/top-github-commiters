@@ -38,7 +38,7 @@ You can do the same steps for adding a country; but just leaving the script to r
 
 You can follow the steps to add a new country; it is simple to run the script, and push your changes. You can always open a issue and I will update it for you.
 
-If you're feeling generous; you can run `./auto-updater/autoupdate.js`. This script will update all the lists, it will benefit everyone! You run it like this: `node ./auto-updater/autoupdate.js token`; where `token` is your GitHub personal access token.
+If you're feeling generous; you can run `./auto-updater/autoupdate.js`. This script will update all the lists, it will benefit everyone! You run it like this: `node ./auto-updater/autoupdate.js token`; where `token` is your GitHub personal access token. Change the line in `pushChanges` in `autoupdate.js` from `exec("git add /Users/glaukiollupo/Projects/top-github-commiters") // change this to your path` to whatever the path to your local project is.
 
 ## 📕 How do I add my country/area?
 
