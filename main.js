@@ -8,7 +8,7 @@ const seconds_to_grab_data = parseInt(process.argv[3]) || -1; // change this to 
 // i recommend upping this more if your are in a very big country; something between 10-30 mintues; if you are in a very small country; set it to -1; where it will get all the users.
 
 if (process.argv[4]) {
-    country = [process.argv[4]]
+    country = process.argv[4].split(',')
 }
 
 console.log(`Starting with time: ${seconds_to_grab_data} & country: ${country}`)

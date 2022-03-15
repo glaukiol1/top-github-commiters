@@ -1,7 +1,7 @@
 const countries = [
-    // ["albania"],
-    // ["kosovo"],
-    // ["macedonia"],
+    ["albania"],
+    ["kosovo"],
+    ["macedonia"],
     ["india"],
     ["canada"],
     ["ukraine"],
@@ -27,7 +27,6 @@ const fs = require('fs');
 const path = require('path');
 const makeMarkdown = require('../markdown');
 const getCountryList = require('../requesters/request_country');
-const simpleGitPromise = require('simple-git');
 
 function sleep(ms) {
     return new Promise((resolve) => {
@@ -56,32 +55,24 @@ function pushChanges(country) {
 const run = async (country) => {
     return new Promise(async(resolve,reject)=> {
         console.log(`Starting with country ${country}\n\n\n`)
-        await getCountryList(country, -1, process.argv[2])
-        .then(async list=>{
-            var lowest_follower_amount = 100*100;
-            list.list.forEach(s=>{
-                if (s.followers.totalCount < lowest_follower_amount) {lowest_follower_amount = s.followers.totalCount};
-            })
-            writeToFile(makeMarkdown(list.list,country,lowest_follower_amount), country)
-            await pushChanges(country)
-            console.log(`Done with country ${country}, please check if the corresponding file at output/${country}.md has been updated`)
-            resolve()
+        
+        const n = exec(`node /Users/glaukiollupo/Projects/top-github-commiters/main.js ${process.argv[2]} -1 ${country}`)
+
+        n.stdout.on('data', (d)=>{console.log(d)})
+        n.stderr.on('data', (d)=>{console.log(d)})
+
+        n.on('exit', async (code)=>{
+            if (code == 0) {
+                await pushChanges(country)
+                console.log('Done!')
+                resolve()
+            } else {
+                reject("Non-0 status code")
+            }
         })
-        .catch(error => {
-            console.error("Promise Error: "+error)
-            reject(error)
-        })
+
     })
     
-}
-
-
-const writeToFile = (data,country) => {
-    try {
-        fs.writeFileSync(path.join(__dirname, `./output/${country}.md`), data, {encoding: 'utf-8'})
-    } catch (error) {
-        fs.writeFileSync(path.join(__dirname, `../output/${country}.md`), data, {encoding: 'utf-8'})
-    }
 }
 
 async function main() {
