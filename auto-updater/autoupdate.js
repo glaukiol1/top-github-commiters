@@ -30,9 +30,9 @@ function sleep(ms) {
     });
 }
 
-function pushChanges() {
+function pushChanges(country) {
     exec("git add .")
-    exec(`git commit -m "this is a test by autoupdate.js"`)
+    exec(`git commit -m "Update ${country} | autoupdate.js"`)
     exec("git push")
 }
 
