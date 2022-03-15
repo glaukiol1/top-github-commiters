@@ -17,7 +17,8 @@ const countries = [
     ["angola","luanda","cabinda","huambo","lubango","kuito","malanje","lobito,benguela"],
     ["argentina"],
     ["addis+ababa", "ethiopia"],
-    ["azerbaijan"]
+    ["azerbaijan"],
+    ["sofia,bulgaria"]
 ]
 
 const { exec } = require('child_process');
