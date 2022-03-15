@@ -45,7 +45,7 @@ function pushChanges(country) {
                 if (code != 0) {
                     reject()
                 }
-                exec("git push").on((code)=>{
+                exec("git push").on('exit',(code)=>{
                     if (code != 0) {
                         reject()
                     } else {
