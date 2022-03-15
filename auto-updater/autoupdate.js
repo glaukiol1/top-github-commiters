@@ -27,7 +27,7 @@ const fs = require('fs');
 const path = require('path');
 const makeMarkdown = require('../markdown');
 const getCountryList = require('../requesters/request_country');
-const simpleGitPromise = require('simple-git/promise')();
+const simpleGitPromise = require('simple-git');
 
 function sleep(ms) {
     return new Promise((resolve) => {
@@ -36,21 +36,22 @@ function sleep(ms) {
 }
 
 function pushChanges(country) {
-        simpleGitPromise.add('.')
+    const c = simpleGitPromise.default(".")
+        c.add('.')
         .then(
         (addSuccess) => {
             console.log(addSuccess);
         }, (failedAdd) => {
             console.log('adding files failed');
         });
-    simpleGitPromise.commit(`Update ${country} | autoupdate.js`)
+    c.commit(`Update ${country} | autoupdate.js`)
     .then(
         (successCommit) => {
             console.log(successCommit);
         }, (failed) => {
-            console.log('failed commmit');
+            console.log('failed commmit'+failed);
     });
-    simpleGitPromise.push('origin','main')
+    c.push('origin','main')
         .then((success) => {
         console.log('repo successfully pushed');
         },(failed)=> {
@@ -92,8 +93,9 @@ const writeToFile = (data,country) => {
 async function main() {
     for (const country of countries) {
         await run(country)
-        pushChanges(country)
+        // pushChanges(country)
     }
 }
 
-main()
+// main()
+pushChanges("albania")
