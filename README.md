@@ -49,7 +49,6 @@ Do it yourself;
 - Clone it locally.
 - Edit `main.js`; change the country (make sure its all lower case, change spaces with + character), also make sure its a array;
 - Change the `seconds_to_grab_data` variable in `main.js` with how many seconds you would like to grab data for; you can see the comments in that line to get an idea of how many minutes you want to set this to.
-- CREATE THE FILE FIRST!!! You will lose the data you got if you dont create the file first. The file must be named the same as the `country` variable in `main.js`. Example `output/country.md`.
 - Create a access token.
 - Run the script with the access token as a command line option; Example; `node main.js ghp_9uhjpIgozqmbuM5M1b***********`, you can also add another command line option; time to run the script for (in seconds); Example: `node main.js ghp_9uhjpIgozqmbuM5M1b*********** 600`.
 - Wait until the script finishes, you will see the names and how many followers you are on right now in the command line.
