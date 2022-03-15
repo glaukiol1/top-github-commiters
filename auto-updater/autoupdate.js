@@ -25,6 +25,7 @@ const countries = [
 const { exec } = require('child_process');
 const fs = require('fs');
 const path = require('path');
+const makeMarkdown = require('../markdown');
 const getCountryList = require('../requesters/request_country');
 
 function sleep(ms) {
