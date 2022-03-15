@@ -1,14 +1,14 @@
 
 # Ranking for albania
 
-You need at least `0` followers to be on this list. This list was last updated at `Tue Mar 15 2022 16:26:40 GMT+0100 (Central European Standard Time)` with a total amount of users at `920`
+You need at least `0` followers to be on this list. This list was last updated at `Tue Mar 15 2022 16:32:22 GMT+0100 (Central European Standard Time)` with a total amount of users at `922`
 
 Raking is based on Contributions.
 
 | Rank | Name | Followers | Contribs | Avatar |
 |-------|-------|--------|---------|----------|
-| #1 | Emanuel Gjini | 5 | 8856 | ![](https://avatars.githubusercontent.com/u/28897985?s=72&u=3b3b0b12020e5778b6a19ee151e8de8c76cf4bf0&v=4)|
-| #2 | Glaukio | 5 | 6251 | ![](https://avatars.githubusercontent.com/u/70211498?s=72&u=afa4c430beb78b96a03afe6df570f1f62fe514c1&v=4)|
+| #1 | Emanuel Gjini | 5 | 8857 | ![](https://avatars.githubusercontent.com/u/28897985?s=72&u=3b3b0b12020e5778b6a19ee151e8de8c76cf4bf0&v=4)|
+| #2 | Glaukio | 5 | 6253 | ![](https://avatars.githubusercontent.com/u/70211498?s=72&u=afa4c430beb78b96a03afe6df570f1f62fe514c1&v=4)|
 | #3 | Erjon Gjino | 1 | 4149 | ![](https://avatars.githubusercontent.com/u/92048933?s=72&v=4)|
 | #4 | Roland Doda | 41 | 3854 | ![](https://avatars.githubusercontent.com/u/18482346?s=72&u=9edc330c7815a52c4438ba9827af194dde186bff&v=4)|
 | #5 | Dorian Rina | 1 | 3242 | ![](https://avatars.githubusercontent.com/u/68124788?s=72&u=37dce40fcf17ddbf928c68682ecc353cb69faa44&v=4)|
@@ -30,340 +30,340 @@ Raking is based on Contributions.
 | #21 | Flamur Deliu | 4 | 1303 | ![](https://avatars.githubusercontent.com/u/43107323?s=72&v=4)|
 | #22 | Gjergji Ramku | 4 | 1266 | ![](https://avatars.githubusercontent.com/u/6172287?s=72&u=e63aaa6339314f7fee78d1012e55d010e7a29320&v=4)|
 | #23 | Edmond Cukalla | 9 | 1228 | ![](https://avatars.githubusercontent.com/u/775064?s=72&u=5b5dd00f7bb7cc82742dcecd1d1a477e1224acc1&v=4)|
-| #24 | Aleksander Nasto | 0 | 1209 | ![](https://avatars.githubusercontent.com/u/80337529?s=72&u=e3c75b45dd181739c562c145372698ec1f276b71&v=4)|
-| #25 | Aleksander Nasto | 0 | 1209 | ![](https://avatars.githubusercontent.com/u/80337529?s=72&u=e3c75b45dd181739c562c145372698ec1f276b71&v=4)|
-| #26 | Shpetim Shala | 7 | 1171 | ![](https://avatars.githubusercontent.com/u/6706681?s=72&u=db81b1c3a4c0b5569c5f63674e9ad7a13c0e79f6&v=4)|
-| #27 | Redjan Ymeraj | 34 | 1169 | ![](https://avatars.githubusercontent.com/u/15679866?s=72&u=f5a9d9050d7e9b0f8fa8ffd04bffacfc0642d90a&v=4)|
-| #28 | Erand Laci | 1 | 1150 | ![](https://avatars.githubusercontent.com/u/12892121?s=72&u=4e6dd5f5a5a29a78f9357d09b7c4069c8f806a25&v=4)|
-| #29 | Klement Omeri | 11 | 1135 | ![](https://avatars.githubusercontent.com/u/44920963?s=72&u=f294f2bc8c5aab7dbea0465a66f76546be197a3c&v=4)|
-| #30 | Arbiona | 11 | 1131 | ![](https://avatars.githubusercontent.com/u/63557021?s=72&u=f86b6d199620f7d534af5eb9c691a24a40b322d2&v=4)|
-| #31 | Enea Dede | 5 | 1021 | ![](https://avatars.githubusercontent.com/u/32363946?s=72&u=edd6ea1068b232699a486665939ad6c5cbf28a80&v=4)|
-| #32 | Marsel Beqiri | 4 | 1013 | ![](https://avatars.githubusercontent.com/u/53948154?s=72&u=46e36553e2965dd0d9f6b0deb536791cde0d073d&v=4)|
-| #33 | Amarildo Gjeçaj | 10 | 883 | ![](https://avatars.githubusercontent.com/u/34867366?s=72&u=570814e30f05367f41f38cafc0a55b062e32423b&v=4)|
-| #34 | Belisar Hoxholli | 3 | 832 | ![](https://avatars.githubusercontent.com/u/11684453?s=72&u=d39d4c6ffcd7553e9a2929d5e68b96665ddc71f9&v=4)|
-| #35 | Anxhelo Lushka | 98 | 832 | ![](https://avatars.githubusercontent.com/u/25004151?s=72&u=7df02207550901c767e2392f455c988f56678866&v=4)|
-| #36 | Samuel Bushi | 8 | 828 | ![](https://avatars.githubusercontent.com/u/43500751?s=72&u=0819206426bc95226ede5162ddfd4a91a38c758d&v=4)|
-| #37 | Mateo Malaj | 8 | 817 | ![](https://avatars.githubusercontent.com/u/68548704?s=72&v=4)|
-| #38 | Frencis | 4 | 816 | ![](https://avatars.githubusercontent.com/u/40387295?s=72&u=90a361b2a645b24e8eacf0f7a75ee3e02106fb38&v=4)|
-| #39 | Mariglen Pupa | 5 | 784 | ![](https://avatars.githubusercontent.com/u/62464064?s=72&u=6fa1a0e1dbfc8830c159453a16274783c3d0685d&v=4)|
-| #40 | Elitjon Metaliaj | 0 | 783 | ![](https://avatars.githubusercontent.com/u/76097212?s=72&u=5bf7d0a52bf343612963bf9a5ddcf7634954d8b5&v=4)|
-| #41 | Klejvi Kapaj | 49 | 780 | ![](https://avatars.githubusercontent.com/u/40796367?s=72&u=4ee83ccbe0e67b93400bce0e34323c5875e15f61&v=4)|
-| #42 | Joana Karanxha | 11 | 742 | ![](https://avatars.githubusercontent.com/u/35038616?s=72&v=4)|
-| #43 | Kristi | 27 | 732 | ![](https://avatars.githubusercontent.com/u/65773022?s=72&u=1928dd8dbcea17329dea1241d7aa11e7346f837a&v=4)|
-| #44 | null | 1 | 724 | ![](https://avatars.githubusercontent.com/u/76097257?s=72&u=6407fa699851635d8a7cceab200df612d166d606&v=4)|
-| #45 | Saimir Baraj | 0 | 714 | ![](https://avatars.githubusercontent.com/u/84786341?s=72&u=454f2d211816daf4b9915d2792287c38deb2efc0&v=4)|
-| #46 | Dashamir Hoxha | 53 | 711 | ![](https://avatars.githubusercontent.com/u/1495805?s=72&v=4)|
-| #47 | Algert Shevroja | 0 | 683 | ![](https://avatars.githubusercontent.com/u/91168326?s=72&u=f3cd0770fb45dd5264155ce2e261f68456ed6adf&v=4)|
-| #48 | Klevis Cipi | 5 | 665 | ![](https://avatars.githubusercontent.com/u/14005403?s=72&u=fc1ed7bb507c2980dce61f833d57b1ec0c085c06&v=4)|
-| #49 | Redi Kurti | 0 | 648 | ![](https://avatars.githubusercontent.com/u/23387332?s=72&u=19949939445b5589746d5180c4bc06836abbc435&v=4)|
-| #50 | Dionis Senja | 3 | 646 | ![](https://avatars.githubusercontent.com/u/73392670?s=72&u=3f0d424c1c321d2803b4477d5c449df899c399de&v=4)|
-| #51 | Endrit Novaku | 1 | 645 | ![](https://avatars.githubusercontent.com/u/62180779?s=72&v=4)|
-| #52 | Eris Adhami | 5 | 608 | ![](https://avatars.githubusercontent.com/u/45641379?s=72&v=4)|
-| #53 | Brendon Leçka | 1 | 558 | ![](https://avatars.githubusercontent.com/u/16626628?s=72&v=4)|
-| #54 | Oerd Cukalla | 22 | 546 | ![](https://avatars.githubusercontent.com/u/56891?s=72&v=4)|
-| #55 | おるげす | 21 | 537 | ![](https://avatars.githubusercontent.com/u/23742757?s=72&u=96dd3362862d1aebafdf7a3f58b7123f4f3feec8&v=4)|
-| #56 | Klevis Ndoka | 6 | 531 | ![](https://avatars.githubusercontent.com/u/3813023?s=72&v=4)|
-| #57 | Ernisa Sulillari | 0 | 502 | ![](https://avatars.githubusercontent.com/u/85611971?s=72&u=787d336248dbeaaec2204de76bd88921a72798aa&v=4)|
-| #58 | Endrit Gjeta | 1 | 499 | ![](https://avatars.githubusercontent.com/u/13084540?s=72&v=4)|
-| #59 | Rushan Xhaja | 16 | 498 | ![](https://avatars.githubusercontent.com/u/3965508?s=72&v=4)|
-| #60 | Edvin | 3 | 488 | ![](https://avatars.githubusercontent.com/u/1382291?s=72&v=4)|
-| #61 | Qemal | 3 | 476 | ![](https://avatars.githubusercontent.com/u/36800086?s=72&v=4)|
-| #62 | Alban Afmeti | 17 | 468 | ![](https://avatars.githubusercontent.com/u/11160896?s=72&u=a6fc86d6447ab198d69dc4eacfb0c9bd582d02c7&v=4)|
-| #63 | Albdroid.AL | 44 | 462 | ![](https://avatars.githubusercontent.com/u/60861585?s=72&u=b6f1aa1382c67ce06dff922c4896c8950be34ece&v=4)|
-| #64 | null | 2 | 456 | ![](https://avatars.githubusercontent.com/u/77469839?s=72&v=4)|
-| #65 | Julian Çuni | 2 | 443 | ![](https://avatars.githubusercontent.com/u/8204040?s=72&u=d68da1bc2b70d417caca647e4be1d498be3cb4d4&v=4)|
-| #66 | Joan Kabello | 4 | 442 | ![](https://avatars.githubusercontent.com/u/38832279?s=72&u=5ec2d1066e29748c9fc1b433038f488e646734db&v=4)|
-| #67 | Qinx | 16 | 432 | ![](https://avatars.githubusercontent.com/u/17144939?s=72&v=4)|
-| #68 | null | 9 | 425 | ![](https://avatars.githubusercontent.com/u/48594621?s=72&u=6f707462c0e46c64e7601890c44dd6255c91bfe8&v=4)|
-| #69 | Emirjeta V | 23 | 423 | ![](https://avatars.githubusercontent.com/u/88782702?s=72&u=8bad381c0ffe30bcff5616a888184605476a25b4&v=4)|
-| #70 | Erlis Dhima | 12 | 422 | ![](https://avatars.githubusercontent.com/u/7734108?s=72&u=9edd2680773075bfbbe6bdc8803feeeb09e1a0f6&v=4)|
-| #71 | Florian Nika | 1 | 417 | ![](https://avatars.githubusercontent.com/u/7765263?s=72&u=c221e2f0b9e7cb72e50dd19bc78e3deebd01cade&v=4)|
-| #72 | Joni Baboci | 1 | 410 | ![](https://avatars.githubusercontent.com/u/2484152?s=72&u=10b75e8923d6424dd0a9851617f1337782a4e14c&v=4)|
-| #73 | Jozi Bashaj | 3 | 410 | ![](https://avatars.githubusercontent.com/u/21162347?s=72&u=59141703410d43f3f14b3765892cddfd30500214&v=4)|
-| #74 | Çlirim Furriku | 6 | 402 | ![](https://avatars.githubusercontent.com/u/24798164?s=72&u=af7f25d3bd8f366811a55ac5e5f34be147b5adff&v=4)|
-| #75 | null | 2 | 397 | ![](https://avatars.githubusercontent.com/u/16976439?s=72&u=909b311a1179cfc776f7950c61d3e2217e9e44b8&v=4)|
-| #76 | Klajdi Zmalaj | 7 | 389 | ![](https://avatars.githubusercontent.com/u/32370399?s=72&u=aa2ce3d1f07cc2ef05715657abd09058c55928a3&v=4)|
-| #77 | Albina Peposhi | 48 | 378 | ![](https://avatars.githubusercontent.com/u/52979210?s=72&u=5d4dfa7d8cc505037cb9b71b309fc6ce029c1f08&v=4)|
-| #78 | Grainger | 4 | 377 | ![](https://avatars.githubusercontent.com/u/39377884?s=72&u=f90e339d076f470db5a8566eefe3bf2162d3fd1e&v=4)|
-| #79 | Klint | 13 | 364 | ![](https://avatars.githubusercontent.com/u/9338536?s=72&u=203cf1a8c21c20f8a33ed7c5c3847fc45fa1143d&v=4)|
-| #80 | Vjola Shtishi | 1 | 356 | ![](https://avatars.githubusercontent.com/u/62517004?s=72&u=c10df1fa081f9506ed9bd705a409c4926118cfd3&v=4)|
-| #81 | Mario Nebiaj | 12 | 353 | ![](https://avatars.githubusercontent.com/u/50882870?s=72&u=d20eaebee844d76f60d3fb66b038c6657ede87aa&v=4)|
-| #82 | Rei Bengu | 11 | 349 | ![](https://avatars.githubusercontent.com/u/4273878?s=72&u=c80f008ff223761026991efebf93225e05c495c4&v=4)|
-| #83 | Gjergji Dojce | 0 | 348 | ![](https://avatars.githubusercontent.com/u/44404641?s=72&u=73cbc00199286eb3309fb9dd228c91fa4407f1a9&v=4)|
-| #84 | Emil Kadilli | 1 | 335 | ![](https://avatars.githubusercontent.com/u/16655006?s=72&v=4)|
-| #85 | null | 14 | 335 | ![](https://avatars.githubusercontent.com/u/29661640?s=72&v=4)|
-| #86 | Rando Shtishi | 7 | 322 | ![](https://avatars.githubusercontent.com/u/42577665?s=72&u=d1c4d52226a5a08395021652ecb4fb6ad459fde3&v=4)|
-| #87 | Andri Reveli | 3 | 317 | ![](https://avatars.githubusercontent.com/u/54241930?s=72&u=864434f30876d5c56e937942d0a3e40678abe853&v=4)|
-| #88 | Gerti Ozuni | 5 | 311 | ![](https://avatars.githubusercontent.com/u/26062255?s=72&v=4)|
-| #89 | Anxhela Alushi | 5 | 310 | ![](https://avatars.githubusercontent.com/u/66495692?s=72&u=52f9d1e1001a5f634e95d342d41528259f52a79c&v=4)|
-| #90 | Gentjan Koliçaj | 1 | 289 | ![](https://avatars.githubusercontent.com/u/18643945?s=72&u=41b2d58a2ed0ca21a5dedc9f25cff60aba655141&v=4)|
-| #91 | Olken Merxira | 3 | 285 | ![](https://avatars.githubusercontent.com/u/40502479?s=72&u=9766c644816e693ecbf3098bbfb417d38b974442&v=4)|
-| #92 | Skerdi Berberi | 4 | 281 | ![](https://avatars.githubusercontent.com/u/44743904?s=72&u=885c06ce46156340e5d07349ab70944a6b3058d4&v=4)|
-| #93 | null | 10 | 276 | ![](https://avatars.githubusercontent.com/u/13197721?s=72&u=439ffdbf496766c2eb2200833050d62bd91d5b08&v=4)|
-| #94 | erjusstafa | 12 | 275 | ![](https://avatars.githubusercontent.com/u/74688301?s=72&v=4)|
-| #95 | Jon Jakova | 10 | 272 | ![](https://avatars.githubusercontent.com/u/50449118?s=72&v=4)|
-| #96 | Denis Ismailaj | 12 | 271 | ![](https://avatars.githubusercontent.com/u/20902736?s=72&u=8a638811801b1aec953a5153a6b13223ae65a292&v=4)|
-| #97 | null | 3 | 268 | ![](https://avatars.githubusercontent.com/u/51410696?s=72&u=6c64326b83508fb93b73ae9d72e42ee05a06cf76&v=4)|
-| #98 | Soni Lamkaj | 0 | 258 | ![](https://avatars.githubusercontent.com/u/7612859?s=72&u=3bbb1a9ace524bfbba8db06773054a51939ff5f4&v=4)|
-| #99 | Elton Memishaj | 9 | 248 | ![](https://avatars.githubusercontent.com/u/11498437?s=72&u=12baa054ca4a4a857ca9187c8d19102484f3bf30&v=4)|
-| #100 | Sadri | 2 | 241 | ![](https://avatars.githubusercontent.com/u/89244938?s=72&u=d7fb3f3cadb90225e864732c9bdd816c67ba9141&v=4)|
-| #101 | Enea Jahollari | 40 | 236 | ![](https://avatars.githubusercontent.com/u/25394362?s=72&u=85a8502a531b6b9c71683baef3018f59919b9c8b&v=4)|
-| #102 | Edison Neza | 6 | 233 | ![](https://avatars.githubusercontent.com/u/21251453?s=72&u=01b85152a84b5c283b1ee03072ee80b25a5ad357&v=4)|
-| #103 | Devis | 0 | 231 | ![](https://avatars.githubusercontent.com/u/37449357?s=72&u=8d2800fb06475a2c59d06f317aef1fac7c62ed53&v=4)|
-| #104 | Arber Gjonaj | 2 | 230 | ![](https://avatars.githubusercontent.com/u/71523972?s=72&v=4)|
-| #105 | Arber Gjonaj | 2 | 230 | ![](https://avatars.githubusercontent.com/u/71523972?s=72&v=4)|
-| #106 | Ergis Mullai | 2 | 230 | ![](https://avatars.githubusercontent.com/u/47216303?s=72&u=b3b76b03cfa49471acaee1cd08f4a5c08d0d0c4e&v=4)|
-| #107 | Enio Vrushi | 5 | 229 | ![](https://avatars.githubusercontent.com/u/38871050?s=72&u=f85b1f0c502089889ed931fe9a077e8f842b21b6&v=4)|
-| #108 | Aleksander | 3 | 217 | ![](https://avatars.githubusercontent.com/u/2512342?s=72&u=6613ba5b45c5cef851693406415da739c6283994&v=4)|
-| #109 | Besart Marku | 3 | 217 | ![](https://avatars.githubusercontent.com/u/34649952?s=72&u=9f9a05c482ebfcc3d27a7b4dc6fe9fdf48850ff5&v=4)|
-| #110 | Ergi | 0 | 216 | ![](https://avatars.githubusercontent.com/u/70513280?s=72&v=4)|
-| #111 | Algent Albrahimi | 5 | 213 | ![](https://avatars.githubusercontent.com/u/46356616?s=72&u=c488ce6f1089332191ca2e85c1d37ef7dd5488bb&v=4)|
-| #112 | Fabricio Pashaj | 4 | 203 | ![](https://avatars.githubusercontent.com/u/79104733?s=72&u=c66507b3e23ecde57fe2df0ab523ee3081b722c0&v=4)|
-| #113 | null | 2 | 198 | ![](https://avatars.githubusercontent.com/u/15004989?s=72&u=9c2a99544e2fb5aa3b1b008f13a4a9133ef1479e&v=4)|
-| #114 | Viola Ceni | 7 | 197 | ![](https://avatars.githubusercontent.com/u/34970974?s=72&u=451190fe5db70f70ce6ad5f350ecf6ddae176ef0&v=4)|
-| #115 | Ndricim Jaho | 0 | 196 | ![](https://avatars.githubusercontent.com/u/35450432?s=72&u=3e775273f77d4d8f795df6364d5f1526605316a0&v=4)|
-| #116 | null | 1 | 190 | ![](https://avatars.githubusercontent.com/u/44084291?s=72&u=0b43923024bdc650f4b7fee9ac527fe10fa7a9af&v=4)|
-| #117 | Rezart Durmishi | 2 | 190 | ![](https://avatars.githubusercontent.com/u/90687160?s=72&v=4)|
-| #118 | Lejdi Koci | 0 | 188 | ![](https://avatars.githubusercontent.com/u/76665911?s=72&v=4)|
-| #119 | Rexhino Kovaci | 0 | 186 | ![](https://avatars.githubusercontent.com/u/55946528?s=72&u=e9de3d84d08dfbb898b4131b7a655adee02c3f22&v=4)|
-| #120 | Ervis Hajdari | 0 | 183 | ![](https://avatars.githubusercontent.com/u/61877979?s=72&u=ddfffe0a063e3ade3d0e6fb90f5eac84223f40d0&v=4)|
-| #121 | Ermal | 0 | 183 | ![](https://avatars.githubusercontent.com/u/63654158?s=72&v=4)|
-| #122 | Redian Marku | 271 | 166 | ![](https://avatars.githubusercontent.com/u/42848358?s=72&u=d767bb9f46c873abc19dbce23da48ca4fa359dce&v=4)|
-| #123 | JonaHysaj | 1 | 165 | ![](https://avatars.githubusercontent.com/u/73343216?s=72&v=4)|
-| #124 | Nail | 2 | 163 | ![](https://avatars.githubusercontent.com/u/24881973?s=72&u=1b64b20509c54f6a644863e75e6bbec84cc409a2&v=4)|
-| #125 | Arbri çoçka | 2 | 159 | ![](https://avatars.githubusercontent.com/u/35626219?s=72&u=e480a0ec036e694eba02e45648a55e3b7bcb8117&v=4)|
-| #126 | Daniele Llazo | 5 | 157 | ![](https://avatars.githubusercontent.com/u/87183305?s=72&u=ced385754ccd7ce1808525e2caa05ad8d31e2855&v=4)|
-| #127 | Suljot Gjoka | 26 | 149 | ![](https://avatars.githubusercontent.com/u/58447776?s=72&u=f94d95cbe6924ab6f5541efd3103ba89714e295b&v=4)|
-| #128 | Rinald | 0 | 148 | ![](https://avatars.githubusercontent.com/u/92527147?s=72&u=9ac18e3f6c788ea2a76d04afe786a5bace50d45b&v=4)|
-| #129 | Alban Loku | 1 | 148 | ![](https://avatars.githubusercontent.com/u/71338813?s=72&u=b343ba08a87208deaf590d499c04f9a75b4a2b9d&v=4)|
-| #130 | Ebubeker | 0 | 147 | ![](https://avatars.githubusercontent.com/u/60944813?s=72&v=4)|
-| #131 | Edvin Hysenllari | 1 | 145 | ![](https://avatars.githubusercontent.com/u/24521547?s=72&u=7d4b8b64f0e077dd4d4256738d247ed23aef25fa&v=4)|
-| #132 | Gerald Haxhi | 3 | 145 | ![](https://avatars.githubusercontent.com/u/24575333?s=72&u=fad63f0bad930d3066fa2e7c9ab16e97d1b8a03c&v=4)|
-| #133 | Kostandin Vllahu | 1 | 141 | ![](https://avatars.githubusercontent.com/u/33177557?s=72&u=e553eb7c8d31485b485284f179429ec41cddc353&v=4)|
-| #134 | Besnik Nuro | 4 | 136 | ![](https://avatars.githubusercontent.com/u/40340401?s=72&u=a02db5f32d43e9634c3440ec3ded3d9c102ff631&v=4)|
-| #135 | Michael Shollaj | 1 | 133 | ![](https://avatars.githubusercontent.com/u/55102646?s=72&u=8681c4dc34b27978c64161b0cf116ebedeca7de2&v=4)|
-| #136 | Rigerta X | 3 | 133 | ![](https://avatars.githubusercontent.com/u/46707853?s=72&u=544c273ab29f54e61ba4128c53618c823f1c21f1&v=4)|
-| #137 | Arlind Hoxha | 5 | 133 | ![](https://avatars.githubusercontent.com/u/4660435?s=72&u=a8d430d7c31d9d011a9a679d3d8a729212b83e20&v=4)|
-| #138 | suelap | 13 | 131 | ![](https://avatars.githubusercontent.com/u/22301998?s=72&v=4)|
-| #139 | Armela | 6 | 129 | ![](https://avatars.githubusercontent.com/u/63402849?s=72&u=b61dcbe4b6880120c548eb3e24baa0c6b40ea89a&v=4)|
-| #140 | Kilton Pisli | 2 | 124 | ![](https://avatars.githubusercontent.com/u/59768393?s=72&u=5ddb985b966bf77dfca58f1075ed3f76fa7da5fe&v=4)|
-| #141 | Hideki Natsumi | 0 | 123 | ![](https://avatars.githubusercontent.com/u/96385473?s=72&u=666f0f39e0c7c1e0d2076d0b19895f64d1e8dfc8&v=4)|
-| #142 | KlementBinaj | 1 | 123 | ![](https://avatars.githubusercontent.com/u/19191469?s=72&u=affa53c0e42fba4a2cffd933aadda90e75358f31&v=4)|
-| #143 | Malfor Saja | 9 | 118 | ![](https://avatars.githubusercontent.com/u/20798247?s=72&u=3ed1166547abad87554347afd746335f7bbbfc89&v=4)|
-| #144 | Mariglen Doda | 5 | 117 | ![](https://avatars.githubusercontent.com/u/47455332?s=72&u=96fba58578a62b55a2c29abaef952f5ee1479ad5&v=4)|
-| #145 | Joel Tafilaj | 0 | 116 | ![](https://avatars.githubusercontent.com/u/81652217?s=72&u=13646747c3e1ac5d4a1e1cf400ca0a695c58be43&v=4)|
-| #146 | Florian | 35 | 111 | ![](https://avatars.githubusercontent.com/u/8291792?s=72&u=1040f27bef92d43097a6c574fa317f8f3f0491cb&v=4)|
-| #147 | null | 0 | 110 | ![](https://avatars.githubusercontent.com/u/61183170?s=72&u=79bd0b9cd120bdba7e7a3cce8f4e04e3037233e2&v=4)|
-| #148 | Gerald Nika | 1 | 109 | ![](https://avatars.githubusercontent.com/u/91494864?s=72&v=4)|
-| #149 | Orlando Malo | 5 | 109 | ![](https://avatars.githubusercontent.com/u/82452307?s=72&u=dee7fa78745d752cc9c2060a3f90f01a41f98155&v=4)|
-| #150 | Klendi Goci | 59 | 108 | ![](https://avatars.githubusercontent.com/u/20234738?s=72&u=99ae8d0ff1ec450ba7ca9a60a0ac3671546206a3&v=4)|
-| #151 | Rei Ikonomi | 0 | 107 | ![](https://avatars.githubusercontent.com/u/94234882?s=72&u=f656a679d17daa23eda4b56007623036f0d8fbbb&v=4)|
-| #152 | Arbis Malasi | 9 | 105 | ![](https://avatars.githubusercontent.com/u/58811995?s=72&u=223c667e3795022acdf82294e5fae129b7491a5e&v=4)|
-| #153 | Perparim Koci | 0 | 104 | ![](https://avatars.githubusercontent.com/u/40529057?s=72&u=b50fc4cbbd3ae33be4d8ec81f489f7a502267ed9&v=4)|
-| #154 | Geart Ferhati | 1 | 104 | ![](https://avatars.githubusercontent.com/u/55233184?s=72&u=fa45629877cac2840dc0c930cb8fe1ee4402c109&v=4)|
-| #155 | Ennio Sinanaj | 9 | 104 | ![](https://avatars.githubusercontent.com/u/46270371?s=72&v=4)|
-| #156 | ILIOS | 22 | 104 | ![](https://avatars.githubusercontent.com/u/9460646?s=72&u=605e0aa2fc8d39a1932597b5bd4fdc00405ad574&v=4)|
-| #157 | Argert Boja | 14 | 102 | ![](https://avatars.githubusercontent.com/u/17032718?s=72&u=96f912bd25babed553a10014d709e8d3a690ecd7&v=4)|
-| #158 | arsildo | 11 | 101 | ![](https://avatars.githubusercontent.com/u/51417052?s=72&u=4ce52b767ffa4eca2877fb039fe54949cdfcc4f7&v=4)|
-| #159 | Memi Allamani | 8 | 100 | ![](https://avatars.githubusercontent.com/u/15231960?s=72&v=4)|
-| #160 | Amarildo Bitri | 4 | 99 | ![](https://avatars.githubusercontent.com/u/32959281?s=72&u=1c4767922ec4d0667a6b104308463bff35227494&v=4)|
-| #161 | Samir Vllaço | 9 | 99 | ![](https://avatars.githubusercontent.com/u/62956581?s=72&u=83c85c0bbf5393033c8742ed151a294b55798120&v=4)|
-| #162 | Joan Janku | 70 | 99 | ![](https://avatars.githubusercontent.com/u/78973605?s=72&u=6f7c8d1dfce6248a250641574eaf832de991b3d0&v=4)|
-| #163 | Llazar Gjermeni | 0 | 96 | ![](https://avatars.githubusercontent.com/u/8567108?s=72&u=57bef92c106ebf1ed700eb5ac6416660b196b183&v=4)|
-| #164 | Ervin Kurushi | 7 | 96 | ![](https://avatars.githubusercontent.com/u/13509956?s=72&u=429d7f885627c284d9122aaf77f4acc10748e51d&v=4)|
-| #165 | Jurgen Gjonçari | 1 | 91 | ![](https://avatars.githubusercontent.com/u/14801240?s=72&u=2ca33b76d1faef77ddc13ae3cc17adff009546cc&v=4)|
-| #166 | null | 1 | 91 | ![](https://avatars.githubusercontent.com/u/44673003?s=72&u=9fb75823ed71f82ef7e44ed9edf1a59abbfc6c8e&v=4)|
-| #167 | null | 6 | 91 | ![](https://avatars.githubusercontent.com/u/58087674?s=72&u=f201b9e9f3709475368a75c89f106fc38f60fe08&v=4)|
-| #168 | vilson isaku | 5 | 87 | ![](https://avatars.githubusercontent.com/u/5845678?s=72&u=82548467a04f94597b70bed2b14678d015151672&v=4)|
-| #169 | null | 0 | 86 | ![](https://avatars.githubusercontent.com/u/51925377?s=72&v=4)|
-| #170 | Joel Bollo | 4 | 85 | ![](https://avatars.githubusercontent.com/u/34944311?s=72&u=ff27823291f4a397746eb62c81ae2845c459a2b6&v=4)|
-| #171 | Rinald Shabani | 4 | 85 | ![](https://avatars.githubusercontent.com/u/30338022?s=72&u=73aa53856ad44af0c7026c0fa3ca990883e99be2&v=4)|
-| #172 | Albi | 4 | 85 | ![](https://avatars.githubusercontent.com/u/53710410?s=72&v=4)|
-| #173 | null | 1 | 83 | ![](https://avatars.githubusercontent.com/u/45341025?s=72&u=a6ba5573fd1de056984e543f6af3fc3ccdeb820f&v=4)|
-| #174 | Ivi Berberi | 0 | 82 | ![](https://avatars.githubusercontent.com/u/41192491?s=72&v=4)|
-| #175 | null | 2 | 80 | ![](https://avatars.githubusercontent.com/u/43063926?s=72&u=283790017eb56de5199db9e5af6f8657ffa92b2e&v=4)|
-| #176 | Erges Mema | 1 | 78 | ![](https://avatars.githubusercontent.com/u/77251761?s=72&v=4)|
-| #177 | Rubin Elezi | 5 | 74 | ![](https://avatars.githubusercontent.com/u/57372143?s=72&u=6551c29f72805b485b6eeffe78d2b46f52dea2ec&v=4)|
-| #178 | Rigers | 2 | 73 | ![](https://avatars.githubusercontent.com/u/42070495?s=72&u=843372e65d9f7460ab55f7956fc64aaa9b272050&v=4)|
-| #179 | Arlindi | 5 | 71 | ![](https://avatars.githubusercontent.com/u/26505746?s=72&u=c04358f224cb22dee28de4bea063ad4dc53cadc1&v=4)|
-| #180 | Gabriel | 1 | 70 | ![](https://avatars.githubusercontent.com/u/17888328?s=72&u=9a422b8992bd9059db9bea3fefc6ba411d4e8fa8&v=4)|
-| #181 | Rinor Hoxha | 28 | 69 | ![](https://avatars.githubusercontent.com/u/1160245?s=72&u=8a05f38742ebad245297f85e494cffa932d49f14&v=4)|
-| #182 | Aredio Vani | 9 | 68 | ![](https://avatars.githubusercontent.com/u/37985831?s=72&u=5c55022b16c3f779b6bbf810306aebdd85392a82&v=4)|
-| #183 | Andi Shkembi | 4 | 63 | ![](https://avatars.githubusercontent.com/u/8188961?s=72&u=29d45eb353c4761ba5788e7e69e78289ce9284f5&v=4)|
-| #184 | null | 10 | 63 | ![](https://avatars.githubusercontent.com/u/49815928?s=72&u=96a9c532f3833dd2d1dce3ec578bbe8aac22a445&v=4)|
-| #185 | Izabela Bakollari | 11 | 63 | ![](https://avatars.githubusercontent.com/u/7606423?s=72&u=017f7c54500b679e2a418468447b9020d6702c21&v=4)|
-| #186 | Webverse | 17 | 63 | ![](https://avatars.githubusercontent.com/u/32201875?s=72&u=b48e05d77b5a9b8bc5bba86787f2a229cdbaeec7&v=4)|
-| #187 | Ermal Vrapi | 0 | 61 | ![](https://avatars.githubusercontent.com/u/46670049?s=72&u=ce1e1cd41861a86f26e887bae1ebb78527d5f340&v=4)|
-| #188 | Klevis | 1 | 60 | ![](https://avatars.githubusercontent.com/u/66927289?s=72&v=4)|
-| #189 | Vena Llanaj | 1 | 60 | ![](https://avatars.githubusercontent.com/u/71196658?s=72&u=f7c456642846459dcb21aceb4058799b205637b5&v=4)|
-| #190 | Gremza Digital Solution | 0 | 58 | ![](https://avatars.githubusercontent.com/u/33659681?s=72&u=22917f806fb6273c7c8d4f9ef5f5d38b7de78e2a&v=4)|
-| #191 | null | 36 | 58 | ![](https://avatars.githubusercontent.com/u/46546732?s=72&u=dec53dd0d304c2b10f7c581ac108acb37af47cce&v=4)|
-| #192 | Frenci Rama | 7 | 56 | ![](https://avatars.githubusercontent.com/u/13355808?s=72&u=6c3f73421c2206eff305a1eb25d4003487a27355&v=4)|
-| #193 | Marvin Hoxha | 3 | 55 | ![](https://avatars.githubusercontent.com/u/64254074?s=72&u=f772984832015b6b3ebdadf0a168b98267216df6&v=4)|
-| #194 | Ledio Koçi | 7 | 54 | ![](https://avatars.githubusercontent.com/u/63104818?s=72&u=2328dfc5bf387228c2c0d63de05997b4f968b6ec&v=4)|
-| #195 | Mateo | 0 | 51 | ![](https://avatars.githubusercontent.com/u/75898421?s=72&u=ebac17de09b3f709d7632dc4207a53ddfc7b1558&v=4)|
-| #196 | null | 0 | 51 | ![](https://avatars.githubusercontent.com/u/83023253?s=72&u=5642f0e6abc3d52e7fd08cfb4553b853453f40be&v=4)|
-| #197 | Ken | 23 | 51 | ![](https://avatars.githubusercontent.com/u/34059898?s=72&u=2f16046ed77f048bf6a7a8815347d32f2bf7b061&v=4)|
-| #198 | Mateo Kurti | 1 | 50 | ![](https://avatars.githubusercontent.com/u/29175219?s=72&u=65ec553a53125f65a83003b391e4564e56053d4a&v=4)|
-| #199 | Mateo Kurti | 1 | 50 | ![](https://avatars.githubusercontent.com/u/29175219?s=72&u=65ec553a53125f65a83003b391e4564e56053d4a&v=4)|
-| #200 | Edra Tabaku | 13 | 50 | ![](https://avatars.githubusercontent.com/u/68347994?s=72&u=d28575debb919fe64b5af813bed2e155a332e4ce&v=4)|
-| #201 | Albin Zebi | 0 | 45 | ![](https://avatars.githubusercontent.com/u/60099296?s=72&u=9c771e46f4fda1e816ba157f386d2822c9ea28b6&v=4)|
-| #202 | Aldo Cano | 25 | 45 | ![](https://avatars.githubusercontent.com/u/8085145?s=72&u=7b813da0b0494e3451f1abc31312a3c6011e4141&v=4)|
-| #203 | Astrit Demiri | 3 | 44 | ![](https://avatars.githubusercontent.com/u/11302890?s=72&u=00c1c4012166090ca2e27df6ffbcef7fd0825b93&v=4)|
-| #204 | Ardit Xhanaj | 1 | 42 | ![](https://avatars.githubusercontent.com/u/87133189?s=72&u=834c40d23409b00ee7eaa6401680c031aa7e88f7&v=4)|
-| #205 | null | 2 | 41 | ![](https://avatars.githubusercontent.com/u/47557332?s=72&u=ed4e5c1cdcacc5fb6ec4a5989884ca7addc9ba4a&v=4)|
-| #206 | FR13NDS | 7 | 41 | ![](https://avatars.githubusercontent.com/u/62477193?s=72&u=f6e0919758ccea5f9dde97039f6acf8c6c6bfe14&v=4)|
-| #207 | Ergis Gjergji | 0 | 40 | ![](https://avatars.githubusercontent.com/u/59146973?s=72&v=4)|
-| #208 | null | 4 | 40 | ![](https://avatars.githubusercontent.com/u/24844955?s=72&v=4)|
-| #209 | null | 4 | 40 | ![](https://avatars.githubusercontent.com/u/24844955?s=72&v=4)|
-| #210 | Archx0Mas | 5 | 40 | ![](https://avatars.githubusercontent.com/u/70807598?s=72&u=fca4c3d2aa990bc03191717568831d38f842187a&v=4)|
-| #211 | null | 9 | 40 | ![](https://avatars.githubusercontent.com/u/9430573?s=72&u=009eab24085fe07622fe449620096b31e339ae2a&v=4)|
-| #212 | Oraldo Hysaj | 0 | 39 | ![](https://avatars.githubusercontent.com/u/87261813?s=72&v=4)|
-| #213 | Nezir Demko | 1 | 39 | ![](https://avatars.githubusercontent.com/u/34752859?s=72&u=af6fca15e183d8010def39b7052e26cf9ca9815b&v=4)|
-| #214 | David Guri | 0 | 36 | ![](https://avatars.githubusercontent.com/u/81036791?s=72&u=5372671fb7ab2376f37815a1108a687904baa33d&v=4)|
-| #215 | Eric Stemmler | 0 | 36 | ![](https://avatars.githubusercontent.com/u/14731447?s=72&u=b9db3caf95e075741d1e8e156f0f2690743e4158&v=4)|
-| #216 | Eric Stemmler | 0 | 36 | ![](https://avatars.githubusercontent.com/u/14731447?s=72&u=b9db3caf95e075741d1e8e156f0f2690743e4158&v=4)|
-| #217 | ƬHE ЯAW ☣ | 29 | 36 | ![](https://avatars.githubusercontent.com/u/32969774?s=72&u=6b359971e15685fb0359e6a8c065a399b40dc228&v=4)|
-| #218 | Elvjo Fejzo | 0 | 35 | ![](https://avatars.githubusercontent.com/u/77446151?s=72&u=1070376d3719983fd2314219b9ac4b8cde14c76a&v=4)|
-| #219 | Olsi Hoxha | 0 | 35 | ![](https://avatars.githubusercontent.com/u/66084880?s=72&u=3d155e322905998d9f05c5bbd0500091891d875f&v=4)|
-| #220 | Albin Gjonaj | 2 | 35 | ![](https://avatars.githubusercontent.com/u/92172913?s=72&u=27fe25d46b3f2772ac52bbab02f68863d00ab3fb&v=4)|
-| #221 | Getson Cela | 12 | 35 | ![](https://avatars.githubusercontent.com/u/10776429?s=72&u=d2bd9862aae9b33074f109a6741dce73e3a33952&v=4)|
-| #222 | Julian Muslia | 0 | 34 | ![](https://avatars.githubusercontent.com/u/10553138?s=72&u=09ee018dfa35af82a70f8a1995c9a16df444aba6&v=4)|
-| #223 | Boris Budini | 23 | 34 | ![](https://avatars.githubusercontent.com/u/11447306?s=72&v=4)|
-| #224 | null | 1 | 33 | ![](https://avatars.githubusercontent.com/u/25196150?s=72&u=64b3b70d833d833f55b282755a781eebf3ed9834&v=4)|
-| #225 | Luan Sinani | 2 | 33 | ![](https://avatars.githubusercontent.com/u/32123956?s=72&u=351168f45882e2ebb4b2267ceea8d87269bc2a8a&v=4)|
-| #226 | Kendi Gjepali | 7 | 33 | ![](https://avatars.githubusercontent.com/u/42900883?s=72&u=052374ea96abb8ff2928b4b401c9530881d209bc&v=4)|
-| #227 | Lori K. | 1 | 32 | ![](https://avatars.githubusercontent.com/u/22913459?s=72&u=b2997cbaabf6c99bdceff3ef7c04224b0d4ee2bb&v=4)|
-| #228 | Lutmira Kanani | 5 | 32 | ![](https://avatars.githubusercontent.com/u/73383728?s=72&u=3f94fa00094c06ca1a2aef30ea8716191f150609&v=4)|
-| #229 | Klevin Delimeta | 6 | 32 | ![](https://avatars.githubusercontent.com/u/566916?s=72&u=42f5ee72e86df3516d87d26fbf9ae88d7075bc7d&v=4)|
-| #230 | Adela Thomaj Hoti | 8 | 32 | ![](https://avatars.githubusercontent.com/u/87237785?s=72&u=6a04f71ccf7c34520be40fd9a907f18e468c9874&v=4)|
-| #231 | Redis Rira | 0 | 31 | ![](https://avatars.githubusercontent.com/u/50552363?s=72&u=dc03cab215221810a983e5b6d496f0b1c2fff00e&v=4)|
-| #232 | Helgi | 7 | 31 | ![](https://avatars.githubusercontent.com/u/41377909?s=72&u=d00c6389a9f92530b82fe648f4e5dc536afe3ca4&v=4)|
-| #233 | Emiljan Dusha | 8 | 31 | ![](https://avatars.githubusercontent.com/u/57961738?s=72&u=f894945c69e8f08f66fa5d6644204f1aaa2a24b6&v=4)|
-| #234 | Arvin Xamo | 1 | 30 | ![](https://avatars.githubusercontent.com/u/34593873?s=72&u=4b967311bd9af76a35ec9bcc29621103a0a5f03d&v=4)|
-| #235 | Marti Belegu | 3 | 30 | ![](https://avatars.githubusercontent.com/u/48526054?s=72&u=93ba95b3b23462d380ebf1f81d4353e30eeda881&v=4)|
-| #236 | Erlis Balla | 6 | 29 | ![](https://avatars.githubusercontent.com/u/40136986?s=72&u=87c77147daf36e71e319ac38c6e4f7606195d3fc&v=4)|
-| #237 | Dustin Shi | 0 | 28 | ![](https://avatars.githubusercontent.com/u/72060364?s=72&u=137c9b30bf0a415aa55babd562f9ef40e2b995bf&v=4)|
-| #238 | Martina Karalliu | 3 | 28 | ![](https://avatars.githubusercontent.com/u/60017300?s=72&v=4)|
-| #239 | Gledi Caushaj | 8 | 28 | ![](https://avatars.githubusercontent.com/u/411820?s=72&u=4cc80e5b76d24b46d3a89aa8df69c13da428e016&v=4)|
-| #240 | Enes Hamzaj | 13 | 28 | ![](https://avatars.githubusercontent.com/u/48931439?s=72&u=aeae994f65833c7b0daeac9925605d7180a53e5b&v=4)|
-| #241 | Ergi Bërdëllima | 17 | 28 | ![](https://avatars.githubusercontent.com/u/32834003?s=72&u=1683c413035dc2475358032d6d919eaf510a3700&v=4)|
-| #242 | Armend Ostaku | 0 | 27 | ![](https://avatars.githubusercontent.com/u/38588709?s=72&u=406ca3f02bd23b7a745ab1c5512419b71555d965&v=4)|
-| #243 | Jon Mukaj | 0 | 27 | ![](https://avatars.githubusercontent.com/u/78703349?s=72&v=4)|
-| #244 | Kristi Meçuli | 0 | 27 | ![](https://avatars.githubusercontent.com/u/40893475?s=72&v=4)|
-| #245 | Ergest NAKO | 3 | 27 | ![](https://avatars.githubusercontent.com/u/318645?s=72&v=4)|
-| #246 | Gent Bajko | 13 | 27 | ![](https://avatars.githubusercontent.com/u/59751573?s=72&u=5e98d4a94fc3cc52dce36f91f7ee8dc9204942bf&v=4)|
-| #247 | null | 20 | 27 | ![](https://avatars.githubusercontent.com/u/22299171?s=72&u=5ee0f4cf1c804c5139a5c23afc0439f15ae839c9&v=4)|
-| #248 | Elisa Pashku | 3 | 26 | ![](https://avatars.githubusercontent.com/u/66138877?s=72&v=4)|
-| #249 | Lejdi Prifti | 4 | 26 | ![](https://avatars.githubusercontent.com/u/48070440?s=72&u=99d871e59cfc20320e7644a680fedb92a290308f&v=4)|
-| #250 | Edmond Alimehmeti | 0 | 25 | ![](https://avatars.githubusercontent.com/u/43119699?s=72&v=4)|
-| #251 | null | 1 | 25 | ![](https://avatars.githubusercontent.com/u/81464767?s=72&u=8fa21da8f9d7236c6775b977d7ddf996c0fc647e&v=4)|
-| #252 | Florjan Vladi | 1 | 25 | ![](https://avatars.githubusercontent.com/u/1277252?s=72&v=4)|
-| #253 | Aida | 0 | 24 | ![](https://avatars.githubusercontent.com/u/36128248?s=72&u=817c9b156305a63de2e23fcd8f240a87888d5c3b&v=4)|
-| #254 | Adalen Vladi | 45 | 24 | ![](https://avatars.githubusercontent.com/u/7238874?s=72&v=4)|
-| #255 | Ardi Goxhaj | 5 | 23 | ![](https://avatars.githubusercontent.com/u/5362555?s=72&u=4753528a74629987222757461aafa76274711957&v=4)|
-| #256 | Guido Xhindoli | 5 | 23 | ![](https://avatars.githubusercontent.com/u/57273001?s=72&u=bc10c5f6c874a2c24843f017e9e2f9a68b391c11&v=4)|
-| #257 | Albina Boshku | 5 | 23 | ![](https://avatars.githubusercontent.com/u/81375658?s=72&u=ccb1ef41cbe20c821ba38ee61181d2ae6b0c93ba&v=4)|
-| #258 | Amanti Lulo | 6 | 23 | ![](https://avatars.githubusercontent.com/u/6141105?s=72&u=68871459b4c842e2747d4f97abf286dd33940764&v=4)|
-| #259 | Romarjo Balukja | 7 | 23 | ![](https://avatars.githubusercontent.com/u/37499914?s=72&u=ffd2120b98478eaf480a53d614a9f9ab73f22207&v=4)|
-| #260 | Egers | 0 | 22 | ![](https://avatars.githubusercontent.com/u/58375570?s=72&v=4)|
-| #261 | Silvester Hasani | 0 | 22 | ![](https://avatars.githubusercontent.com/u/36986878?s=72&u=9d52acc850f4333d03152074d7e34fd13703efd4&v=4)|
-| #262 | Kristian Dhimitri | 0 | 22 | ![](https://avatars.githubusercontent.com/u/74469079?s=72&v=4)|
-| #263 | Enxhi Tabaku | 1 | 22 | ![](https://avatars.githubusercontent.com/u/43711393?s=72&u=19c032ca0442ce2098a4b47a28c3997cb4c4b1de&v=4)|
-| #264 | Xhoni | 2 | 22 | ![](https://avatars.githubusercontent.com/u/29339199?s=72&u=8c09bbb2f1984c56a0b744903a02f3770c50a060&v=4)|
-| #265 | toni | 7 | 22 | ![](https://avatars.githubusercontent.com/u/24297746?s=72&u=28eb64d714d2f8b181a71efcb2c1dc456668512d&v=4)|
-| #266 | Edison Ponari | 9 | 22 | ![](https://avatars.githubusercontent.com/u/61910013?s=72&u=318ed7435aaaef48cacb7cd6f0e09a35263b9231&v=4)|
-| #267 | Altin Karaulli | 0 | 21 | ![](https://avatars.githubusercontent.com/u/94201903?s=72&u=c0bb71e614bd7354982bbc60476df18819674b23&v=4)|
-| #268 | Aulona Kolicaj | 0 | 21 | ![](https://avatars.githubusercontent.com/u/28823367?s=72&v=4)|
-| #269 | Dajan Vulaj | 3 | 21 | ![](https://avatars.githubusercontent.com/u/6430816?s=72&u=d9f8ecae74de0356d98c34ecbab24a941af7e353&v=4)|
-| #270 | Petrit Lame | 5 | 21 | ![](https://avatars.githubusercontent.com/u/48964432?s=72&u=f04fcbea4ce704be8f0a5019b3510d2c99c4c9f5&v=4)|
-| #271 | Esmerald Dedushaj | 0 | 20 | ![](https://avatars.githubusercontent.com/u/49416492?s=72&u=45700631a9f64e9079b6a42a42b19b0dc01b792f&v=4)|
-| #272 | Megi Serjanaj | 0 | 20 | ![](https://avatars.githubusercontent.com/u/89906123?s=72&u=67a28f88cc8fed567544ba31f977c4b38a47f69d&v=4)|
-| #273 | endri xhukellari | 1 | 20 | ![](https://avatars.githubusercontent.com/u/32928261?s=72&u=d0ebd389bbcf4120ef8d6ae893a355aec5c45862&v=4)|
-| #274 | Ilirjan Rexho | 1 | 20 | ![](https://avatars.githubusercontent.com/u/61479363?s=72&v=4)|
-| #275 | Rrok Luli | 2 | 20 | ![](https://avatars.githubusercontent.com/u/58312327?s=72&v=4)|
-| #276 | Arbi Hysko | 3 | 20 | ![](https://avatars.githubusercontent.com/u/53000510?s=72&u=8bca936aaf12f0e5e691c62c0a1d955ed18c8f70&v=4)|
-| #277 |  Code With Enea Ruka | 19 | 20 | ![](https://avatars.githubusercontent.com/u/96395906?s=72&u=3c423c49473312a15c7937421671c7ff816bf091&v=4)|
-| #278 | Enerida Lama | 4 | 19 | ![](https://avatars.githubusercontent.com/u/65872895?s=72&u=8e53e4ebb7b43847e89a810a145f9e5b0f33ecd6&v=4)|
-| #279 | Elian Ibaj | 7 | 19 | ![](https://avatars.githubusercontent.com/u/2972085?s=72&u=4ed93701256b5810567fc6be6df4ec5ee50c06da&v=4)|
-| #280 | Naun Telo | 12 | 19 | ![](https://avatars.githubusercontent.com/u/24767579?s=72&u=7c64b44c87538bdd7d94e0853704de6e299836de&v=4)|
-| #281 | Oerd Bej | 0 | 18 | ![](https://avatars.githubusercontent.com/u/69147540?s=72&u=8d00058f08b96d8a8cd23e1f9d17a9d012315395&v=4)|
-| #282 | Renalda Zhuka | 0 | 18 | ![](https://avatars.githubusercontent.com/u/96175667?s=72&u=da70b7a9bc9bd6def8264970801dcd07e6d9e48d&v=4)|
-| #283 | Vaska | 0 | 18 | ![](https://avatars.githubusercontent.com/u/33496849?s=72&v=4)|
-| #284 | Enea Xharau | 1 | 18 | ![](https://avatars.githubusercontent.com/u/95291297?s=72&v=4)|
-| #285 | Driant Naun | 1 | 18 | ![](https://avatars.githubusercontent.com/u/8021014?s=72&u=dd54760bb4e09f014e84a4896f90a8e061b532da&v=4)|
-| #286 | Bruno Dushi | 10 | 18 | ![](https://avatars.githubusercontent.com/u/7293957?s=72&v=4)|
-| #287 | Arnold Kenaci | 52 | 18 | ![](https://avatars.githubusercontent.com/u/11477120?s=72&v=4)|
-| #288 | Marlen | 0 | 17 | ![](https://avatars.githubusercontent.com/u/68400970?s=72&v=4)|
-| #289 | Skerd Mullaj | 1 | 17 | ![](https://avatars.githubusercontent.com/u/92816889?s=72&u=e2b1c2e1235122bd7f641c741321b95c25042556&v=4)|
-| #290 | Emin Kokalari | 2 | 17 | ![](https://avatars.githubusercontent.com/u/8820741?s=72&v=4)|
-| #291 | Polina | 12 | 17 | ![](https://avatars.githubusercontent.com/u/31825825?s=72&u=d410778089aa4080f2a235e4518a0a700b4e609a&v=4)|
-| #292 | Jonida Baçi | 262 | 17 | ![](https://avatars.githubusercontent.com/u/60344290?s=72&u=70a24cfbeee37c19240ed61a29c307ae1beba05c&v=4)|
-| #293 | Orhan Asllani | 0 | 16 | ![](https://avatars.githubusercontent.com/u/48629225?s=72&v=4)|
-| #294 | Kevin Haxhi | 1 | 16 | ![](https://avatars.githubusercontent.com/u/51535794?s=72&u=66728d691e96a2ca9665dc63100e2c214f87ac5f&v=4)|
-| #295 | Rigers Duka | 3 | 16 | ![](https://avatars.githubusercontent.com/u/24621596?s=72&u=ece07aed8a6bf524fb12f74b32e0645cd1d7bcd5&v=4)|
-| #296 | Kristi Buda | 5 | 16 | ![](https://avatars.githubusercontent.com/u/20214454?s=72&u=67931cd471a0c3e8d6ef79b620a8b6fec7768531&v=4)|
-| #297 | Kliv Spahiu | 0 | 15 | ![](https://avatars.githubusercontent.com/u/53799629?s=72&v=4)|
-| #298 | Gentian Shkembi | 1 | 15 | ![](https://avatars.githubusercontent.com/u/23237203?s=72&v=4)|
-| #299 | Olta Dedej | 3 | 15 | ![](https://avatars.githubusercontent.com/u/35349342?s=72&v=4)|
-| #300 | Sidorela Uku | 38 | 15 | ![](https://avatars.githubusercontent.com/u/24439184?s=72&u=201e802855ea204f7493e603d2baaae07c578202&v=4)|
-| #301 | Baki Goxhaj | 129 | 15 | ![](https://avatars.githubusercontent.com/u/339914?s=72&v=4)|
-| #302 | Sehar Borici | 0 | 14 | ![](https://avatars.githubusercontent.com/u/77383643?s=72&v=4)|
-| #303 | Anxhela Tafani | 0 | 14 | ![](https://avatars.githubusercontent.com/u/64012334?s=72&v=4)|
-| #304 | Abdulla Fahem | 1 | 14 | ![](https://avatars.githubusercontent.com/u/49653818?s=72&u=6d5ae30ca33ca8b5c30bcb7a8ea550bc49321499&v=4)|
-| #305 | kallash | 1 | 14 | ![](https://avatars.githubusercontent.com/u/36623100?s=72&u=af452b82bd83e807fcdbb7707b9cbcb2fe82ad5c&v=4)|
-| #306 | Hackathon | 0 | 13 | ![](https://avatars.githubusercontent.com/u/83064125?s=72&u=81d036f2151a7c24a83f1b922bedf5511e663f1c&v=4)|
-| #307 | ardian | 0 | 13 | ![](https://avatars.githubusercontent.com/u/98280996?s=72&u=68764f24acf8fefb54455f3bc5defc31a37f5fa1&v=4)|
-| #308 | Gentjan Gjinalaj | 0 | 13 | ![](https://avatars.githubusercontent.com/u/101478921?s=72&v=4)|
-| #309 | Daniel Bello | 2 | 13 | ![](https://avatars.githubusercontent.com/u/38752939?s=72&u=3b70d835248edfd2d61c8dda97acc0d0e151ffc7&v=4)|
-| #310 | laura toska | 4 | 13 | ![](https://avatars.githubusercontent.com/u/65419989?s=72&u=90153326544830aa5fdb11603860ed61abceb7b2&v=4)|
-| #311 | Admirim Korici | 4 | 13 | ![](https://avatars.githubusercontent.com/u/82025628?s=72&u=4ed50aa43b16e9586a00694e43eb943c72f116f8&v=4)|
-| #312 | Gazmir Sulcaj | 4 | 13 | ![](https://avatars.githubusercontent.com/u/47264949?s=72&v=4)|
-| #313 | null | 4 | 13 | ![](https://avatars.githubusercontent.com/u/47714399?s=72&u=2ce9b16c9a674af3211eee4f41914996b6293147&v=4)|
-| #314 | Alexander | 6 | 13 | ![](https://avatars.githubusercontent.com/u/3963686?s=72&u=1ebf037182e581e749249a55865dea3cb50439b6&v=4)|
-| #315 | Dhimiter Bundo | 8 | 13 | ![](https://avatars.githubusercontent.com/u/33829192?s=72&v=4)|
-| #316 | Olsi Seferi | 10 | 13 | ![](https://avatars.githubusercontent.com/u/72546616?s=72&u=d38df57578e7f053744d16e9756288376414bfe5&v=4)|
-| #317 | Gledis Ajazi | 0 | 12 | ![](https://avatars.githubusercontent.com/u/68384436?s=72&u=3999f8d5fb1ae5ffe0350a7f39ab5d3636b81341&v=4)|
-| #318 | Jeton Stojku | 0 | 12 | ![](https://avatars.githubusercontent.com/u/10545400?s=72&u=f2ebfa394c17b69c9df6cfc1cde0a4c027140c0b&v=4)|
-| #319 | Ergest Basha | 0 | 12 | ![](https://avatars.githubusercontent.com/u/82515361?s=72&v=4)|
-| #320 | Anxhelo Lame | 1 | 12 | ![](https://avatars.githubusercontent.com/u/49105066?s=72&v=4)|
-| #321 | Nick Balani | 1 | 12 | ![](https://avatars.githubusercontent.com/u/4072741?s=72&v=4)|
-| #322 | Evisa Cankaj | 3 | 12 | ![](https://avatars.githubusercontent.com/u/52082258?s=72&v=4)|
-| #323 | Iris Xhafa | 5 | 12 | ![](https://avatars.githubusercontent.com/u/43078597?s=72&u=b76b787bd8be17764cc77644da6362f1cd0a8cb2&v=4)|
-| #324 | Kelvin Çobanaj | 39 | 12 | ![](https://avatars.githubusercontent.com/u/3618847?s=72&u=d25f9cf9bd0ed55326cb546615d5d7a825977d41&v=4)|
-| #325 | Andi Zeneli | 0 | 11 | ![](https://avatars.githubusercontent.com/u/29486931?s=72&v=4)|
-| #326 | Everest Gjonaj | 2 | 11 | ![](https://avatars.githubusercontent.com/u/22114017?s=72&u=4ad0426f67beca61ff69f7cb2f154404aac34345&v=4)|
-| #327 | Sergen Skenderi | 3 | 11 | ![](https://avatars.githubusercontent.com/u/84309409?s=72&u=5a72d988a6e508648062ea2a9ab4d5053838f2a2&v=4)|
-| #328 | Enea Dhiamandi | 4 | 11 | ![](https://avatars.githubusercontent.com/u/10241950?s=72&u=519d8d9d0bb6f6e3e288c8d03856e6580011e73d&v=4)|
-| #329 | Alvin Konda | 8 | 11 | ![](https://avatars.githubusercontent.com/u/273284?s=72&u=489c5340df2251ff544a38f5030d651179ce457d&v=4)|
-| #330 | Marjo Ballabani | 13 | 11 | ![](https://avatars.githubusercontent.com/u/11302354?s=72&u=5bc0ecd758216b92138850d8fd8a1fcda981f9d4&v=4)|
-| #331 | Stefan Xhunga | 16 | 11 | ![](https://avatars.githubusercontent.com/u/15867310?s=72&v=4)|
-| #332 | Kristi Progri | 18 | 11 | ![](https://avatars.githubusercontent.com/u/22702783?s=72&u=a75336d87da4008b2d91bab1c45ecd070d671675&v=4)|
-| #333 | Krokodili | 0 | 10 | ![](https://avatars.githubusercontent.com/u/75593263?s=72&v=4)|
-| #334 | null | 0 | 10 | ![](https://avatars.githubusercontent.com/u/56355187?s=72&u=2de81ed66388be57176fc1fccee3e2263ed9e89d&v=4)|
-| #335 | zeldaoot | 1 | 10 | ![](https://avatars.githubusercontent.com/u/69119318?s=72&u=9be20a83f89a5c04a8d2f9d34fa40d6d04c9d9a7&v=4)|
-| #336 | Fabio Qafa | 2 | 10 | ![](https://avatars.githubusercontent.com/u/89461877?s=72&u=bfea8db1e965d13e8148b392a54214e89c9a939e&v=4)|
-| #337 | null | 2 | 10 | ![](https://avatars.githubusercontent.com/u/48776346?s=72&v=4)|
-| #338 | Olard Siqeca | 2 | 10 | ![](https://avatars.githubusercontent.com/u/91147965?s=72&u=ae9d865352fb172b6aa06e95f3a84cae7c17c716&v=4)|
-| #339 | Xhino-Kurtaj | 5 | 10 | ![](https://avatars.githubusercontent.com/u/28669133?s=72&u=b970849d0bf9b2ccf158321aa337e54ddfa5c2e8&v=4)|
-| #340 | Aleks Tare | 6 | 10 | ![](https://avatars.githubusercontent.com/u/37328175?s=72&u=7c7d6bf72153bf3ee2d95e4f73ef9363b220266e&v=4)|
-| #341 | Ervin Capi | 0 | 9 | ![](https://avatars.githubusercontent.com/u/26812360?s=72&v=4)|
-| #342 | Ricardo | 0 | 9 | ![](https://avatars.githubusercontent.com/u/82515952?s=72&u=252cd7ac0ed976d6d71c9f9b7e472c91795375d3&v=4)|
-| #343 | Flavio Bejko | 1 | 9 | ![](https://avatars.githubusercontent.com/u/20670428?s=72&u=206c74522f9ec2cf29e91d720a4ce4b4819bf354&v=4)|
-| #344 | Ledian Manja | 1 | 9 | ![](https://avatars.githubusercontent.com/u/48760118?s=72&v=4)|
-| #345 | Klevin Kona | 3 | 9 | ![](https://avatars.githubusercontent.com/u/1549891?s=72&u=8eba32b21276498aff863d463f606c219a255a5f&v=4)|
-| #346 | Armando | 4 | 9 | ![](https://avatars.githubusercontent.com/u/19243790?s=72&u=eb7be444510f75820f2ad4339925bbb85fd64618&v=4)|
-| #347 | Danilo Kasemi | 6 | 9 | ![](https://avatars.githubusercontent.com/u/30212260?s=72&u=7f9130fd41af08c1f0d6a4f845956a399f5da73f&v=4)|
-| #348 | null | 7 | 9 | ![](https://avatars.githubusercontent.com/u/34451117?s=72&u=b7b96fa4c427b27650404d5e4f13093cb3ef0855&v=4)|
-| #349 | Redion | 0 | 8 | ![](https://avatars.githubusercontent.com/u/40147284?s=72&u=1a0fb6277258ac1538d3821d711238d6721e2f69&v=4)|
-| #350 | Ilirjan Troci | 0 | 8 | ![](https://avatars.githubusercontent.com/u/50831829?s=72&u=8681d01efd77bc8f9233e76ef4cdf2a0fe092caf&v=4)|
-| #351 | Dario Sejdini | 0 | 8 | ![](https://avatars.githubusercontent.com/u/83881136?s=72&v=4)|
-| #352 | Avjol Sakaj | 2 | 8 | ![](https://avatars.githubusercontent.com/u/18752945?s=72&u=dad58a180cfeccae3d8c48175403471ca91f6e38&v=4)|
-| #353 | Refat Agolli | 3 | 8 | ![](https://avatars.githubusercontent.com/u/30299649?s=72&v=4)|
-| #354 | Jonida Salihila | 0 | 7 | ![](https://avatars.githubusercontent.com/u/91208941?s=72&u=f5dd47827f55eb6e43f359a9a902a843f3cf0092&v=4)|
-| #355 | Albania Smart Solution | 0 | 7 | ![](https://avatars.githubusercontent.com/u/94110756?s=72&v=4)|
-| #356 | Rovena Dikellari | 0 | 7 | ![](https://avatars.githubusercontent.com/u/90726403?s=72&v=4)|
-| #357 | Borano Llana | 0 | 7 | ![](https://avatars.githubusercontent.com/u/49500069?s=72&v=4)|
+| #24 | Shpetim Shala | 7 | 1171 | ![](https://avatars.githubusercontent.com/u/6706681?s=72&u=db81b1c3a4c0b5569c5f63674e9ad7a13c0e79f6&v=4)|
+| #25 | Redjan Ymeraj | 34 | 1169 | ![](https://avatars.githubusercontent.com/u/15679866?s=72&u=f5a9d9050d7e9b0f8fa8ffd04bffacfc0642d90a&v=4)|
+| #26 | Erand Laci | 1 | 1150 | ![](https://avatars.githubusercontent.com/u/12892121?s=72&u=4e6dd5f5a5a29a78f9357d09b7c4069c8f806a25&v=4)|
+| #27 | Erand Laci | 1 | 1150 | ![](https://avatars.githubusercontent.com/u/12892121?s=72&u=4e6dd5f5a5a29a78f9357d09b7c4069c8f806a25&v=4)|
+| #28 | Klement Omeri | 11 | 1135 | ![](https://avatars.githubusercontent.com/u/44920963?s=72&u=f294f2bc8c5aab7dbea0465a66f76546be197a3c&v=4)|
+| #29 | Arbiona | 11 | 1131 | ![](https://avatars.githubusercontent.com/u/63557021?s=72&u=f86b6d199620f7d534af5eb9c691a24a40b322d2&v=4)|
+| #30 | Enea Dede | 5 | 1021 | ![](https://avatars.githubusercontent.com/u/32363946?s=72&u=edd6ea1068b232699a486665939ad6c5cbf28a80&v=4)|
+| #31 | Marsel Beqiri | 4 | 1013 | ![](https://avatars.githubusercontent.com/u/53948154?s=72&u=46e36553e2965dd0d9f6b0deb536791cde0d073d&v=4)|
+| #32 | Amarildo Gjeçaj | 10 | 883 | ![](https://avatars.githubusercontent.com/u/34867366?s=72&u=570814e30f05367f41f38cafc0a55b062e32423b&v=4)|
+| #33 | Belisar Hoxholli | 3 | 832 | ![](https://avatars.githubusercontent.com/u/11684453?s=72&u=d39d4c6ffcd7553e9a2929d5e68b96665ddc71f9&v=4)|
+| #34 | Anxhelo Lushka | 98 | 832 | ![](https://avatars.githubusercontent.com/u/25004151?s=72&u=7df02207550901c767e2392f455c988f56678866&v=4)|
+| #35 | Samuel Bushi | 8 | 828 | ![](https://avatars.githubusercontent.com/u/43500751?s=72&u=0819206426bc95226ede5162ddfd4a91a38c758d&v=4)|
+| #36 | Mateo Malaj | 8 | 817 | ![](https://avatars.githubusercontent.com/u/68548704?s=72&v=4)|
+| #37 | Frencis | 4 | 816 | ![](https://avatars.githubusercontent.com/u/40387295?s=72&u=90a361b2a645b24e8eacf0f7a75ee3e02106fb38&v=4)|
+| #38 | Mariglen Pupa | 5 | 784 | ![](https://avatars.githubusercontent.com/u/62464064?s=72&u=6fa1a0e1dbfc8830c159453a16274783c3d0685d&v=4)|
+| #39 | Elitjon Metaliaj | 0 | 783 | ![](https://avatars.githubusercontent.com/u/76097212?s=72&u=5bf7d0a52bf343612963bf9a5ddcf7634954d8b5&v=4)|
+| #40 | Klejvi Kapaj | 49 | 780 | ![](https://avatars.githubusercontent.com/u/40796367?s=72&u=4ee83ccbe0e67b93400bce0e34323c5875e15f61&v=4)|
+| #41 | Joana Karanxha | 11 | 742 | ![](https://avatars.githubusercontent.com/u/35038616?s=72&v=4)|
+| #42 | Kristi | 27 | 732 | ![](https://avatars.githubusercontent.com/u/65773022?s=72&u=1928dd8dbcea17329dea1241d7aa11e7346f837a&v=4)|
+| #43 | null | 1 | 724 | ![](https://avatars.githubusercontent.com/u/76097257?s=72&u=6407fa699851635d8a7cceab200df612d166d606&v=4)|
+| #44 | Saimir Baraj | 0 | 714 | ![](https://avatars.githubusercontent.com/u/84786341?s=72&u=454f2d211816daf4b9915d2792287c38deb2efc0&v=4)|
+| #45 | Dashamir Hoxha | 53 | 711 | ![](https://avatars.githubusercontent.com/u/1495805?s=72&v=4)|
+| #46 | Algert Shevroja | 0 | 683 | ![](https://avatars.githubusercontent.com/u/91168326?s=72&u=f3cd0770fb45dd5264155ce2e261f68456ed6adf&v=4)|
+| #47 | Klevis Cipi | 5 | 665 | ![](https://avatars.githubusercontent.com/u/14005403?s=72&u=fc1ed7bb507c2980dce61f833d57b1ec0c085c06&v=4)|
+| #48 | Redi Kurti | 0 | 648 | ![](https://avatars.githubusercontent.com/u/23387332?s=72&u=19949939445b5589746d5180c4bc06836abbc435&v=4)|
+| #49 | Dionis Senja | 3 | 646 | ![](https://avatars.githubusercontent.com/u/73392670?s=72&u=3f0d424c1c321d2803b4477d5c449df899c399de&v=4)|
+| #50 | Endrit Novaku | 1 | 645 | ![](https://avatars.githubusercontent.com/u/62180779?s=72&v=4)|
+| #51 | Eris Adhami | 5 | 608 | ![](https://avatars.githubusercontent.com/u/45641379?s=72&v=4)|
+| #52 | Brendon Leçka | 1 | 558 | ![](https://avatars.githubusercontent.com/u/16626628?s=72&v=4)|
+| #53 | Oerd Cukalla | 22 | 546 | ![](https://avatars.githubusercontent.com/u/56891?s=72&v=4)|
+| #54 | おるげす | 21 | 537 | ![](https://avatars.githubusercontent.com/u/23742757?s=72&u=96dd3362862d1aebafdf7a3f58b7123f4f3feec8&v=4)|
+| #55 | Klevis Ndoka | 6 | 531 | ![](https://avatars.githubusercontent.com/u/3813023?s=72&v=4)|
+| #56 | Ernisa Sulillari | 0 | 502 | ![](https://avatars.githubusercontent.com/u/85611971?s=72&u=787d336248dbeaaec2204de76bd88921a72798aa&v=4)|
+| #57 | Endrit Gjeta | 1 | 499 | ![](https://avatars.githubusercontent.com/u/13084540?s=72&v=4)|
+| #58 | Rushan Xhaja | 16 | 498 | ![](https://avatars.githubusercontent.com/u/3965508?s=72&v=4)|
+| #59 | Edvin | 3 | 488 | ![](https://avatars.githubusercontent.com/u/1382291?s=72&v=4)|
+| #60 | Qemal | 3 | 476 | ![](https://avatars.githubusercontent.com/u/36800086?s=72&v=4)|
+| #61 | Alban Afmeti | 17 | 468 | ![](https://avatars.githubusercontent.com/u/11160896?s=72&u=a6fc86d6447ab198d69dc4eacfb0c9bd582d02c7&v=4)|
+| #62 | Albdroid.AL | 44 | 462 | ![](https://avatars.githubusercontent.com/u/60861585?s=72&u=b6f1aa1382c67ce06dff922c4896c8950be34ece&v=4)|
+| #63 | null | 2 | 456 | ![](https://avatars.githubusercontent.com/u/77469839?s=72&v=4)|
+| #64 | Julian Çuni | 2 | 443 | ![](https://avatars.githubusercontent.com/u/8204040?s=72&u=d68da1bc2b70d417caca647e4be1d498be3cb4d4&v=4)|
+| #65 | Joan Kabello | 4 | 442 | ![](https://avatars.githubusercontent.com/u/38832279?s=72&u=5ec2d1066e29748c9fc1b433038f488e646734db&v=4)|
+| #66 | Qinx | 16 | 432 | ![](https://avatars.githubusercontent.com/u/17144939?s=72&v=4)|
+| #67 | null | 9 | 425 | ![](https://avatars.githubusercontent.com/u/48594621?s=72&u=6f707462c0e46c64e7601890c44dd6255c91bfe8&v=4)|
+| #68 | Emirjeta V | 23 | 423 | ![](https://avatars.githubusercontent.com/u/88782702?s=72&u=8bad381c0ffe30bcff5616a888184605476a25b4&v=4)|
+| #69 | Erlis Dhima | 12 | 422 | ![](https://avatars.githubusercontent.com/u/7734108?s=72&u=9edd2680773075bfbbe6bdc8803feeeb09e1a0f6&v=4)|
+| #70 | Florian Nika | 1 | 417 | ![](https://avatars.githubusercontent.com/u/7765263?s=72&u=c221e2f0b9e7cb72e50dd19bc78e3deebd01cade&v=4)|
+| #71 | Joni Baboci | 1 | 410 | ![](https://avatars.githubusercontent.com/u/2484152?s=72&u=10b75e8923d6424dd0a9851617f1337782a4e14c&v=4)|
+| #72 | Jozi Bashaj | 3 | 410 | ![](https://avatars.githubusercontent.com/u/21162347?s=72&u=59141703410d43f3f14b3765892cddfd30500214&v=4)|
+| #73 | Çlirim Furriku | 6 | 402 | ![](https://avatars.githubusercontent.com/u/24798164?s=72&u=af7f25d3bd8f366811a55ac5e5f34be147b5adff&v=4)|
+| #74 | null | 2 | 397 | ![](https://avatars.githubusercontent.com/u/16976439?s=72&u=909b311a1179cfc776f7950c61d3e2217e9e44b8&v=4)|
+| #75 | Klajdi Zmalaj | 7 | 389 | ![](https://avatars.githubusercontent.com/u/32370399?s=72&u=aa2ce3d1f07cc2ef05715657abd09058c55928a3&v=4)|
+| #76 | Albina Peposhi | 48 | 378 | ![](https://avatars.githubusercontent.com/u/52979210?s=72&u=5d4dfa7d8cc505037cb9b71b309fc6ce029c1f08&v=4)|
+| #77 | Grainger | 4 | 377 | ![](https://avatars.githubusercontent.com/u/39377884?s=72&u=f90e339d076f470db5a8566eefe3bf2162d3fd1e&v=4)|
+| #78 | Klint | 13 | 364 | ![](https://avatars.githubusercontent.com/u/9338536?s=72&u=203cf1a8c21c20f8a33ed7c5c3847fc45fa1143d&v=4)|
+| #79 | Vjola Shtishi | 1 | 356 | ![](https://avatars.githubusercontent.com/u/62517004?s=72&u=c10df1fa081f9506ed9bd705a409c4926118cfd3&v=4)|
+| #80 | Mario Nebiaj | 12 | 353 | ![](https://avatars.githubusercontent.com/u/50882870?s=72&u=d20eaebee844d76f60d3fb66b038c6657ede87aa&v=4)|
+| #81 | Rei Bengu | 11 | 349 | ![](https://avatars.githubusercontent.com/u/4273878?s=72&u=c80f008ff223761026991efebf93225e05c495c4&v=4)|
+| #82 | Gjergji Dojce | 0 | 348 | ![](https://avatars.githubusercontent.com/u/44404641?s=72&u=73cbc00199286eb3309fb9dd228c91fa4407f1a9&v=4)|
+| #83 | Emil Kadilli | 1 | 335 | ![](https://avatars.githubusercontent.com/u/16655006?s=72&v=4)|
+| #84 | null | 14 | 335 | ![](https://avatars.githubusercontent.com/u/29661640?s=72&v=4)|
+| #85 | Rando Shtishi | 7 | 322 | ![](https://avatars.githubusercontent.com/u/42577665?s=72&u=d1c4d52226a5a08395021652ecb4fb6ad459fde3&v=4)|
+| #86 | Andri Reveli | 3 | 317 | ![](https://avatars.githubusercontent.com/u/54241930?s=72&u=864434f30876d5c56e937942d0a3e40678abe853&v=4)|
+| #87 | Gerti Ozuni | 5 | 311 | ![](https://avatars.githubusercontent.com/u/26062255?s=72&v=4)|
+| #88 | Anxhela Alushi | 5 | 310 | ![](https://avatars.githubusercontent.com/u/66495692?s=72&u=52f9d1e1001a5f634e95d342d41528259f52a79c&v=4)|
+| #89 | Gentjan Koliçaj | 1 | 289 | ![](https://avatars.githubusercontent.com/u/18643945?s=72&u=41b2d58a2ed0ca21a5dedc9f25cff60aba655141&v=4)|
+| #90 | Olken Merxira | 3 | 285 | ![](https://avatars.githubusercontent.com/u/40502479?s=72&u=9766c644816e693ecbf3098bbfb417d38b974442&v=4)|
+| #91 | Skerdi Berberi | 4 | 281 | ![](https://avatars.githubusercontent.com/u/44743904?s=72&u=885c06ce46156340e5d07349ab70944a6b3058d4&v=4)|
+| #92 | null | 10 | 276 | ![](https://avatars.githubusercontent.com/u/13197721?s=72&u=439ffdbf496766c2eb2200833050d62bd91d5b08&v=4)|
+| #93 | erjusstafa | 12 | 275 | ![](https://avatars.githubusercontent.com/u/74688301?s=72&v=4)|
+| #94 | Jon Jakova | 10 | 272 | ![](https://avatars.githubusercontent.com/u/50449118?s=72&v=4)|
+| #95 | Denis Ismailaj | 12 | 271 | ![](https://avatars.githubusercontent.com/u/20902736?s=72&u=8a638811801b1aec953a5153a6b13223ae65a292&v=4)|
+| #96 | null | 3 | 268 | ![](https://avatars.githubusercontent.com/u/51410696?s=72&u=6c64326b83508fb93b73ae9d72e42ee05a06cf76&v=4)|
+| #97 | Soni Lamkaj | 0 | 259 | ![](https://avatars.githubusercontent.com/u/7612859?s=72&u=3bbb1a9ace524bfbba8db06773054a51939ff5f4&v=4)|
+| #98 | Elton Memishaj | 9 | 248 | ![](https://avatars.githubusercontent.com/u/11498437?s=72&u=12baa054ca4a4a857ca9187c8d19102484f3bf30&v=4)|
+| #99 | Sadri | 2 | 241 | ![](https://avatars.githubusercontent.com/u/89244938?s=72&u=d7fb3f3cadb90225e864732c9bdd816c67ba9141&v=4)|
+| #100 | Enea Jahollari | 40 | 236 | ![](https://avatars.githubusercontent.com/u/25394362?s=72&u=85a8502a531b6b9c71683baef3018f59919b9c8b&v=4)|
+| #101 | Edison Neza | 6 | 233 | ![](https://avatars.githubusercontent.com/u/21251453?s=72&u=01b85152a84b5c283b1ee03072ee80b25a5ad357&v=4)|
+| #102 | Devis | 0 | 231 | ![](https://avatars.githubusercontent.com/u/37449357?s=72&u=8d2800fb06475a2c59d06f317aef1fac7c62ed53&v=4)|
+| #103 | Arber Gjonaj | 2 | 230 | ![](https://avatars.githubusercontent.com/u/71523972?s=72&v=4)|
+| #104 | Ergis Mullai | 2 | 230 | ![](https://avatars.githubusercontent.com/u/47216303?s=72&u=b3b76b03cfa49471acaee1cd08f4a5c08d0d0c4e&v=4)|
+| #105 | Enio Vrushi | 5 | 229 | ![](https://avatars.githubusercontent.com/u/38871050?s=72&u=f85b1f0c502089889ed931fe9a077e8f842b21b6&v=4)|
+| #106 | Ergi | 0 | 217 | ![](https://avatars.githubusercontent.com/u/70513280?s=72&v=4)|
+| #107 | Aleksander | 3 | 217 | ![](https://avatars.githubusercontent.com/u/2512342?s=72&u=6613ba5b45c5cef851693406415da739c6283994&v=4)|
+| #108 | Besart Marku | 3 | 217 | ![](https://avatars.githubusercontent.com/u/34649952?s=72&u=9f9a05c482ebfcc3d27a7b4dc6fe9fdf48850ff5&v=4)|
+| #109 | Algent Albrahimi | 5 | 213 | ![](https://avatars.githubusercontent.com/u/46356616?s=72&u=c488ce6f1089332191ca2e85c1d37ef7dd5488bb&v=4)|
+| #110 | Fabricio Pashaj | 4 | 203 | ![](https://avatars.githubusercontent.com/u/79104733?s=72&u=c66507b3e23ecde57fe2df0ab523ee3081b722c0&v=4)|
+| #111 | null | 2 | 198 | ![](https://avatars.githubusercontent.com/u/15004989?s=72&u=9c2a99544e2fb5aa3b1b008f13a4a9133ef1479e&v=4)|
+| #112 | Viola Ceni | 7 | 197 | ![](https://avatars.githubusercontent.com/u/34970974?s=72&u=451190fe5db70f70ce6ad5f350ecf6ddae176ef0&v=4)|
+| #113 | Ndricim Jaho | 0 | 196 | ![](https://avatars.githubusercontent.com/u/35450432?s=72&u=3e775273f77d4d8f795df6364d5f1526605316a0&v=4)|
+| #114 | null | 1 | 190 | ![](https://avatars.githubusercontent.com/u/44084291?s=72&u=0b43923024bdc650f4b7fee9ac527fe10fa7a9af&v=4)|
+| #115 | Rezart Durmishi | 2 | 190 | ![](https://avatars.githubusercontent.com/u/90687160?s=72&v=4)|
+| #116 | Lejdi Koci | 0 | 188 | ![](https://avatars.githubusercontent.com/u/76665911?s=72&v=4)|
+| #117 | Rexhino Kovaci | 0 | 186 | ![](https://avatars.githubusercontent.com/u/55946528?s=72&u=e9de3d84d08dfbb898b4131b7a655adee02c3f22&v=4)|
+| #118 | Ervis Hajdari | 0 | 183 | ![](https://avatars.githubusercontent.com/u/61877979?s=72&u=ddfffe0a063e3ade3d0e6fb90f5eac84223f40d0&v=4)|
+| #119 | Ermal | 0 | 183 | ![](https://avatars.githubusercontent.com/u/63654158?s=72&v=4)|
+| #120 | Redian Marku | 271 | 166 | ![](https://avatars.githubusercontent.com/u/42848358?s=72&u=d767bb9f46c873abc19dbce23da48ca4fa359dce&v=4)|
+| #121 | JonaHysaj | 1 | 165 | ![](https://avatars.githubusercontent.com/u/73343216?s=72&v=4)|
+| #122 | Nail | 2 | 163 | ![](https://avatars.githubusercontent.com/u/24881973?s=72&u=1b64b20509c54f6a644863e75e6bbec84cc409a2&v=4)|
+| #123 | Arbri çoçka | 2 | 159 | ![](https://avatars.githubusercontent.com/u/35626219?s=72&u=e480a0ec036e694eba02e45648a55e3b7bcb8117&v=4)|
+| #124 | Daniele Llazo | 5 | 157 | ![](https://avatars.githubusercontent.com/u/87183305?s=72&u=ced385754ccd7ce1808525e2caa05ad8d31e2855&v=4)|
+| #125 | Suljot Gjoka | 26 | 149 | ![](https://avatars.githubusercontent.com/u/58447776?s=72&u=f94d95cbe6924ab6f5541efd3103ba89714e295b&v=4)|
+| #126 | Rinald | 0 | 148 | ![](https://avatars.githubusercontent.com/u/92527147?s=72&u=9ac18e3f6c788ea2a76d04afe786a5bace50d45b&v=4)|
+| #127 | Alban Loku | 1 | 148 | ![](https://avatars.githubusercontent.com/u/71338813?s=72&u=b343ba08a87208deaf590d499c04f9a75b4a2b9d&v=4)|
+| #128 | Ebubeker | 0 | 147 | ![](https://avatars.githubusercontent.com/u/60944813?s=72&v=4)|
+| #129 | Edvin Hysenllari | 1 | 145 | ![](https://avatars.githubusercontent.com/u/24521547?s=72&u=7d4b8b64f0e077dd4d4256738d247ed23aef25fa&v=4)|
+| #130 | Gerald Haxhi | 3 | 145 | ![](https://avatars.githubusercontent.com/u/24575333?s=72&u=fad63f0bad930d3066fa2e7c9ab16e97d1b8a03c&v=4)|
+| #131 | Kostandin Vllahu | 1 | 141 | ![](https://avatars.githubusercontent.com/u/33177557?s=72&u=e553eb7c8d31485b485284f179429ec41cddc353&v=4)|
+| #132 | Besnik Nuro | 4 | 136 | ![](https://avatars.githubusercontent.com/u/40340401?s=72&u=a02db5f32d43e9634c3440ec3ded3d9c102ff631&v=4)|
+| #133 | Michael Shollaj | 1 | 133 | ![](https://avatars.githubusercontent.com/u/55102646?s=72&u=8681c4dc34b27978c64161b0cf116ebedeca7de2&v=4)|
+| #134 | Rigerta X | 3 | 133 | ![](https://avatars.githubusercontent.com/u/46707853?s=72&u=544c273ab29f54e61ba4128c53618c823f1c21f1&v=4)|
+| #135 | Arlind Hoxha | 5 | 133 | ![](https://avatars.githubusercontent.com/u/4660435?s=72&u=a8d430d7c31d9d011a9a679d3d8a729212b83e20&v=4)|
+| #136 | suelap | 13 | 131 | ![](https://avatars.githubusercontent.com/u/22301998?s=72&v=4)|
+| #137 | Armela | 6 | 129 | ![](https://avatars.githubusercontent.com/u/63402849?s=72&u=b61dcbe4b6880120c548eb3e24baa0c6b40ea89a&v=4)|
+| #138 | Kilton Pisli | 2 | 124 | ![](https://avatars.githubusercontent.com/u/59768393?s=72&u=5ddb985b966bf77dfca58f1075ed3f76fa7da5fe&v=4)|
+| #139 | Hideki Natsumi | 0 | 123 | ![](https://avatars.githubusercontent.com/u/96385473?s=72&u=666f0f39e0c7c1e0d2076d0b19895f64d1e8dfc8&v=4)|
+| #140 | Hideki Natsumi | 0 | 123 | ![](https://avatars.githubusercontent.com/u/96385473?s=72&u=666f0f39e0c7c1e0d2076d0b19895f64d1e8dfc8&v=4)|
+| #141 | KlementBinaj | 1 | 123 | ![](https://avatars.githubusercontent.com/u/19191469?s=72&u=affa53c0e42fba4a2cffd933aadda90e75358f31&v=4)|
+| #142 | Malfor Saja | 9 | 118 | ![](https://avatars.githubusercontent.com/u/20798247?s=72&u=3ed1166547abad87554347afd746335f7bbbfc89&v=4)|
+| #143 | Mariglen Doda | 5 | 117 | ![](https://avatars.githubusercontent.com/u/47455332?s=72&u=96fba58578a62b55a2c29abaef952f5ee1479ad5&v=4)|
+| #144 | Joel Tafilaj | 0 | 116 | ![](https://avatars.githubusercontent.com/u/81652217?s=72&u=13646747c3e1ac5d4a1e1cf400ca0a695c58be43&v=4)|
+| #145 | Florian | 35 | 111 | ![](https://avatars.githubusercontent.com/u/8291792?s=72&u=1040f27bef92d43097a6c574fa317f8f3f0491cb&v=4)|
+| #146 | null | 0 | 110 | ![](https://avatars.githubusercontent.com/u/61183170?s=72&u=79bd0b9cd120bdba7e7a3cce8f4e04e3037233e2&v=4)|
+| #147 | Gerald Nika | 1 | 109 | ![](https://avatars.githubusercontent.com/u/91494864?s=72&v=4)|
+| #148 | Orlando Malo | 5 | 109 | ![](https://avatars.githubusercontent.com/u/82452307?s=72&u=dee7fa78745d752cc9c2060a3f90f01a41f98155&v=4)|
+| #149 | Klendi Goci | 59 | 108 | ![](https://avatars.githubusercontent.com/u/20234738?s=72&u=99ae8d0ff1ec450ba7ca9a60a0ac3671546206a3&v=4)|
+| #150 | Rei Ikonomi | 0 | 107 | ![](https://avatars.githubusercontent.com/u/94234882?s=72&u=f656a679d17daa23eda4b56007623036f0d8fbbb&v=4)|
+| #151 | Arbis Malasi | 9 | 105 | ![](https://avatars.githubusercontent.com/u/58811995?s=72&u=223c667e3795022acdf82294e5fae129b7491a5e&v=4)|
+| #152 | Perparim Koci | 0 | 104 | ![](https://avatars.githubusercontent.com/u/40529057?s=72&u=b50fc4cbbd3ae33be4d8ec81f489f7a502267ed9&v=4)|
+| #153 | Geart Ferhati | 1 | 104 | ![](https://avatars.githubusercontent.com/u/55233184?s=72&u=fa45629877cac2840dc0c930cb8fe1ee4402c109&v=4)|
+| #154 | Ennio Sinanaj | 9 | 104 | ![](https://avatars.githubusercontent.com/u/46270371?s=72&v=4)|
+| #155 | ILIOS | 22 | 104 | ![](https://avatars.githubusercontent.com/u/9460646?s=72&u=605e0aa2fc8d39a1932597b5bd4fdc00405ad574&v=4)|
+| #156 | Argert Boja | 14 | 102 | ![](https://avatars.githubusercontent.com/u/17032718?s=72&u=96f912bd25babed553a10014d709e8d3a690ecd7&v=4)|
+| #157 | arsildo | 11 | 101 | ![](https://avatars.githubusercontent.com/u/51417052?s=72&u=4ce52b767ffa4eca2877fb039fe54949cdfcc4f7&v=4)|
+| #158 | Memi Allamani | 8 | 100 | ![](https://avatars.githubusercontent.com/u/15231960?s=72&v=4)|
+| #159 | Amarildo Bitri | 4 | 99 | ![](https://avatars.githubusercontent.com/u/32959281?s=72&u=1c4767922ec4d0667a6b104308463bff35227494&v=4)|
+| #160 | Samir Vllaço | 9 | 99 | ![](https://avatars.githubusercontent.com/u/62956581?s=72&u=83c85c0bbf5393033c8742ed151a294b55798120&v=4)|
+| #161 | Joan Janku | 70 | 99 | ![](https://avatars.githubusercontent.com/u/78973605?s=72&u=6f7c8d1dfce6248a250641574eaf832de991b3d0&v=4)|
+| #162 | Llazar Gjermeni | 0 | 96 | ![](https://avatars.githubusercontent.com/u/8567108?s=72&u=57bef92c106ebf1ed700eb5ac6416660b196b183&v=4)|
+| #163 | Ervin Kurushi | 7 | 96 | ![](https://avatars.githubusercontent.com/u/13509956?s=72&u=429d7f885627c284d9122aaf77f4acc10748e51d&v=4)|
+| #164 | Jurgen Gjonçari | 1 | 91 | ![](https://avatars.githubusercontent.com/u/14801240?s=72&u=2ca33b76d1faef77ddc13ae3cc17adff009546cc&v=4)|
+| #165 | null | 1 | 91 | ![](https://avatars.githubusercontent.com/u/44673003?s=72&u=9fb75823ed71f82ef7e44ed9edf1a59abbfc6c8e&v=4)|
+| #166 | null | 6 | 91 | ![](https://avatars.githubusercontent.com/u/58087674?s=72&u=f201b9e9f3709475368a75c89f106fc38f60fe08&v=4)|
+| #167 | vilson isaku | 5 | 87 | ![](https://avatars.githubusercontent.com/u/5845678?s=72&u=82548467a04f94597b70bed2b14678d015151672&v=4)|
+| #168 | null | 0 | 86 | ![](https://avatars.githubusercontent.com/u/51925377?s=72&v=4)|
+| #169 | Joel Bollo | 4 | 85 | ![](https://avatars.githubusercontent.com/u/34944311?s=72&u=ff27823291f4a397746eb62c81ae2845c459a2b6&v=4)|
+| #170 | Rinald Shabani | 4 | 85 | ![](https://avatars.githubusercontent.com/u/30338022?s=72&u=73aa53856ad44af0c7026c0fa3ca990883e99be2&v=4)|
+| #171 | Albi | 4 | 85 | ![](https://avatars.githubusercontent.com/u/53710410?s=72&v=4)|
+| #172 | null | 1 | 83 | ![](https://avatars.githubusercontent.com/u/45341025?s=72&u=a6ba5573fd1de056984e543f6af3fc3ccdeb820f&v=4)|
+| #173 | Ivi Berberi | 0 | 82 | ![](https://avatars.githubusercontent.com/u/41192491?s=72&v=4)|
+| #174 | null | 2 | 80 | ![](https://avatars.githubusercontent.com/u/43063926?s=72&u=283790017eb56de5199db9e5af6f8657ffa92b2e&v=4)|
+| #175 | Erges Mema | 1 | 78 | ![](https://avatars.githubusercontent.com/u/77251761?s=72&v=4)|
+| #176 | Rubin Elezi | 5 | 74 | ![](https://avatars.githubusercontent.com/u/57372143?s=72&u=6551c29f72805b485b6eeffe78d2b46f52dea2ec&v=4)|
+| #177 | Rigers | 2 | 73 | ![](https://avatars.githubusercontent.com/u/42070495?s=72&u=843372e65d9f7460ab55f7956fc64aaa9b272050&v=4)|
+| #178 | Arlindi | 5 | 71 | ![](https://avatars.githubusercontent.com/u/26505746?s=72&u=c04358f224cb22dee28de4bea063ad4dc53cadc1&v=4)|
+| #179 | Gabriel | 1 | 70 | ![](https://avatars.githubusercontent.com/u/17888328?s=72&u=9a422b8992bd9059db9bea3fefc6ba411d4e8fa8&v=4)|
+| #180 | Rinor Hoxha | 28 | 69 | ![](https://avatars.githubusercontent.com/u/1160245?s=72&u=8a05f38742ebad245297f85e494cffa932d49f14&v=4)|
+| #181 | Aredio Vani | 9 | 68 | ![](https://avatars.githubusercontent.com/u/37985831?s=72&u=5c55022b16c3f779b6bbf810306aebdd85392a82&v=4)|
+| #182 | Andi Shkembi | 4 | 63 | ![](https://avatars.githubusercontent.com/u/8188961?s=72&u=29d45eb353c4761ba5788e7e69e78289ce9284f5&v=4)|
+| #183 | null | 10 | 63 | ![](https://avatars.githubusercontent.com/u/49815928?s=72&u=96a9c532f3833dd2d1dce3ec578bbe8aac22a445&v=4)|
+| #184 | Izabela Bakollari | 11 | 63 | ![](https://avatars.githubusercontent.com/u/7606423?s=72&u=017f7c54500b679e2a418468447b9020d6702c21&v=4)|
+| #185 | Webverse | 17 | 63 | ![](https://avatars.githubusercontent.com/u/32201875?s=72&u=b48e05d77b5a9b8bc5bba86787f2a229cdbaeec7&v=4)|
+| #186 | Ermal Vrapi | 0 | 61 | ![](https://avatars.githubusercontent.com/u/46670049?s=72&u=ce1e1cd41861a86f26e887bae1ebb78527d5f340&v=4)|
+| #187 | Klevis | 1 | 60 | ![](https://avatars.githubusercontent.com/u/66927289?s=72&v=4)|
+| #188 | Vena Llanaj | 1 | 60 | ![](https://avatars.githubusercontent.com/u/71196658?s=72&u=f7c456642846459dcb21aceb4058799b205637b5&v=4)|
+| #189 | Gremza Digital Solution | 0 | 58 | ![](https://avatars.githubusercontent.com/u/33659681?s=72&u=22917f806fb6273c7c8d4f9ef5f5d38b7de78e2a&v=4)|
+| #190 | null | 36 | 58 | ![](https://avatars.githubusercontent.com/u/46546732?s=72&u=dec53dd0d304c2b10f7c581ac108acb37af47cce&v=4)|
+| #191 | Frenci Rama | 7 | 56 | ![](https://avatars.githubusercontent.com/u/13355808?s=72&u=6c3f73421c2206eff305a1eb25d4003487a27355&v=4)|
+| #192 | Marvin Hoxha | 3 | 55 | ![](https://avatars.githubusercontent.com/u/64254074?s=72&u=f772984832015b6b3ebdadf0a168b98267216df6&v=4)|
+| #193 | Ledio Koçi | 7 | 54 | ![](https://avatars.githubusercontent.com/u/63104818?s=72&u=2328dfc5bf387228c2c0d63de05997b4f968b6ec&v=4)|
+| #194 | Mateo | 0 | 51 | ![](https://avatars.githubusercontent.com/u/75898421?s=72&u=ebac17de09b3f709d7632dc4207a53ddfc7b1558&v=4)|
+| #195 | null | 0 | 51 | ![](https://avatars.githubusercontent.com/u/83023253?s=72&u=5642f0e6abc3d52e7fd08cfb4553b853453f40be&v=4)|
+| #196 | Ken | 23 | 51 | ![](https://avatars.githubusercontent.com/u/34059898?s=72&u=2f16046ed77f048bf6a7a8815347d32f2bf7b061&v=4)|
+| #197 | Edra Tabaku | 13 | 50 | ![](https://avatars.githubusercontent.com/u/68347994?s=72&u=d28575debb919fe64b5af813bed2e155a332e4ce&v=4)|
+| #198 | Albin Zebi | 0 | 45 | ![](https://avatars.githubusercontent.com/u/60099296?s=72&u=9c771e46f4fda1e816ba157f386d2822c9ea28b6&v=4)|
+| #199 | Aldo Cano | 25 | 45 | ![](https://avatars.githubusercontent.com/u/8085145?s=72&u=7b813da0b0494e3451f1abc31312a3c6011e4141&v=4)|
+| #200 | Astrit Demiri | 3 | 44 | ![](https://avatars.githubusercontent.com/u/11302890?s=72&u=00c1c4012166090ca2e27df6ffbcef7fd0825b93&v=4)|
+| #201 | Ardit Xhanaj | 1 | 42 | ![](https://avatars.githubusercontent.com/u/87133189?s=72&u=834c40d23409b00ee7eaa6401680c031aa7e88f7&v=4)|
+| #202 | null | 2 | 41 | ![](https://avatars.githubusercontent.com/u/47557332?s=72&u=ed4e5c1cdcacc5fb6ec4a5989884ca7addc9ba4a&v=4)|
+| #203 | FR13NDS | 7 | 41 | ![](https://avatars.githubusercontent.com/u/62477193?s=72&u=f6e0919758ccea5f9dde97039f6acf8c6c6bfe14&v=4)|
+| #204 | Ergis Gjergji | 0 | 40 | ![](https://avatars.githubusercontent.com/u/59146973?s=72&v=4)|
+| #205 | Archx0Mas | 5 | 40 | ![](https://avatars.githubusercontent.com/u/70807598?s=72&u=fca4c3d2aa990bc03191717568831d38f842187a&v=4)|
+| #206 | null | 9 | 40 | ![](https://avatars.githubusercontent.com/u/9430573?s=72&u=009eab24085fe07622fe449620096b31e339ae2a&v=4)|
+| #207 | Oraldo Hysaj | 0 | 39 | ![](https://avatars.githubusercontent.com/u/87261813?s=72&v=4)|
+| #208 | Nezir Demko | 1 | 39 | ![](https://avatars.githubusercontent.com/u/34752859?s=72&u=af6fca15e183d8010def39b7052e26cf9ca9815b&v=4)|
+| #209 | David Guri | 0 | 36 | ![](https://avatars.githubusercontent.com/u/81036791?s=72&u=5372671fb7ab2376f37815a1108a687904baa33d&v=4)|
+| #210 | Eric Stemmler | 0 | 36 | ![](https://avatars.githubusercontent.com/u/14731447?s=72&u=b9db3caf95e075741d1e8e156f0f2690743e4158&v=4)|
+| #211 | ƬHE ЯAW ☣ | 29 | 36 | ![](https://avatars.githubusercontent.com/u/32969774?s=72&u=6b359971e15685fb0359e6a8c065a399b40dc228&v=4)|
+| #212 | Elvjo Fejzo | 0 | 35 | ![](https://avatars.githubusercontent.com/u/77446151?s=72&u=1070376d3719983fd2314219b9ac4b8cde14c76a&v=4)|
+| #213 | Olsi Hoxha | 0 | 35 | ![](https://avatars.githubusercontent.com/u/66084880?s=72&u=3d155e322905998d9f05c5bbd0500091891d875f&v=4)|
+| #214 | Olsi Hoxha | 0 | 35 | ![](https://avatars.githubusercontent.com/u/66084880?s=72&u=3d155e322905998d9f05c5bbd0500091891d875f&v=4)|
+| #215 | Albin Gjonaj | 2 | 35 | ![](https://avatars.githubusercontent.com/u/92172913?s=72&u=27fe25d46b3f2772ac52bbab02f68863d00ab3fb&v=4)|
+| #216 | Getson Cela | 12 | 35 | ![](https://avatars.githubusercontent.com/u/10776429?s=72&u=d2bd9862aae9b33074f109a6741dce73e3a33952&v=4)|
+| #217 | Julian Muslia | 0 | 34 | ![](https://avatars.githubusercontent.com/u/10553138?s=72&u=09ee018dfa35af82a70f8a1995c9a16df444aba6&v=4)|
+| #218 | Boris Budini | 23 | 34 | ![](https://avatars.githubusercontent.com/u/11447306?s=72&v=4)|
+| #219 | null | 1 | 33 | ![](https://avatars.githubusercontent.com/u/25196150?s=72&u=64b3b70d833d833f55b282755a781eebf3ed9834&v=4)|
+| #220 | Luan Sinani | 2 | 33 | ![](https://avatars.githubusercontent.com/u/32123956?s=72&u=351168f45882e2ebb4b2267ceea8d87269bc2a8a&v=4)|
+| #221 | Kendi Gjepali | 7 | 33 | ![](https://avatars.githubusercontent.com/u/42900883?s=72&u=052374ea96abb8ff2928b4b401c9530881d209bc&v=4)|
+| #222 | Lori K. | 1 | 32 | ![](https://avatars.githubusercontent.com/u/22913459?s=72&u=b2997cbaabf6c99bdceff3ef7c04224b0d4ee2bb&v=4)|
+| #223 | Lutmira Kanani | 5 | 32 | ![](https://avatars.githubusercontent.com/u/73383728?s=72&u=3f94fa00094c06ca1a2aef30ea8716191f150609&v=4)|
+| #224 | Klevin Delimeta | 6 | 32 | ![](https://avatars.githubusercontent.com/u/566916?s=72&u=42f5ee72e86df3516d87d26fbf9ae88d7075bc7d&v=4)|
+| #225 | Adela Thomaj Hoti | 8 | 32 | ![](https://avatars.githubusercontent.com/u/87237785?s=72&u=6a04f71ccf7c34520be40fd9a907f18e468c9874&v=4)|
+| #226 | Redis Rira | 0 | 31 | ![](https://avatars.githubusercontent.com/u/50552363?s=72&u=dc03cab215221810a983e5b6d496f0b1c2fff00e&v=4)|
+| #227 | Helgi | 7 | 31 | ![](https://avatars.githubusercontent.com/u/41377909?s=72&u=d00c6389a9f92530b82fe648f4e5dc536afe3ca4&v=4)|
+| #228 | Emiljan Dusha | 8 | 31 | ![](https://avatars.githubusercontent.com/u/57961738?s=72&u=f894945c69e8f08f66fa5d6644204f1aaa2a24b6&v=4)|
+| #229 | Arvin Xamo | 1 | 30 | ![](https://avatars.githubusercontent.com/u/34593873?s=72&u=4b967311bd9af76a35ec9bcc29621103a0a5f03d&v=4)|
+| #230 | Marti Belegu | 3 | 30 | ![](https://avatars.githubusercontent.com/u/48526054?s=72&u=93ba95b3b23462d380ebf1f81d4353e30eeda881&v=4)|
+| #231 | Erlis Balla | 6 | 29 | ![](https://avatars.githubusercontent.com/u/40136986?s=72&u=87c77147daf36e71e319ac38c6e4f7606195d3fc&v=4)|
+| #232 | Dustin Shi | 0 | 28 | ![](https://avatars.githubusercontent.com/u/72060364?s=72&u=137c9b30bf0a415aa55babd562f9ef40e2b995bf&v=4)|
+| #233 | Martina Karalliu | 3 | 28 | ![](https://avatars.githubusercontent.com/u/60017300?s=72&v=4)|
+| #234 | Gledi Caushaj | 8 | 28 | ![](https://avatars.githubusercontent.com/u/411820?s=72&u=4cc80e5b76d24b46d3a89aa8df69c13da428e016&v=4)|
+| #235 | Enes Hamzaj | 13 | 28 | ![](https://avatars.githubusercontent.com/u/48931439?s=72&u=aeae994f65833c7b0daeac9925605d7180a53e5b&v=4)|
+| #236 | Ergi Bërdëllima | 17 | 28 | ![](https://avatars.githubusercontent.com/u/32834003?s=72&u=1683c413035dc2475358032d6d919eaf510a3700&v=4)|
+| #237 | Armend Ostaku | 0 | 27 | ![](https://avatars.githubusercontent.com/u/38588709?s=72&u=406ca3f02bd23b7a745ab1c5512419b71555d965&v=4)|
+| #238 | Jon Mukaj | 0 | 27 | ![](https://avatars.githubusercontent.com/u/78703349?s=72&v=4)|
+| #239 | Kristi Meçuli | 0 | 27 | ![](https://avatars.githubusercontent.com/u/40893475?s=72&v=4)|
+| #240 | Ergest NAKO | 3 | 27 | ![](https://avatars.githubusercontent.com/u/318645?s=72&v=4)|
+| #241 | Gent Bajko | 13 | 27 | ![](https://avatars.githubusercontent.com/u/59751573?s=72&u=5e98d4a94fc3cc52dce36f91f7ee8dc9204942bf&v=4)|
+| #242 | null | 20 | 27 | ![](https://avatars.githubusercontent.com/u/22299171?s=72&u=5ee0f4cf1c804c5139a5c23afc0439f15ae839c9&v=4)|
+| #243 | Elisa Pashku | 3 | 26 | ![](https://avatars.githubusercontent.com/u/66138877?s=72&v=4)|
+| #244 | Lejdi Prifti | 4 | 26 | ![](https://avatars.githubusercontent.com/u/48070440?s=72&u=99d871e59cfc20320e7644a680fedb92a290308f&v=4)|
+| #245 | Lejdi Prifti | 4 | 26 | ![](https://avatars.githubusercontent.com/u/48070440?s=72&u=99d871e59cfc20320e7644a680fedb92a290308f&v=4)|
+| #246 | Edmond Alimehmeti | 0 | 25 | ![](https://avatars.githubusercontent.com/u/43119699?s=72&v=4)|
+| #247 | null | 1 | 25 | ![](https://avatars.githubusercontent.com/u/81464767?s=72&u=8fa21da8f9d7236c6775b977d7ddf996c0fc647e&v=4)|
+| #248 | Florjan Vladi | 1 | 25 | ![](https://avatars.githubusercontent.com/u/1277252?s=72&v=4)|
+| #249 | Aida | 0 | 24 | ![](https://avatars.githubusercontent.com/u/36128248?s=72&u=817c9b156305a63de2e23fcd8f240a87888d5c3b&v=4)|
+| #250 | Aida | 0 | 24 | ![](https://avatars.githubusercontent.com/u/36128248?s=72&u=817c9b156305a63de2e23fcd8f240a87888d5c3b&v=4)|
+| #251 | Adalen Vladi | 45 | 24 | ![](https://avatars.githubusercontent.com/u/7238874?s=72&v=4)|
+| #252 | Ardi Goxhaj | 5 | 23 | ![](https://avatars.githubusercontent.com/u/5362555?s=72&u=4753528a74629987222757461aafa76274711957&v=4)|
+| #253 | Guido Xhindoli | 5 | 23 | ![](https://avatars.githubusercontent.com/u/57273001?s=72&u=bc10c5f6c874a2c24843f017e9e2f9a68b391c11&v=4)|
+| #254 | Albina Boshku | 5 | 23 | ![](https://avatars.githubusercontent.com/u/81375658?s=72&u=ccb1ef41cbe20c821ba38ee61181d2ae6b0c93ba&v=4)|
+| #255 | Amanti Lulo | 6 | 23 | ![](https://avatars.githubusercontent.com/u/6141105?s=72&u=68871459b4c842e2747d4f97abf286dd33940764&v=4)|
+| #256 | Romarjo Balukja | 7 | 23 | ![](https://avatars.githubusercontent.com/u/37499914?s=72&u=ffd2120b98478eaf480a53d614a9f9ab73f22207&v=4)|
+| #257 | Silvester Hasani | 0 | 22 | ![](https://avatars.githubusercontent.com/u/36986878?s=72&u=9d52acc850f4333d03152074d7e34fd13703efd4&v=4)|
+| #258 | Enxhi Tabaku | 1 | 22 | ![](https://avatars.githubusercontent.com/u/43711393?s=72&u=19c032ca0442ce2098a4b47a28c3997cb4c4b1de&v=4)|
+| #259 | Xhoni | 2 | 22 | ![](https://avatars.githubusercontent.com/u/29339199?s=72&u=8c09bbb2f1984c56a0b744903a02f3770c50a060&v=4)|
+| #260 | toni | 7 | 22 | ![](https://avatars.githubusercontent.com/u/24297746?s=72&u=28eb64d714d2f8b181a71efcb2c1dc456668512d&v=4)|
+| #261 | Edison Ponari | 9 | 22 | ![](https://avatars.githubusercontent.com/u/61910013?s=72&u=318ed7435aaaef48cacb7cd6f0e09a35263b9231&v=4)|
+| #262 | Altin Karaulli | 0 | 21 | ![](https://avatars.githubusercontent.com/u/94201903?s=72&u=c0bb71e614bd7354982bbc60476df18819674b23&v=4)|
+| #263 | Aulona Kolicaj | 0 | 21 | ![](https://avatars.githubusercontent.com/u/28823367?s=72&v=4)|
+| #264 | Dajan Vulaj | 3 | 21 | ![](https://avatars.githubusercontent.com/u/6430816?s=72&u=d9f8ecae74de0356d98c34ecbab24a941af7e353&v=4)|
+| #265 | Petrit Lame | 5 | 21 | ![](https://avatars.githubusercontent.com/u/48964432?s=72&u=f04fcbea4ce704be8f0a5019b3510d2c99c4c9f5&v=4)|
+| #266 | Esmerald Dedushaj | 0 | 20 | ![](https://avatars.githubusercontent.com/u/49416492?s=72&u=45700631a9f64e9079b6a42a42b19b0dc01b792f&v=4)|
+| #267 | Megi Serjanaj | 0 | 20 | ![](https://avatars.githubusercontent.com/u/89906123?s=72&u=67a28f88cc8fed567544ba31f977c4b38a47f69d&v=4)|
+| #268 | endri xhukellari | 1 | 20 | ![](https://avatars.githubusercontent.com/u/32928261?s=72&u=d0ebd389bbcf4120ef8d6ae893a355aec5c45862&v=4)|
+| #269 | Ilirjan Rexho | 1 | 20 | ![](https://avatars.githubusercontent.com/u/61479363?s=72&v=4)|
+| #270 | Rrok Luli | 2 | 20 | ![](https://avatars.githubusercontent.com/u/58312327?s=72&v=4)|
+| #271 | Arbi Hysko | 3 | 20 | ![](https://avatars.githubusercontent.com/u/53000510?s=72&u=8bca936aaf12f0e5e691c62c0a1d955ed18c8f70&v=4)|
+| #272 |  Code With Enea Ruka | 19 | 20 | ![](https://avatars.githubusercontent.com/u/96395906?s=72&u=3c423c49473312a15c7937421671c7ff816bf091&v=4)|
+| #273 | Enerida Lama | 4 | 19 | ![](https://avatars.githubusercontent.com/u/65872895?s=72&u=8e53e4ebb7b43847e89a810a145f9e5b0f33ecd6&v=4)|
+| #274 | Elian Ibaj | 7 | 19 | ![](https://avatars.githubusercontent.com/u/2972085?s=72&u=4ed93701256b5810567fc6be6df4ec5ee50c06da&v=4)|
+| #275 | Naun Telo | 12 | 19 | ![](https://avatars.githubusercontent.com/u/24767579?s=72&u=7c64b44c87538bdd7d94e0853704de6e299836de&v=4)|
+| #276 | Oerd Bej | 0 | 18 | ![](https://avatars.githubusercontent.com/u/69147540?s=72&u=8d00058f08b96d8a8cd23e1f9d17a9d012315395&v=4)|
+| #277 | Renalda Zhuka | 0 | 18 | ![](https://avatars.githubusercontent.com/u/96175667?s=72&u=da70b7a9bc9bd6def8264970801dcd07e6d9e48d&v=4)|
+| #278 | Vaska | 0 | 18 | ![](https://avatars.githubusercontent.com/u/33496849?s=72&v=4)|
+| #279 | Enea Xharau | 1 | 18 | ![](https://avatars.githubusercontent.com/u/95291297?s=72&v=4)|
+| #280 | Driant Naun | 1 | 18 | ![](https://avatars.githubusercontent.com/u/8021014?s=72&u=dd54760bb4e09f014e84a4896f90a8e061b532da&v=4)|
+| #281 | Bruno Dushi | 10 | 18 | ![](https://avatars.githubusercontent.com/u/7293957?s=72&v=4)|
+| #282 | Arnold Kenaci | 52 | 18 | ![](https://avatars.githubusercontent.com/u/11477120?s=72&v=4)|
+| #283 | Skerd Mullaj | 1 | 17 | ![](https://avatars.githubusercontent.com/u/92816889?s=72&u=e2b1c2e1235122bd7f641c741321b95c25042556&v=4)|
+| #284 | Emin Kokalari | 2 | 17 | ![](https://avatars.githubusercontent.com/u/8820741?s=72&v=4)|
+| #285 | Polina | 12 | 17 | ![](https://avatars.githubusercontent.com/u/31825825?s=72&u=d410778089aa4080f2a235e4518a0a700b4e609a&v=4)|
+| #286 | Jonida Baçi | 264 | 17 | ![](https://avatars.githubusercontent.com/u/60344290?s=72&u=70a24cfbeee37c19240ed61a29c307ae1beba05c&v=4)|
+| #287 | Orhan Asllani | 0 | 16 | ![](https://avatars.githubusercontent.com/u/48629225?s=72&v=4)|
+| #288 | Kevin Haxhi | 1 | 16 | ![](https://avatars.githubusercontent.com/u/51535794?s=72&u=66728d691e96a2ca9665dc63100e2c214f87ac5f&v=4)|
+| #289 | Rigers Duka | 3 | 16 | ![](https://avatars.githubusercontent.com/u/24621596?s=72&u=ece07aed8a6bf524fb12f74b32e0645cd1d7bcd5&v=4)|
+| #290 | Kristi Buda | 5 | 16 | ![](https://avatars.githubusercontent.com/u/20214454?s=72&u=67931cd471a0c3e8d6ef79b620a8b6fec7768531&v=4)|
+| #291 | Kliv Spahiu | 0 | 15 | ![](https://avatars.githubusercontent.com/u/53799629?s=72&v=4)|
+| #292 | Gentian Shkembi | 1 | 15 | ![](https://avatars.githubusercontent.com/u/23237203?s=72&v=4)|
+| #293 | Olta Dedej | 3 | 15 | ![](https://avatars.githubusercontent.com/u/35349342?s=72&v=4)|
+| #294 | Sidorela Uku | 38 | 15 | ![](https://avatars.githubusercontent.com/u/24439184?s=72&u=201e802855ea204f7493e603d2baaae07c578202&v=4)|
+| #295 | Baki Goxhaj | 129 | 15 | ![](https://avatars.githubusercontent.com/u/339914?s=72&v=4)|
+| #296 | Sehar Borici | 0 | 14 | ![](https://avatars.githubusercontent.com/u/77383643?s=72&v=4)|
+| #297 | Anxhela Tafani | 0 | 14 | ![](https://avatars.githubusercontent.com/u/64012334?s=72&v=4)|
+| #298 | Abdulla Fahem | 1 | 14 | ![](https://avatars.githubusercontent.com/u/49653818?s=72&u=6d5ae30ca33ca8b5c30bcb7a8ea550bc49321499&v=4)|
+| #299 | kallash | 1 | 14 | ![](https://avatars.githubusercontent.com/u/36623100?s=72&u=af452b82bd83e807fcdbb7707b9cbcb2fe82ad5c&v=4)|
+| #300 | Hackathon | 0 | 13 | ![](https://avatars.githubusercontent.com/u/83064125?s=72&u=81d036f2151a7c24a83f1b922bedf5511e663f1c&v=4)|
+| #301 | ardian | 0 | 13 | ![](https://avatars.githubusercontent.com/u/98280996?s=72&u=68764f24acf8fefb54455f3bc5defc31a37f5fa1&v=4)|
+| #302 | Gentjan Gjinalaj | 0 | 13 | ![](https://avatars.githubusercontent.com/u/101478921?s=72&v=4)|
+| #303 | Narasimha Rao Vajjhala | 1 | 13 | ![](https://avatars.githubusercontent.com/u/25825151?s=72&u=0944da52ebacc82faf26cc17faad14a722bbb59b&v=4)|
+| #304 | Daniel Bello | 2 | 13 | ![](https://avatars.githubusercontent.com/u/38752939?s=72&u=3b70d835248edfd2d61c8dda97acc0d0e151ffc7&v=4)|
+| #305 | laura toska | 4 | 13 | ![](https://avatars.githubusercontent.com/u/65419989?s=72&u=90153326544830aa5fdb11603860ed61abceb7b2&v=4)|
+| #306 | Admirim Korici | 4 | 13 | ![](https://avatars.githubusercontent.com/u/82025628?s=72&u=4ed50aa43b16e9586a00694e43eb943c72f116f8&v=4)|
+| #307 | Gazmir Sulcaj | 4 | 13 | ![](https://avatars.githubusercontent.com/u/47264949?s=72&v=4)|
+| #308 | null | 4 | 13 | ![](https://avatars.githubusercontent.com/u/47714399?s=72&u=2ce9b16c9a674af3211eee4f41914996b6293147&v=4)|
+| #309 | Alexander | 6 | 13 | ![](https://avatars.githubusercontent.com/u/3963686?s=72&u=1ebf037182e581e749249a55865dea3cb50439b6&v=4)|
+| #310 | Dhimiter Bundo | 8 | 13 | ![](https://avatars.githubusercontent.com/u/33829192?s=72&v=4)|
+| #311 | Olsi Seferi | 10 | 13 | ![](https://avatars.githubusercontent.com/u/72546616?s=72&u=d38df57578e7f053744d16e9756288376414bfe5&v=4)|
+| #312 | Gledis Ajazi | 0 | 12 | ![](https://avatars.githubusercontent.com/u/68384436?s=72&u=3999f8d5fb1ae5ffe0350a7f39ab5d3636b81341&v=4)|
+| #313 | Gledis Ajazi | 0 | 12 | ![](https://avatars.githubusercontent.com/u/68384436?s=72&u=3999f8d5fb1ae5ffe0350a7f39ab5d3636b81341&v=4)|
+| #314 | Jeton Stojku | 0 | 12 | ![](https://avatars.githubusercontent.com/u/10545400?s=72&u=f2ebfa394c17b69c9df6cfc1cde0a4c027140c0b&v=4)|
+| #315 | Ergest Basha | 0 | 12 | ![](https://avatars.githubusercontent.com/u/82515361?s=72&v=4)|
+| #316 | Anxhelo Lame | 1 | 12 | ![](https://avatars.githubusercontent.com/u/49105066?s=72&v=4)|
+| #317 | Nick Balani | 1 | 12 | ![](https://avatars.githubusercontent.com/u/4072741?s=72&v=4)|
+| #318 | Evisa Cankaj | 3 | 12 | ![](https://avatars.githubusercontent.com/u/52082258?s=72&v=4)|
+| #319 | Iris Xhafa | 5 | 12 | ![](https://avatars.githubusercontent.com/u/43078597?s=72&u=b76b787bd8be17764cc77644da6362f1cd0a8cb2&v=4)|
+| #320 | Kelvin Çobanaj | 39 | 12 | ![](https://avatars.githubusercontent.com/u/3618847?s=72&u=d25f9cf9bd0ed55326cb546615d5d7a825977d41&v=4)|
+| #321 | Andi Zeneli | 0 | 11 | ![](https://avatars.githubusercontent.com/u/29486931?s=72&v=4)|
+| #322 | Andi Zeneli | 0 | 11 | ![](https://avatars.githubusercontent.com/u/29486931?s=72&v=4)|
+| #323 | Everest Gjonaj | 2 | 11 | ![](https://avatars.githubusercontent.com/u/22114017?s=72&u=4ad0426f67beca61ff69f7cb2f154404aac34345&v=4)|
+| #324 | Sergen Skenderi | 3 | 11 | ![](https://avatars.githubusercontent.com/u/84309409?s=72&u=5a72d988a6e508648062ea2a9ab4d5053838f2a2&v=4)|
+| #325 | Enea Dhiamandi | 4 | 11 | ![](https://avatars.githubusercontent.com/u/10241950?s=72&u=519d8d9d0bb6f6e3e288c8d03856e6580011e73d&v=4)|
+| #326 | Alvin Konda | 8 | 11 | ![](https://avatars.githubusercontent.com/u/273284?s=72&u=489c5340df2251ff544a38f5030d651179ce457d&v=4)|
+| #327 | Marjo Ballabani | 13 | 11 | ![](https://avatars.githubusercontent.com/u/11302354?s=72&u=5bc0ecd758216b92138850d8fd8a1fcda981f9d4&v=4)|
+| #328 | Stefan Xhunga | 16 | 11 | ![](https://avatars.githubusercontent.com/u/15867310?s=72&v=4)|
+| #329 | Kristi Progri | 18 | 11 | ![](https://avatars.githubusercontent.com/u/22702783?s=72&u=a75336d87da4008b2d91bab1c45ecd070d671675&v=4)|
+| #330 | Krokodili | 0 | 10 | ![](https://avatars.githubusercontent.com/u/75593263?s=72&v=4)|
+| #331 | Rigers Allaraj | 0 | 10 | ![](https://avatars.githubusercontent.com/u/74452104?s=72&v=4)|
+| #332 | null | 0 | 10 | ![](https://avatars.githubusercontent.com/u/56355187?s=72&u=2de81ed66388be57176fc1fccee3e2263ed9e89d&v=4)|
+| #333 | null | 0 | 10 | ![](https://avatars.githubusercontent.com/u/56355187?s=72&u=2de81ed66388be57176fc1fccee3e2263ed9e89d&v=4)|
+| #334 | zeldaoot | 1 | 10 | ![](https://avatars.githubusercontent.com/u/69119318?s=72&u=9be20a83f89a5c04a8d2f9d34fa40d6d04c9d9a7&v=4)|
+| #335 | Fabio Qafa | 2 | 10 | ![](https://avatars.githubusercontent.com/u/89461877?s=72&u=bfea8db1e965d13e8148b392a54214e89c9a939e&v=4)|
+| #336 | null | 2 | 10 | ![](https://avatars.githubusercontent.com/u/48776346?s=72&v=4)|
+| #337 | Olard Siqeca | 2 | 10 | ![](https://avatars.githubusercontent.com/u/91147965?s=72&u=ae9d865352fb172b6aa06e95f3a84cae7c17c716&v=4)|
+| #338 | Xhino-Kurtaj | 5 | 10 | ![](https://avatars.githubusercontent.com/u/28669133?s=72&u=b970849d0bf9b2ccf158321aa337e54ddfa5c2e8&v=4)|
+| #339 | Aleks Tare | 6 | 10 | ![](https://avatars.githubusercontent.com/u/37328175?s=72&u=7c7d6bf72153bf3ee2d95e4f73ef9363b220266e&v=4)|
+| #340 | Ervin Capi | 0 | 9 | ![](https://avatars.githubusercontent.com/u/26812360?s=72&v=4)|
+| #341 | Ricardo | 0 | 9 | ![](https://avatars.githubusercontent.com/u/82515952?s=72&u=252cd7ac0ed976d6d71c9f9b7e472c91795375d3&v=4)|
+| #342 | Flavio Bejko | 1 | 9 | ![](https://avatars.githubusercontent.com/u/20670428?s=72&u=206c74522f9ec2cf29e91d720a4ce4b4819bf354&v=4)|
+| #343 | Ledian Manja | 1 | 9 | ![](https://avatars.githubusercontent.com/u/48760118?s=72&v=4)|
+| #344 | Armando | 4 | 9 | ![](https://avatars.githubusercontent.com/u/19243790?s=72&u=eb7be444510f75820f2ad4339925bbb85fd64618&v=4)|
+| #345 | Danilo Kasemi | 6 | 9 | ![](https://avatars.githubusercontent.com/u/30212260?s=72&u=7f9130fd41af08c1f0d6a4f845956a399f5da73f&v=4)|
+| #346 | null | 7 | 9 | ![](https://avatars.githubusercontent.com/u/34451117?s=72&u=b7b96fa4c427b27650404d5e4f13093cb3ef0855&v=4)|
+| #347 | Redion | 0 | 8 | ![](https://avatars.githubusercontent.com/u/40147284?s=72&u=1a0fb6277258ac1538d3821d711238d6721e2f69&v=4)|
+| #348 | Ilirjan Troci | 0 | 8 | ![](https://avatars.githubusercontent.com/u/50831829?s=72&u=8681d01efd77bc8f9233e76ef4cdf2a0fe092caf&v=4)|
+| #349 | Dario Sejdini | 0 | 8 | ![](https://avatars.githubusercontent.com/u/83881136?s=72&v=4)|
+| #350 | Avjol Sakaj | 2 | 8 | ![](https://avatars.githubusercontent.com/u/18752945?s=72&u=dad58a180cfeccae3d8c48175403471ca91f6e38&v=4)|
+| #351 | Refat Agolli | 3 | 8 | ![](https://avatars.githubusercontent.com/u/30299649?s=72&v=4)|
+| #352 | Jonida Salihila | 0 | 7 | ![](https://avatars.githubusercontent.com/u/91208941?s=72&u=f5dd47827f55eb6e43f359a9a902a843f3cf0092&v=4)|
+| #353 | Albania Smart Solution | 0 | 7 | ![](https://avatars.githubusercontent.com/u/94110756?s=72&v=4)|
+| #354 | Rovena Dikellari | 0 | 7 | ![](https://avatars.githubusercontent.com/u/90726403?s=72&v=4)|
+| #355 | Borano Llana | 0 | 7 | ![](https://avatars.githubusercontent.com/u/49500069?s=72&v=4)|
+| #356 | Florian Agalliu | 0 | 7 | ![](https://avatars.githubusercontent.com/u/61518752?s=72&v=4)|
+| #357 | Florian Agalliu | 0 | 7 | ![](https://avatars.githubusercontent.com/u/61518752?s=72&v=4)|
 | #358 | null | 0 | 7 | ![](https://avatars.githubusercontent.com/u/87064971?s=72&u=981210b9cb6d93f813836cf502bb623b810d114c&v=4)|
 | #359 | Dorela Sinjari | 0 | 7 | ![](https://avatars.githubusercontent.com/u/57863696?s=72&u=049b63a20b81a9208d954f54eb170d2eb26617a2&v=4)|
 | #360 | null | 1 | 7 | ![](https://avatars.githubusercontent.com/u/32703650?s=72&u=902e608a1345d3854ba37a062a9b57382e47b984&v=4)|
@@ -373,152 +373,152 @@ Raking is based on Contributions.
 | #364 | Erland Muchasaj | 5 | 7 | ![](https://avatars.githubusercontent.com/u/6152399?s=72&v=4)|
 | #365 | Theodhor Pandeli | 29 | 7 | ![](https://avatars.githubusercontent.com/u/10550843?s=72&v=4)|
 | #366 | Kristian Mosheqaj | 0 | 6 | ![](https://avatars.githubusercontent.com/u/93762269?s=72&v=4)|
-| #367 | Armand | 0 | 6 | ![](https://avatars.githubusercontent.com/u/27824516?s=72&v=4)|
-| #368 | Geri Ramadani | 0 | 6 | ![](https://avatars.githubusercontent.com/u/59540202?s=72&v=4)|
-| #369 | Vasili Rigels | 0 | 6 | ![](https://avatars.githubusercontent.com/u/50117809?s=72&u=4714a04da43d65adcd3c27c6b951b30243fa1155&v=4)|
-| #370 | null | 0 | 6 | ![](https://avatars.githubusercontent.com/u/11331004?s=72&u=85eee5728e46b0f40d8b5113485f0e9cb707a322&v=4)|
-| #371 | virtytlesha | 0 | 6 | ![](https://avatars.githubusercontent.com/u/58443982?s=72&u=96fad5b43256885a369c393588d4b109d97f1e3d&v=4)|
-| #372 | Bedri Allkja | 0 | 6 | ![](https://avatars.githubusercontent.com/u/40234089?s=72&u=61b980a83a6910895d5423274dbcad3b270ff0c9&v=4)|
-| #373 | Andi Allaraj | 1 | 6 | ![](https://avatars.githubusercontent.com/u/4312074?s=72&u=2f6e8120528607b608cba111a8cb046243712a6c&v=4)|
-| #374 | Megli Çitozi | 1 | 6 | ![](https://avatars.githubusercontent.com/u/90471416?s=72&u=dc90b04bfe2da246b850067671b29c64c518811d&v=4)|
-| #375 | Keltin Mesonjesi | 1 | 6 | ![](https://avatars.githubusercontent.com/u/59123033?s=72&v=4)|
-| #376 | Krisel Tola | 1 | 6 | ![](https://avatars.githubusercontent.com/u/33683153?s=72&v=4)|
-| #377 | null | 2 | 6 | ![](https://avatars.githubusercontent.com/u/65036281?s=72&u=ab40943a5ff5238ff7d19ba0586faaa0723c9bde&v=4)|
-| #378 | Stiven Ballshi | 2 | 6 | ![](https://avatars.githubusercontent.com/u/75454690?s=72&v=4)|
-| #379 | Edi Hoxhalli | 2 | 6 | ![](https://avatars.githubusercontent.com/u/22107061?s=72&u=cd0c34b8ed059a819f423c62846cca43285e2a1b&v=4)|
-| #380 | Vasil Dhima | 3 | 6 | ![](https://avatars.githubusercontent.com/u/19821897?s=72&v=4)|
-| #381 | Besnik Hysaj | 4 | 6 | ![](https://avatars.githubusercontent.com/u/2910983?s=72&v=4)|
-| #382 | Jeton Kukalaj | 6 | 6 | ![](https://avatars.githubusercontent.com/u/20740821?s=72&u=a0a1d608bdedbf475b11e720f7119bc4ece8f162&v=4)|
-| #383 | Skerdilajd Hoxha | 0 | 5 | ![](https://avatars.githubusercontent.com/u/18120219?s=72&u=48b91961c1c345da4177ca9581cb8fc6f4cb5d66&v=4)|
-| #384 | ERi Musa | 0 | 5 | ![](https://avatars.githubusercontent.com/u/47810645?s=72&u=1ced6587dee7aed446ae9481a1b74afbcf3b8726&v=4)|
-| #385 | Mart Gjepali | 0 | 5 | ![](https://avatars.githubusercontent.com/u/84089442?s=72&u=29746d380795c815eba804bb629135cfe6919536&v=4)|
-| #386 | Alesiodev | 0 | 5 | ![](https://avatars.githubusercontent.com/u/81259288?s=72&u=6ba374c6921d80d20c43bb1b955a24baa190c6d5&v=4)|
-| #387 | Andi Cuku | 0 | 5 | ![](https://avatars.githubusercontent.com/u/87309852?s=72&v=4)|
-| #388 | Iris Beci | 0 | 5 | ![](https://avatars.githubusercontent.com/u/57106955?s=72&u=f0c14e1e98fd6544bd1f2fcdc669b38ebad1994f&v=4)|
-| #389 | Aveyo | 0 | 5 | ![](https://avatars.githubusercontent.com/u/99537765?s=72&u=e77bb601272a541a92bd81d6e86a33f7da667051&v=4)|
-| #390 | Mariol Cakalli | 1 | 5 | ![](https://avatars.githubusercontent.com/u/46714234?s=72&u=3ae1157d87448520afa426ed9b1c251ddf5963af&v=4)|
-| #391 | Klevis | 1 | 5 | ![](https://avatars.githubusercontent.com/u/88836204?s=72&u=446934ae26ae5e805a738e7807febc72463c04bd&v=4)|
-| #392 | Aldiger | 2 | 5 | ![](https://avatars.githubusercontent.com/u/16941043?s=72&v=4)|
-| #393 | Mariksel Azemaj | 3 | 5 | ![](https://avatars.githubusercontent.com/u/5481061?s=72&u=473e0aeb4b98b0c0f58bb28377892b9bb085dbe1&v=4)|
-| #394 | Marxhes Allka | 3 | 5 | ![](https://avatars.githubusercontent.com/u/93681009?s=72&v=4)|
-| #395 | Ardit Zavalina | 4 | 5 | ![](https://avatars.githubusercontent.com/u/35269845?s=72&u=9c536112db0f77bfd41ed69f3ac112e518959a31&v=4)|
-| #396 | Albi Abdyli | 6 | 5 | ![](https://avatars.githubusercontent.com/u/12082282?s=72&v=4)|
-| #397 | Edvin Molla | 17 | 5 | ![](https://avatars.githubusercontent.com/u/43499049?s=72&u=43d17a148447c602081659b0651a44426b5ee9f3&v=4)|
-| #398 | Elis Vathi | 17 | 5 | ![](https://avatars.githubusercontent.com/u/20973113?s=72&u=6980273442c79d454e4a2aadee5ae7d6b082c842&v=4)|
-| #399 | Daniel | 0 | 4 | ![](https://avatars.githubusercontent.com/u/30016710?s=72&v=4)|
-| #400 | ArsiAvdiu | 0 | 4 | ![](https://avatars.githubusercontent.com/u/55880053?s=72&u=d5527432d1b2c810ff72a652dfc0fe2a3cb6fdcf&v=4)|
-| #401 | null | 0 | 4 | ![](https://avatars.githubusercontent.com/u/81775461?s=72&u=36603facb12bc2f664b6c6ef7ef3bc925f8fc3ab&v=4)|
-| #402 | Arber Lisaj | 0 | 4 | ![](https://avatars.githubusercontent.com/u/96192676?s=72&u=dfc4e7cb8d94031d8df9a12cae111d2f5034f6f6&v=4)|
-| #403 | Renaldo Shehaj | 0 | 4 | ![](https://avatars.githubusercontent.com/u/8112845?s=72&u=f1e113553fef8c4a56ffffc8a83ea5061a5c7baa&v=4)|
-| #404 | Emanuel Elezi | 0 | 4 | ![](https://avatars.githubusercontent.com/u/99650397?s=72&u=330f044f4ef864e0ef50a99cd773a248306d1851&v=4)|
-| #405 | Ardit Meti | 1 | 4 | ![](https://avatars.githubusercontent.com/u/6298453?s=72&u=f68a987eec8cd6a9d9e0eab258b195e80e831b5f&v=4)|
-| #406 | Gerind | 1 | 4 | ![](https://avatars.githubusercontent.com/u/52495522?s=72&u=118deae6aea1a56cf9255620dec5b24bb194b2dc&v=4)|
-| #407 | Ervin Kalemi | 2 | 4 | ![](https://avatars.githubusercontent.com/u/1066392?s=72&u=70a524f8c8b9e16766c0807fb55ff96c53307cd0&v=4)|
-| #408 | null | 2 | 4 | ![](https://avatars.githubusercontent.com/u/58704597?s=72&u=f22a3523228dde4fb5ee73380455d8bd41f7b4dd&v=4)|
-| #409 | Klodian Koni | 2 | 4 | ![](https://avatars.githubusercontent.com/u/29890316?s=72&u=0a3091c7b2297b9ef8321e8002d0c4c9a212910b&v=4)|
-| #410 | Erlind Salla | 3 | 4 | ![](https://avatars.githubusercontent.com/u/38862522?s=72&v=4)|
-| #411 | Emanuel  | 3 | 4 | ![](https://avatars.githubusercontent.com/u/73133812?s=72&u=ffaca6b28f1dfa18874e9941cc09f420733816b8&v=4)|
-| #412 | Renato Hoxha | 3 | 4 | ![](https://avatars.githubusercontent.com/u/17928937?s=72&v=4)|
-| #413 | Remion Bacova | 4 | 4 | ![](https://avatars.githubusercontent.com/u/36884588?s=72&u=7a8cff55c213ef42cfd0871430622261b2660361&v=4)|
-| #414 | Endri Demiraj | 7 | 4 | ![](https://avatars.githubusercontent.com/u/58988436?s=72&u=75517d5ef115b9cb74160cbaae7ccfa2f1614f20&v=4)|
-| #415 | Reidi Qyrku | 7 | 4 | ![](https://avatars.githubusercontent.com/u/13979044?s=72&u=3f52a2726ed67beb16a747aa83df5e1316cbcb40&v=4)|
-| #416 | aksonai | 37 | 4 | ![](https://avatars.githubusercontent.com/u/19408147?s=72&u=666ad081566aee7179a61a503efddd2bad016094&v=4)|
-| #417 | BabiKoqi | 128 | 4 | ![](https://avatars.githubusercontent.com/u/48030041?s=72&u=d433918b19a7a4c41f52886713259722a4241bb4&v=4)|
-| #418 | Suada Rexha | 0 | 3 | ![](https://avatars.githubusercontent.com/u/99962840?s=72&u=b0397c90ea3d196196191ff1dcf9ee147fdcba40&v=4)|
-| #419 | Nullius in Verba | 0 | 3 | ![](https://avatars.githubusercontent.com/u/95311124?s=72&u=656462a24d6d4cf08a2b27e7778551e7dd37398b&v=4)|
-| #420 | Renato Tollozhina | 0 | 3 | ![](https://avatars.githubusercontent.com/u/94115005?s=72&u=2c58d5e1ea3d07cdb92c9740ce5dcf5778689eb5&v=4)|
-| #421 | Jari | 0 | 3 | ![](https://avatars.githubusercontent.com/u/85380261?s=72&v=4)|
-| #422 | Ervin Halilaj | 0 | 3 | ![](https://avatars.githubusercontent.com/u/87720863?s=72&u=6882d24ba85a46d33b61c3ca2f20c624ca53daf7&v=4)|
-| #423 | Fation Qama | 0 | 3 | ![](https://avatars.githubusercontent.com/u/80719736?s=72&u=3bca8da8034af9da2c6d4c89707095ce92d4eb2a&v=4)|
-| #424 | Aldi Poshnjari | 0 | 3 | ![](https://avatars.githubusercontent.com/u/75727096?s=72&u=6df239fb5875fb73031602002adc8182385f9426&v=4)|
-| #425 | Xhesilda Lutaj | 0 | 3 | ![](https://avatars.githubusercontent.com/u/81691702?s=72&v=4)|
-| #426 | Benard Sulejmani | 0 | 3 | ![](https://avatars.githubusercontent.com/u/58045001?s=72&u=e11039eeed8bbcfd676bd5ffd518db2fe84190f5&v=4)|
-| #427 | Mirela | 1 | 3 | ![](https://avatars.githubusercontent.com/u/5063340?s=72&v=4)|
-| #428 | null | 1 | 3 | ![](https://avatars.githubusercontent.com/u/65170239?s=72&u=f9d08c0b9cffb014aad9d81025db9735c71807d1&v=4)|
-| #429 | Kleidi Kumbaro | 2 | 3 | ![](https://avatars.githubusercontent.com/u/48261728?s=72&u=6a01559a00786e728d42fd47640982aa2efd2aee&v=4)|
-| #430 | Klaidi Dingu | 2 | 3 | ![](https://avatars.githubusercontent.com/u/28155173?s=72&v=4)|
-| #431 | Aldo Tahirllari | 2 | 3 | ![](https://avatars.githubusercontent.com/u/21014286?s=72&u=b588252413de37157e5a50cb81072452fe184de9&v=4)|
-| #432 | Enis | 3 | 3 | ![](https://avatars.githubusercontent.com/u/16815369?s=72&u=3a3dc21b70813e7006b8f6d2f4ec4512fd486c8d&v=4)|
-| #433 | Holti | 3 | 3 | ![](https://avatars.githubusercontent.com/u/55942828?s=72&u=c34ac745ca7bd63b00836d790573b22a3b728deb&v=4)|
-| #434 | Indrit Qoku | 3 | 3 | ![](https://avatars.githubusercontent.com/u/5255787?s=72&u=47a8368165cb628585a0aac69b607bdfffab40e6&v=4)|
-| #435 | Erin Hoxha | 5 | 3 | ![](https://avatars.githubusercontent.com/u/29415274?s=72&u=cc398d84a82ca7d679af69fafa5dea89a3e5cca1&v=4)|
-| #436 | Alteo Caka | 6 | 3 | ![](https://avatars.githubusercontent.com/u/65288752?s=72&u=78cc77656c2b3913b60855b4e48006c539764163&v=4)|
-| #437 | Ardit Hoxhaj | 0 | 2 | ![](https://avatars.githubusercontent.com/u/64407772?s=72&v=4)|
-| #438 | Laert Boci | 0 | 2 | ![](https://avatars.githubusercontent.com/u/25208137?s=72&u=6b5c52f967bb85f1c2554b299878e247e319da83&v=4)|
-| #439 | Jetmir Ahmati | 0 | 2 | ![](https://avatars.githubusercontent.com/u/16473890?s=72&v=4)|
-| #440 | Loren Meta | 0 | 2 | ![](https://avatars.githubusercontent.com/u/74499033?s=72&u=c0de8a60347983bd57a07fbde448963ce8064ada&v=4)|
-| #441 | Ersad ⚕ Muçollari | 0 | 2 | ![](https://avatars.githubusercontent.com/u/50237114?s=72&u=0fd8cc5b448591ad13484b58186ca14f5c74071d&v=4)|
-| #442 | Shpetim Dushku | 0 | 2 | ![](https://avatars.githubusercontent.com/u/12295823?s=72&u=fd39794b6ceac2c3d6c8fe32c2e919148b2a9cb7&v=4)|
-| #443 | Endri Muço | 0 | 2 | ![](https://avatars.githubusercontent.com/u/97703082?s=72&u=71f4b1fe1cb988230dc9ca0a185bf4333d13e923&v=4)|
-| #444 | Xhuljan | 0 | 2 | ![](https://avatars.githubusercontent.com/u/11904942?s=72&v=4)|
-| #445 | Dejvis Sheshi | 0 | 2 | ![](https://avatars.githubusercontent.com/u/37831880?s=72&v=4)|
-| #446 | Enkel | 0 | 2 | ![](https://avatars.githubusercontent.com/u/94044486?s=72&v=4)|
-| #447 | Amina | 0 | 2 | ![](https://avatars.githubusercontent.com/u/84640590?s=72&v=4)|
-| #448 | Florjan Bregu | 0 | 2 | ![](https://avatars.githubusercontent.com/u/13553141?s=72&u=fe44ca3a0c7e4e6b807794129dc1ba935a253bf7&v=4)|
-| #449 | Cena | 0 | 2 | ![](https://avatars.githubusercontent.com/u/85101321?s=72&u=ebec40372d73a92d0ccc762fada50b0e5bf67fce&v=4)|
-| #450 | Paolo Kadiu | 0 | 2 | ![](https://avatars.githubusercontent.com/u/99748691?s=72&u=f235b6dac6ab423e511dd28037f3c062141add11&v=4)|
-| #451 | Lorenco | 0 | 2 | ![](https://avatars.githubusercontent.com/u/83535079?s=72&u=3ef55b40b9f7e840bb3f70aba94985fab527704f&v=4)|
-| #452 | Erjon Zenelaj | 0 | 2 | ![](https://avatars.githubusercontent.com/u/28533477?s=72&u=42b2fc717b4d05c9322abb6d581261dad67be852&v=4)|
-| #453 | Leo Hoxha | 0 | 2 | ![](https://avatars.githubusercontent.com/u/81651856?s=72&u=61ba33df63729769adcbf6f7af1e854cd1339542&v=4)|
-| #454 | Sirolius | 0 | 2 | ![](https://avatars.githubusercontent.com/u/92717770?s=72&u=63f1d4c38b9beaee6d695c249373e1415a152d14&v=4)|
-| #455 | Amarildo Xhyra | 0 | 2 | ![](https://avatars.githubusercontent.com/u/95319584?s=72&u=2ed53c59d327793e3b9963521eac251e9f210f7e&v=4)|
-| #456 | Matthew Oldaker | 1 | 2 | ![](https://avatars.githubusercontent.com/u/91485619?s=72&v=4)|
-| #457 | Aurel Zefi | 1 | 2 | ![](https://avatars.githubusercontent.com/u/20479111?s=72&u=0a55f57be447c4fe91fc877b47244b47c73bba8c&v=4)|
-| #458 | null | 1 | 2 | ![](https://avatars.githubusercontent.com/u/85708288?s=72&v=4)|
-| #459 | Klea Pilavi | 1 | 2 | ![](https://avatars.githubusercontent.com/u/82878085?s=72&u=4cf187741cf591442b2fd5ae3b4135de0f262a73&v=4)|
-| #460 | Silver Lila | 1 | 2 | ![](https://avatars.githubusercontent.com/u/23219173?s=72&v=4)|
-| #461 | Evi Balla | 1 | 2 | ![](https://avatars.githubusercontent.com/u/6513681?s=72&v=4)|
-| #462 | Marjana P. Skenduli | 1 | 2 | ![](https://avatars.githubusercontent.com/u/40635723?s=72&v=4)|
-| #463 | Fiorela Numani | 2 | 2 | ![](https://avatars.githubusercontent.com/u/74769876?s=72&v=4)|
-| #464 | Adem Gashi | 2 | 2 | ![](https://avatars.githubusercontent.com/u/7000808?s=72&v=4)|
-| #465 | Eljon Zagradi | 2 | 2 | ![](https://avatars.githubusercontent.com/u/46725455?s=72&u=46a41116ee9f6a94a9cc0d6fe7486642b7c18dcc&v=4)|
-| #466 | Blenard Pazari | 2 | 2 | ![](https://avatars.githubusercontent.com/u/20134071?s=72&v=4)|
-| #467 | Bruno | 3 | 2 | ![](https://avatars.githubusercontent.com/u/25440954?s=72&v=4)|
-| #468 | Ledjo Bego | 3 | 2 | ![](https://avatars.githubusercontent.com/u/31970049?s=72&u=6b4246fe53e0a0a827a61324e5d6f5224317b344&v=4)|
-| #469 | ableta | 4 | 2 | ![](https://avatars.githubusercontent.com/u/18583652?s=72&u=d350ef20ab5f598e66b14598c6da81525cc79cea&v=4)|
-| #470 | Krisid Misso | 4 | 2 | ![](https://avatars.githubusercontent.com/u/9657055?s=72&u=17fecd8436fe3c5f562d3e132f38989f906d87e8&v=4)|
-| #471 | Fledin Ymerasi | 4 | 2 | ![](https://avatars.githubusercontent.com/u/8150950?s=72&v=4)|
-| #472 | Alba Haxhimali | 5 | 2 | ![](https://avatars.githubusercontent.com/u/38000996?s=72&v=4)|
-| #473 | Medin Piranej | 6 | 2 | ![](https://avatars.githubusercontent.com/u/10618606?s=72&u=aaa2f978939b8112a7eef88591b2bf159010119e&v=4)|
-| #474 | Dorian Kane  | 7 | 2 | ![](https://avatars.githubusercontent.com/u/10589118?s=72&u=b4bd20d994a956a6896ee2b02fac0e54a435c7ff&v=4)|
-| #475 | Kreshnik Palushi | 8 | 2 | ![](https://avatars.githubusercontent.com/u/28730666?s=72&u=619088b9cc71622708fe9326e71f5030b4266ec7&v=4)|
-| #476 | Mateo Hoxha | 9 | 2 | ![](https://avatars.githubusercontent.com/u/31570771?s=72&u=490db9a1f1753d739b8c62afbf3313608f9d6f60&v=4)|
-| #477 | Orges Mihaj | 10 | 2 | ![](https://avatars.githubusercontent.com/u/10802548?s=72&u=aa992c55276bb621d7ad57ce5ec37be4dfd8e9fd&v=4)|
-| #478 | Jul Kreshpaj | 11 | 2 | ![](https://avatars.githubusercontent.com/u/24531244?s=72&u=fde4f247da8de4eecf57e16627e036ca56937192&v=4)|
-| #479 | Aurel Hoxha | 11 | 2 | ![](https://avatars.githubusercontent.com/u/38219629?s=72&u=47c3ba3aaa6f1f8ad1863eda47f8204b5e8c3da6&v=4)|
-| #480 | null | 15 | 2 | ![](https://avatars.githubusercontent.com/u/34771407?s=72&u=695b76f80da918476ab2bfb5c4ed0b041dcfca66&v=4)|
-| #481 | Jora Kasapi | 22 | 2 | ![](https://avatars.githubusercontent.com/u/35333751?s=72&u=5dd8d6d282ed293280e3d1d5216dfc080de10cdf&v=4)|
-| #482 | Astrit Bublaku | 0 | 1 | ![](https://avatars.githubusercontent.com/u/15063622?s=72&v=4)|
-| #483 | Anisa Buzi | 0 | 1 | ![](https://avatars.githubusercontent.com/u/97892503?s=72&v=4)|
-| #484 | Niko | 0 | 1 | ![](https://avatars.githubusercontent.com/u/14963864?s=72&v=4)|
-| #485 | null | 0 | 1 | ![](https://avatars.githubusercontent.com/u/82520181?s=72&v=4)|
-| #486 | Rezarta Myrtollari | 0 | 1 | ![](https://avatars.githubusercontent.com/u/75680073?s=72&v=4)|
-| #487 | Gerald Coba | 0 | 1 | ![](https://avatars.githubusercontent.com/u/71946315?s=72&u=9291d34e6d9fb899fc8462a75dc81d0df22b0fe4&v=4)|
-| #488 | xxdonaldixx | 0 | 1 | ![](https://avatars.githubusercontent.com/u/78810493?s=72&v=4)|
-| #489 | Romarjo | 0 | 1 | ![](https://avatars.githubusercontent.com/u/60077928?s=72&v=4)|
-| #490 | Violent Zani | 0 | 1 | ![](https://avatars.githubusercontent.com/u/9197949?s=72&v=4)|
-| #491 | null | 0 | 1 | ![](https://avatars.githubusercontent.com/u/20069900?s=72&v=4)|
-| #492 | null | 0 | 1 | ![](https://avatars.githubusercontent.com/u/88386271?s=72&v=4)|
-| #493 | Eduina | 0 | 1 | ![](https://avatars.githubusercontent.com/u/81820379?s=72&u=644a603b978ae4e4967fd387b4de0a59a1f16840&v=4)|
-| #494 | Ritvan H. | 0 | 1 | ![](https://avatars.githubusercontent.com/u/94933229?s=72&u=1f8a9f2f999534a105e7ac1674e2cc31f9da1614&v=4)|
-| #495 | Ritvan H. | 0 | 1 | ![](https://avatars.githubusercontent.com/u/94933229?s=72&u=1f8a9f2f999534a105e7ac1674e2cc31f9da1614&v=4)|
-| #496 | Coli | 0 | 1 | ![](https://avatars.githubusercontent.com/u/87640172?s=72&u=b07d9584e51830703241cc57d5f21aee6b59bb06&v=4)|
-| #497 | Mustafa Simsek | 0 | 1 | ![](https://avatars.githubusercontent.com/u/74211392?s=72&u=cdd6fa0558483768927aa0058e2893a9faab8a72&v=4)|
-| #498 | Andi Naçollari | 0 | 1 | ![](https://avatars.githubusercontent.com/u/86653964?s=72&v=4)|
-| #499 | Leo Duro | 0 | 1 | ![](https://avatars.githubusercontent.com/u/25867323?s=72&u=60c9ac36d5529f5781239c3cd16090a695e5b2c8&v=4)|
-| #500 | Rigers | 0 | 1 | ![](https://avatars.githubusercontent.com/u/92781478?s=72&v=4)|
-| #501 | Eldi Gerra | 0 | 1 | ![](https://avatars.githubusercontent.com/u/75436379?s=72&v=4)|
-| #502 | Bledar Jonuzaj | 0 | 1 | ![](https://avatars.githubusercontent.com/u/5894717?s=72&u=d310ce88a199adb06d87c9f665d4468f9812264e&v=4)|
-| #503 | CrystalCrafter | 0 | 1 | ![](https://avatars.githubusercontent.com/u/80108285?s=72&u=e590163c117152a0db15ba8896d3b41928c8b974&v=4)|
-| #504 | Erildo Shuli | 0 | 1 | ![](https://avatars.githubusercontent.com/u/3402855?s=72&u=e13cafe4b676e44b6be340d9b6d39c350a220fe8&v=4)|
-| #505 | Alfred Korra | 0 | 1 | ![](https://avatars.githubusercontent.com/u/101050024?s=72&v=4)|
+| #367 | Geri Ramadani | 0 | 6 | ![](https://avatars.githubusercontent.com/u/59540202?s=72&v=4)|
+| #368 | Vasili Rigels | 0 | 6 | ![](https://avatars.githubusercontent.com/u/50117809?s=72&u=4714a04da43d65adcd3c27c6b951b30243fa1155&v=4)|
+| #369 | null | 0 | 6 | ![](https://avatars.githubusercontent.com/u/11331004?s=72&u=85eee5728e46b0f40d8b5113485f0e9cb707a322&v=4)|
+| #370 | virtytlesha | 0 | 6 | ![](https://avatars.githubusercontent.com/u/58443982?s=72&u=96fad5b43256885a369c393588d4b109d97f1e3d&v=4)|
+| #371 | Bedri Allkja | 0 | 6 | ![](https://avatars.githubusercontent.com/u/40234089?s=72&u=61b980a83a6910895d5423274dbcad3b270ff0c9&v=4)|
+| #372 | Andi Allaraj | 1 | 6 | ![](https://avatars.githubusercontent.com/u/4312074?s=72&u=2f6e8120528607b608cba111a8cb046243712a6c&v=4)|
+| #373 | Megli Çitozi | 1 | 6 | ![](https://avatars.githubusercontent.com/u/90471416?s=72&u=dc90b04bfe2da246b850067671b29c64c518811d&v=4)|
+| #374 | Keltin Mesonjesi | 1 | 6 | ![](https://avatars.githubusercontent.com/u/59123033?s=72&v=4)|
+| #375 | Krisel Tola | 1 | 6 | ![](https://avatars.githubusercontent.com/u/33683153?s=72&v=4)|
+| #376 | null | 2 | 6 | ![](https://avatars.githubusercontent.com/u/65036281?s=72&u=ab40943a5ff5238ff7d19ba0586faaa0723c9bde&v=4)|
+| #377 | Stiven Ballshi | 2 | 6 | ![](https://avatars.githubusercontent.com/u/75454690?s=72&v=4)|
+| #378 | Edi Hoxhalli | 2 | 6 | ![](https://avatars.githubusercontent.com/u/22107061?s=72&u=cd0c34b8ed059a819f423c62846cca43285e2a1b&v=4)|
+| #379 | Vasil Dhima | 3 | 6 | ![](https://avatars.githubusercontent.com/u/19821897?s=72&v=4)|
+| #380 | Besnik Hysaj | 4 | 6 | ![](https://avatars.githubusercontent.com/u/2910983?s=72&v=4)|
+| #381 | Jeton Kukalaj | 6 | 6 | ![](https://avatars.githubusercontent.com/u/20740821?s=72&u=a0a1d608bdedbf475b11e720f7119bc4ece8f162&v=4)|
+| #382 | Skerdilajd Hoxha | 0 | 5 | ![](https://avatars.githubusercontent.com/u/18120219?s=72&u=48b91961c1c345da4177ca9581cb8fc6f4cb5d66&v=4)|
+| #383 | ERi Musa | 0 | 5 | ![](https://avatars.githubusercontent.com/u/47810645?s=72&u=1ced6587dee7aed446ae9481a1b74afbcf3b8726&v=4)|
+| #384 | Mart Gjepali | 0 | 5 | ![](https://avatars.githubusercontent.com/u/84089442?s=72&u=29746d380795c815eba804bb629135cfe6919536&v=4)|
+| #385 | Alesiodev | 0 | 5 | ![](https://avatars.githubusercontent.com/u/81259288?s=72&u=6ba374c6921d80d20c43bb1b955a24baa190c6d5&v=4)|
+| #386 | Andi Cuku | 0 | 5 | ![](https://avatars.githubusercontent.com/u/87309852?s=72&v=4)|
+| #387 | Iris Beci | 0 | 5 | ![](https://avatars.githubusercontent.com/u/57106955?s=72&u=f0c14e1e98fd6544bd1f2fcdc669b38ebad1994f&v=4)|
+| #388 | Aveyo | 0 | 5 | ![](https://avatars.githubusercontent.com/u/99537765?s=72&u=e77bb601272a541a92bd81d6e86a33f7da667051&v=4)|
+| #389 | Mariol Cakalli | 1 | 5 | ![](https://avatars.githubusercontent.com/u/46714234?s=72&u=3ae1157d87448520afa426ed9b1c251ddf5963af&v=4)|
+| #390 | Klevis | 1 | 5 | ![](https://avatars.githubusercontent.com/u/88836204?s=72&u=446934ae26ae5e805a738e7807febc72463c04bd&v=4)|
+| #391 | Aldiger | 2 | 5 | ![](https://avatars.githubusercontent.com/u/16941043?s=72&v=4)|
+| #392 | Mariksel Azemaj | 3 | 5 | ![](https://avatars.githubusercontent.com/u/5481061?s=72&u=473e0aeb4b98b0c0f58bb28377892b9bb085dbe1&v=4)|
+| #393 | Marxhes Allka | 3 | 5 | ![](https://avatars.githubusercontent.com/u/93681009?s=72&v=4)|
+| #394 | Ardit Zavalina | 4 | 5 | ![](https://avatars.githubusercontent.com/u/35269845?s=72&u=9c536112db0f77bfd41ed69f3ac112e518959a31&v=4)|
+| #395 | Albi Abdyli | 6 | 5 | ![](https://avatars.githubusercontent.com/u/12082282?s=72&v=4)|
+| #396 | Edvin Molla | 17 | 5 | ![](https://avatars.githubusercontent.com/u/43499049?s=72&u=43d17a148447c602081659b0651a44426b5ee9f3&v=4)|
+| #397 | Elis Vathi | 17 | 5 | ![](https://avatars.githubusercontent.com/u/20973113?s=72&u=6980273442c79d454e4a2aadee5ae7d6b082c842&v=4)|
+| #398 | Daniel | 0 | 4 | ![](https://avatars.githubusercontent.com/u/30016710?s=72&v=4)|
+| #399 | ArsiAvdiu | 0 | 4 | ![](https://avatars.githubusercontent.com/u/55880053?s=72&u=d5527432d1b2c810ff72a652dfc0fe2a3cb6fdcf&v=4)|
+| #400 | null | 0 | 4 | ![](https://avatars.githubusercontent.com/u/81775461?s=72&u=36603facb12bc2f664b6c6ef7ef3bc925f8fc3ab&v=4)|
+| #401 | Arber Lisaj | 0 | 4 | ![](https://avatars.githubusercontent.com/u/96192676?s=72&u=dfc4e7cb8d94031d8df9a12cae111d2f5034f6f6&v=4)|
+| #402 | Renaldo Shehaj | 0 | 4 | ![](https://avatars.githubusercontent.com/u/8112845?s=72&u=f1e113553fef8c4a56ffffc8a83ea5061a5c7baa&v=4)|
+| #403 | Ardit Meti | 1 | 4 | ![](https://avatars.githubusercontent.com/u/6298453?s=72&u=f68a987eec8cd6a9d9e0eab258b195e80e831b5f&v=4)|
+| #404 | Gerind | 1 | 4 | ![](https://avatars.githubusercontent.com/u/52495522?s=72&u=118deae6aea1a56cf9255620dec5b24bb194b2dc&v=4)|
+| #405 | Ervin Kalemi | 2 | 4 | ![](https://avatars.githubusercontent.com/u/1066392?s=72&u=70a524f8c8b9e16766c0807fb55ff96c53307cd0&v=4)|
+| #406 | null | 2 | 4 | ![](https://avatars.githubusercontent.com/u/58704597?s=72&u=f22a3523228dde4fb5ee73380455d8bd41f7b4dd&v=4)|
+| #407 | Klodian Koni | 2 | 4 | ![](https://avatars.githubusercontent.com/u/29890316?s=72&u=0a3091c7b2297b9ef8321e8002d0c4c9a212910b&v=4)|
+| #408 | Erlind Salla | 3 | 4 | ![](https://avatars.githubusercontent.com/u/38862522?s=72&v=4)|
+| #409 | Emanuel  | 3 | 4 | ![](https://avatars.githubusercontent.com/u/73133812?s=72&u=ffaca6b28f1dfa18874e9941cc09f420733816b8&v=4)|
+| #410 | Renato Hoxha | 3 | 4 | ![](https://avatars.githubusercontent.com/u/17928937?s=72&v=4)|
+| #411 | Endri Demiraj | 7 | 4 | ![](https://avatars.githubusercontent.com/u/58988436?s=72&u=75517d5ef115b9cb74160cbaae7ccfa2f1614f20&v=4)|
+| #412 | Reidi Qyrku | 7 | 4 | ![](https://avatars.githubusercontent.com/u/13979044?s=72&u=3f52a2726ed67beb16a747aa83df5e1316cbcb40&v=4)|
+| #413 | aksonai | 37 | 4 | ![](https://avatars.githubusercontent.com/u/19408147?s=72&u=666ad081566aee7179a61a503efddd2bad016094&v=4)|
+| #414 | BabiKoqi | 128 | 4 | ![](https://avatars.githubusercontent.com/u/48030041?s=72&u=d433918b19a7a4c41f52886713259722a4241bb4&v=4)|
+| #415 | Suada Rexha | 0 | 3 | ![](https://avatars.githubusercontent.com/u/99962840?s=72&u=b0397c90ea3d196196191ff1dcf9ee147fdcba40&v=4)|
+| #416 | Nullius in Verba | 0 | 3 | ![](https://avatars.githubusercontent.com/u/95311124?s=72&u=656462a24d6d4cf08a2b27e7778551e7dd37398b&v=4)|
+| #417 | Renato Tollozhina | 0 | 3 | ![](https://avatars.githubusercontent.com/u/94115005?s=72&u=2c58d5e1ea3d07cdb92c9740ce5dcf5778689eb5&v=4)|
+| #418 | Jari | 0 | 3 | ![](https://avatars.githubusercontent.com/u/85380261?s=72&v=4)|
+| #419 | Ervin Halilaj | 0 | 3 | ![](https://avatars.githubusercontent.com/u/87720863?s=72&u=6882d24ba85a46d33b61c3ca2f20c624ca53daf7&v=4)|
+| #420 | Fation Qama | 0 | 3 | ![](https://avatars.githubusercontent.com/u/80719736?s=72&u=3bca8da8034af9da2c6d4c89707095ce92d4eb2a&v=4)|
+| #421 | Xhesilda Lutaj | 0 | 3 | ![](https://avatars.githubusercontent.com/u/81691702?s=72&v=4)|
+| #422 | Benard Sulejmani | 0 | 3 | ![](https://avatars.githubusercontent.com/u/58045001?s=72&u=e11039eeed8bbcfd676bd5ffd518db2fe84190f5&v=4)|
+| #423 | Mirela | 1 | 3 | ![](https://avatars.githubusercontent.com/u/5063340?s=72&v=4)|
+| #424 | null | 1 | 3 | ![](https://avatars.githubusercontent.com/u/65170239?s=72&u=f9d08c0b9cffb014aad9d81025db9735c71807d1&v=4)|
+| #425 | Kleidi Kumbaro | 2 | 3 | ![](https://avatars.githubusercontent.com/u/48261728?s=72&u=6a01559a00786e728d42fd47640982aa2efd2aee&v=4)|
+| #426 | Aldo Tahirllari | 2 | 3 | ![](https://avatars.githubusercontent.com/u/21014286?s=72&u=b588252413de37157e5a50cb81072452fe184de9&v=4)|
+| #427 | Klaidi Dingu | 2 | 3 | ![](https://avatars.githubusercontent.com/u/28155173?s=72&v=4)|
+| #428 | Enis | 3 | 3 | ![](https://avatars.githubusercontent.com/u/16815369?s=72&u=3a3dc21b70813e7006b8f6d2f4ec4512fd486c8d&v=4)|
+| #429 | Holti | 3 | 3 | ![](https://avatars.githubusercontent.com/u/55942828?s=72&u=c34ac745ca7bd63b00836d790573b22a3b728deb&v=4)|
+| #430 | Holti | 3 | 3 | ![](https://avatars.githubusercontent.com/u/55942828?s=72&u=c34ac745ca7bd63b00836d790573b22a3b728deb&v=4)|
+| #431 | Indrit Qoku | 3 | 3 | ![](https://avatars.githubusercontent.com/u/5255787?s=72&u=47a8368165cb628585a0aac69b607bdfffab40e6&v=4)|
+| #432 | Erin Hoxha | 5 | 3 | ![](https://avatars.githubusercontent.com/u/29415274?s=72&u=cc398d84a82ca7d679af69fafa5dea89a3e5cca1&v=4)|
+| #433 | Alteo Caka | 6 | 3 | ![](https://avatars.githubusercontent.com/u/65288752?s=72&u=78cc77656c2b3913b60855b4e48006c539764163&v=4)|
+| #434 | Ardit Hoxhaj | 0 | 2 | ![](https://avatars.githubusercontent.com/u/64407772?s=72&v=4)|
+| #435 | null | 0 | 2 | ![](https://avatars.githubusercontent.com/u/84868046?s=72&u=231f9f179fe4d47d57d1320b51c9ae6ea86bd004&v=4)|
+| #436 | Laert Boci | 0 | 2 | ![](https://avatars.githubusercontent.com/u/25208137?s=72&u=6b5c52f967bb85f1c2554b299878e247e319da83&v=4)|
+| #437 | Jetmir Ahmati | 0 | 2 | ![](https://avatars.githubusercontent.com/u/16473890?s=72&v=4)|
+| #438 | Loren Meta | 0 | 2 | ![](https://avatars.githubusercontent.com/u/74499033?s=72&u=c0de8a60347983bd57a07fbde448963ce8064ada&v=4)|
+| #439 | Ersad ⚕ Muçollari | 0 | 2 | ![](https://avatars.githubusercontent.com/u/50237114?s=72&u=0fd8cc5b448591ad13484b58186ca14f5c74071d&v=4)|
+| #440 | Shpetim Dushku | 0 | 2 | ![](https://avatars.githubusercontent.com/u/12295823?s=72&u=fd39794b6ceac2c3d6c8fe32c2e919148b2a9cb7&v=4)|
+| #441 | Shpetim Dushku | 0 | 2 | ![](https://avatars.githubusercontent.com/u/12295823?s=72&u=fd39794b6ceac2c3d6c8fe32c2e919148b2a9cb7&v=4)|
+| #442 | Endri Muço | 0 | 2 | ![](https://avatars.githubusercontent.com/u/97703082?s=72&u=71f4b1fe1cb988230dc9ca0a185bf4333d13e923&v=4)|
+| #443 | Xhuljan | 0 | 2 | ![](https://avatars.githubusercontent.com/u/11904942?s=72&v=4)|
+| #444 | Dejvis Sheshi | 0 | 2 | ![](https://avatars.githubusercontent.com/u/37831880?s=72&v=4)|
+| #445 | Enkel | 0 | 2 | ![](https://avatars.githubusercontent.com/u/94044486?s=72&v=4)|
+| #446 | Florjan Bregu | 0 | 2 | ![](https://avatars.githubusercontent.com/u/13553141?s=72&u=fe44ca3a0c7e4e6b807794129dc1ba935a253bf7&v=4)|
+| #447 | Paolo Kadiu | 0 | 2 | ![](https://avatars.githubusercontent.com/u/99748691?s=72&u=f235b6dac6ab423e511dd28037f3c062141add11&v=4)|
+| #448 | Paolo Kadiu | 0 | 2 | ![](https://avatars.githubusercontent.com/u/99748691?s=72&u=f235b6dac6ab423e511dd28037f3c062141add11&v=4)|
+| #449 | Lorenco | 0 | 2 | ![](https://avatars.githubusercontent.com/u/83535079?s=72&u=3ef55b40b9f7e840bb3f70aba94985fab527704f&v=4)|
+| #450 | Erjon Zenelaj | 0 | 2 | ![](https://avatars.githubusercontent.com/u/28533477?s=72&u=42b2fc717b4d05c9322abb6d581261dad67be852&v=4)|
+| #451 | Leo Hoxha | 0 | 2 | ![](https://avatars.githubusercontent.com/u/81651856?s=72&u=61ba33df63729769adcbf6f7af1e854cd1339542&v=4)|
+| #452 | Sirolius | 0 | 2 | ![](https://avatars.githubusercontent.com/u/92717770?s=72&u=63f1d4c38b9beaee6d695c249373e1415a152d14&v=4)|
+| #453 | Amarildo Xhyra | 0 | 2 | ![](https://avatars.githubusercontent.com/u/95319584?s=72&u=2ed53c59d327793e3b9963521eac251e9f210f7e&v=4)|
+| #454 | Matthew Oldaker | 1 | 2 | ![](https://avatars.githubusercontent.com/u/91485619?s=72&v=4)|
+| #455 | Aurel Zefi | 1 | 2 | ![](https://avatars.githubusercontent.com/u/20479111?s=72&u=0a55f57be447c4fe91fc877b47244b47c73bba8c&v=4)|
+| #456 | null | 1 | 2 | ![](https://avatars.githubusercontent.com/u/85708288?s=72&v=4)|
+| #457 | Klea Pilavi | 1 | 2 | ![](https://avatars.githubusercontent.com/u/82878085?s=72&u=4cf187741cf591442b2fd5ae3b4135de0f262a73&v=4)|
+| #458 | Silver Lila | 1 | 2 | ![](https://avatars.githubusercontent.com/u/23219173?s=72&v=4)|
+| #459 | Evi Balla | 1 | 2 | ![](https://avatars.githubusercontent.com/u/6513681?s=72&v=4)|
+| #460 | Marjana P. Skenduli | 1 | 2 | ![](https://avatars.githubusercontent.com/u/40635723?s=72&v=4)|
+| #461 | Fiorela Numani | 2 | 2 | ![](https://avatars.githubusercontent.com/u/74769876?s=72&v=4)|
+| #462 | Adem Gashi | 2 | 2 | ![](https://avatars.githubusercontent.com/u/7000808?s=72&v=4)|
+| #463 | Eljon Zagradi | 2 | 2 | ![](https://avatars.githubusercontent.com/u/46725455?s=72&u=46a41116ee9f6a94a9cc0d6fe7486642b7c18dcc&v=4)|
+| #464 | Blenard Pazari | 2 | 2 | ![](https://avatars.githubusercontent.com/u/20134071?s=72&v=4)|
+| #465 | Bruno | 3 | 2 | ![](https://avatars.githubusercontent.com/u/25440954?s=72&v=4)|
+| #466 | Ledjo Bego | 3 | 2 | ![](https://avatars.githubusercontent.com/u/31970049?s=72&u=6b4246fe53e0a0a827a61324e5d6f5224317b344&v=4)|
+| #467 | ableta | 4 | 2 | ![](https://avatars.githubusercontent.com/u/18583652?s=72&u=d350ef20ab5f598e66b14598c6da81525cc79cea&v=4)|
+| #468 | Krisid Misso | 4 | 2 | ![](https://avatars.githubusercontent.com/u/9657055?s=72&u=17fecd8436fe3c5f562d3e132f38989f906d87e8&v=4)|
+| #469 | Fledin Ymerasi | 4 | 2 | ![](https://avatars.githubusercontent.com/u/8150950?s=72&v=4)|
+| #470 | Alba Haxhimali | 5 | 2 | ![](https://avatars.githubusercontent.com/u/38000996?s=72&v=4)|
+| #471 | Medin Piranej | 6 | 2 | ![](https://avatars.githubusercontent.com/u/10618606?s=72&u=aaa2f978939b8112a7eef88591b2bf159010119e&v=4)|
+| #472 | Dorian Kane  | 7 | 2 | ![](https://avatars.githubusercontent.com/u/10589118?s=72&u=b4bd20d994a956a6896ee2b02fac0e54a435c7ff&v=4)|
+| #473 | Kreshnik Palushi | 8 | 2 | ![](https://avatars.githubusercontent.com/u/28730666?s=72&u=619088b9cc71622708fe9326e71f5030b4266ec7&v=4)|
+| #474 | Mateo Hoxha | 9 | 2 | ![](https://avatars.githubusercontent.com/u/31570771?s=72&u=490db9a1f1753d739b8c62afbf3313608f9d6f60&v=4)|
+| #475 | Orges Mihaj | 10 | 2 | ![](https://avatars.githubusercontent.com/u/10802548?s=72&u=aa992c55276bb621d7ad57ce5ec37be4dfd8e9fd&v=4)|
+| #476 | Jul Kreshpaj | 11 | 2 | ![](https://avatars.githubusercontent.com/u/24531244?s=72&u=fde4f247da8de4eecf57e16627e036ca56937192&v=4)|
+| #477 | Aurel Hoxha | 11 | 2 | ![](https://avatars.githubusercontent.com/u/38219629?s=72&u=47c3ba3aaa6f1f8ad1863eda47f8204b5e8c3da6&v=4)|
+| #478 | null | 15 | 2 | ![](https://avatars.githubusercontent.com/u/34771407?s=72&u=695b76f80da918476ab2bfb5c4ed0b041dcfca66&v=4)|
+| #479 | Jora Kasapi | 22 | 2 | ![](https://avatars.githubusercontent.com/u/35333751?s=72&u=5dd8d6d282ed293280e3d1d5216dfc080de10cdf&v=4)|
+| #480 | Astrit Bublaku | 0 | 1 | ![](https://avatars.githubusercontent.com/u/15063622?s=72&v=4)|
+| #481 | Arkid Mucoimaj | 0 | 1 | ![](https://avatars.githubusercontent.com/u/89735542?s=72&u=2a86412c98eeb443f0fe1afdaffd16fcbe6fa30c&v=4)|
+| #482 | Anisa Buzi | 0 | 1 | ![](https://avatars.githubusercontent.com/u/97892503?s=72&v=4)|
+| #483 | Niko | 0 | 1 | ![](https://avatars.githubusercontent.com/u/14963864?s=72&v=4)|
+| #484 | null | 0 | 1 | ![](https://avatars.githubusercontent.com/u/82520181?s=72&v=4)|
+| #485 | Rezarta Myrtollari | 0 | 1 | ![](https://avatars.githubusercontent.com/u/75680073?s=72&v=4)|
+| #486 | Gerald Coba | 0 | 1 | ![](https://avatars.githubusercontent.com/u/71946315?s=72&u=9291d34e6d9fb899fc8462a75dc81d0df22b0fe4&v=4)|
+| #487 | xxdonaldixx | 0 | 1 | ![](https://avatars.githubusercontent.com/u/78810493?s=72&v=4)|
+| #488 | Romarjo | 0 | 1 | ![](https://avatars.githubusercontent.com/u/60077928?s=72&v=4)|
+| #489 | Violent Zani | 0 | 1 | ![](https://avatars.githubusercontent.com/u/9197949?s=72&v=4)|
+| #490 | Ermir Beqiraj | 0 | 1 | ![](https://avatars.githubusercontent.com/u/82807176?s=72&u=a1524f59834b9d06d5d1201da8976c037f50b6e1&v=4)|
+| #491 | Ermir Beqiraj | 0 | 1 | ![](https://avatars.githubusercontent.com/u/82807176?s=72&u=a1524f59834b9d06d5d1201da8976c037f50b6e1&v=4)|
+| #492 | null | 0 | 1 | ![](https://avatars.githubusercontent.com/u/20069900?s=72&v=4)|
+| #493 | null | 0 | 1 | ![](https://avatars.githubusercontent.com/u/20069900?s=72&v=4)|
+| #494 | null | 0 | 1 | ![](https://avatars.githubusercontent.com/u/88386271?s=72&v=4)|
+| #495 | Eduina | 0 | 1 | ![](https://avatars.githubusercontent.com/u/81820379?s=72&u=644a603b978ae4e4967fd387b4de0a59a1f16840&v=4)|
+| #496 | Ritvan H. | 0 | 1 | ![](https://avatars.githubusercontent.com/u/94933229?s=72&u=1f8a9f2f999534a105e7ac1674e2cc31f9da1614&v=4)|
+| #497 | Elton Heta | 0 | 1 | ![](https://avatars.githubusercontent.com/u/101173598?s=72&v=4)|
+| #498 | Coli | 0 | 1 | ![](https://avatars.githubusercontent.com/u/87640172?s=72&u=b07d9584e51830703241cc57d5f21aee6b59bb06&v=4)|
+| #499 | Mustafa Simsek | 0 | 1 | ![](https://avatars.githubusercontent.com/u/74211392?s=72&u=cdd6fa0558483768927aa0058e2893a9faab8a72&v=4)|
+| #500 | Andi Naçollari | 0 | 1 | ![](https://avatars.githubusercontent.com/u/86653964?s=72&v=4)|
+| #501 | Leo Duro | 0 | 1 | ![](https://avatars.githubusercontent.com/u/25867323?s=72&u=60c9ac36d5529f5781239c3cd16090a695e5b2c8&v=4)|
+| #502 | Rigers | 0 | 1 | ![](https://avatars.githubusercontent.com/u/92781478?s=72&v=4)|
+| #503 | Eldi Gerra | 0 | 1 | ![](https://avatars.githubusercontent.com/u/75436379?s=72&v=4)|
+| #504 | CrystalCrafter | 0 | 1 | ![](https://avatars.githubusercontent.com/u/80108285?s=72&u=e590163c117152a0db15ba8896d3b41928c8b974&v=4)|
+| #505 | Erildo Shuli | 0 | 1 | ![](https://avatars.githubusercontent.com/u/3402855?s=72&u=e13cafe4b676e44b6be340d9b6d39c350a220fe8&v=4)|
 | #506 | Alfred Korra | 0 | 1 | ![](https://avatars.githubusercontent.com/u/101050024?s=72&v=4)|
-| #507 | Euglen Mulaj | 0 | 1 | ![](https://avatars.githubusercontent.com/u/82064951?s=72&u=d19077ee0cee62cc9d1ea458b4ffd0b936cf26f0&v=4)|
-| #508 | Lenny | 0 | 1 | ![](https://avatars.githubusercontent.com/u/1041339?s=72&u=116ae71f335dfc8e0d5d05c31c094330389e3864&v=4)|
-| #509 | Arsen Shehi | 0 | 1 | ![](https://avatars.githubusercontent.com/u/86007291?s=72&u=c2565ba5cef655055bb4f81d88d4fe20217f1c8b&v=4)|
-| #510 | Anesti Pupi | 0 | 1 | ![](https://avatars.githubusercontent.com/u/82412026?s=72&v=4)|
-| #511 | Charlie P3posh | 0 | 1 | ![](https://avatars.githubusercontent.com/u/95652474?s=72&u=21baea4a64e0d5f18ebda165457f970f2cbce3b6&v=4)|
-| #512 | Romina Jonuzaj | 0 | 1 | ![](https://avatars.githubusercontent.com/u/92449217?s=72&u=42442e86afe0c1c1b0380b71c0516fbc0e880dc3&v=4)|
+| #507 | Lenny | 0 | 1 | ![](https://avatars.githubusercontent.com/u/1041339?s=72&u=116ae71f335dfc8e0d5d05c31c094330389e3864&v=4)|
+| #508 | Arsen Shehi | 0 | 1 | ![](https://avatars.githubusercontent.com/u/86007291?s=72&u=c2565ba5cef655055bb4f81d88d4fe20217f1c8b&v=4)|
+| #509 | Anesti Pupi | 0 | 1 | ![](https://avatars.githubusercontent.com/u/82412026?s=72&v=4)|
+| #510 | Charlie P3posh | 0 | 1 | ![](https://avatars.githubusercontent.com/u/95652474?s=72&u=21baea4a64e0d5f18ebda165457f970f2cbce3b6&v=4)|
+| #511 | Romina Jonuzaj | 0 | 1 | ![](https://avatars.githubusercontent.com/u/92449217?s=72&u=42442e86afe0c1c1b0380b71c0516fbc0e880dc3&v=4)|
+| #512 | G-code | 0 | 1 | ![](https://avatars.githubusercontent.com/u/30412971?s=72&v=4)|
 | #513 | sotmlac | 0 | 1 | ![](https://avatars.githubusercontent.com/u/45207356?s=72&v=4)|
 | #514 | Kledis Pashaj | 0 | 1 | ![](https://avatars.githubusercontent.com/u/40507911?s=72&v=4)|
 | #515 | Tedi Demollari | 0 | 1 | ![](https://avatars.githubusercontent.com/u/46052016?s=72&u=ea75488d63d8667ab54989d874e799f537b443f8&v=4)|
@@ -534,56 +534,56 @@ Raking is based on Contributions.
 | #525 | Elian Myftiu | 1 | 1 | ![](https://avatars.githubusercontent.com/u/67326161?s=72&v=4)|
 | #526 | Vilson Hoxhallari | 2 | 1 | ![](https://avatars.githubusercontent.com/u/11678348?s=72&u=09ee23b61dff87f4b47ec304784d8be2b3e888d6&v=4)|
 | #527 | Dorian Musaj | 2 | 1 | ![](https://avatars.githubusercontent.com/u/43200010?s=72&u=0475c5f5996cbcc31734d47a1aa003c2266740db&v=4)|
-| #528 | Ervin Kapri | 2 | 1 | ![](https://avatars.githubusercontent.com/u/77100712?s=72&v=4)|
-| #529 | Evis Bregu | 2 | 1 | ![](https://avatars.githubusercontent.com/u/6974384?s=72&v=4)|
-| #530 | Kaltrina Angjellari | 2 | 1 | ![](https://avatars.githubusercontent.com/u/35844601?s=72&u=47306948bd6b1d41054de4ab3806fb09a5f6894f&v=4)|
-| #531 | Besi S | 3 | 1 | ![](https://avatars.githubusercontent.com/u/28099587?s=72&v=4)|
-| #532 | Rezarta Abedini | 3 | 1 | ![](https://avatars.githubusercontent.com/u/85798614?s=72&v=4)|
-| #533 | Eftion Canco | 3 | 1 | ![](https://avatars.githubusercontent.com/u/60218187?s=72&v=4)|
-| #534 | Ersi Ago | 4 | 1 | ![](https://avatars.githubusercontent.com/u/47544388?s=72&u=106f8d7f935c65120196999495a4ead441d8aaaf&v=4)|
-| #535 | null | 4 | 1 | ![](https://avatars.githubusercontent.com/u/13691344?s=72&u=fd19ec1e79d3638de131991548dd5ffdaae79a67&v=4)|
-| #536 | Dena Muca | 4 | 1 | ![](https://avatars.githubusercontent.com/u/65178338?s=72&v=4)|
+| #528 | Elvis Tavasja | 2 | 1 | ![](https://avatars.githubusercontent.com/u/907342?s=72&u=dc11dc6c8d5d0c819727152983fccdf1d10395c8&v=4)|
+| #529 | Ervin Kapri | 2 | 1 | ![](https://avatars.githubusercontent.com/u/77100712?s=72&v=4)|
+| #530 | Evis Bregu | 2 | 1 | ![](https://avatars.githubusercontent.com/u/6974384?s=72&v=4)|
+| #531 | Kaltrina Angjellari | 2 | 1 | ![](https://avatars.githubusercontent.com/u/35844601?s=72&u=47306948bd6b1d41054de4ab3806fb09a5f6894f&v=4)|
+| #532 | Besi S | 3 | 1 | ![](https://avatars.githubusercontent.com/u/28099587?s=72&v=4)|
+| #533 | Rezarta Abedini | 3 | 1 | ![](https://avatars.githubusercontent.com/u/85798614?s=72&v=4)|
+| #534 | Eftion Canco | 3 | 1 | ![](https://avatars.githubusercontent.com/u/60218187?s=72&v=4)|
+| #535 | Ersi Ago | 4 | 1 | ![](https://avatars.githubusercontent.com/u/47544388?s=72&u=106f8d7f935c65120196999495a4ead441d8aaaf&v=4)|
+| #536 | null | 4 | 1 | ![](https://avatars.githubusercontent.com/u/13691344?s=72&u=fd19ec1e79d3638de131991548dd5ffdaae79a67&v=4)|
 | #537 | Besjana Jacaj | 4 | 1 | ![](https://avatars.githubusercontent.com/u/81251239?s=72&v=4)|
-| #538 | Geri Hoxha | 5 | 1 | ![](https://avatars.githubusercontent.com/u/60067831?s=72&v=4)|
-| #539 | null | 5 | 1 | ![](https://avatars.githubusercontent.com/u/23658459?s=72&u=bc7f2c6ad5689a0869b47816a32507e581f9877d&v=4)|
-| #540 | Pasho Toska | 6 | 1 | ![](https://avatars.githubusercontent.com/u/23460415?s=72&u=cfca06b77680818e583ffb83db29752a592167e4&v=4)|
-| #541 | Brunilda Dosti | 6 | 1 | ![](https://avatars.githubusercontent.com/u/23187783?s=72&u=53b50c2ecc891d625b4a24854ba18d3558210ea3&v=4)|
-| #542 | Endri Bimbari | 6 | 1 | ![](https://avatars.githubusercontent.com/u/6112086?s=72&u=c5593519536f2cfc6079326e939c92397f8fbe10&v=4)|
-| #543 | null | 7 | 1 | ![](https://avatars.githubusercontent.com/u/82346112?s=72&u=ab92b8a3d1a8dc6bf3c1c621d6d6ecc312f2e18e&v=4)|
-| #544 | Desara Kaba | 7 | 1 | ![](https://avatars.githubusercontent.com/u/82101026?s=72&u=ccebbd313bce30be5a7087c04784da6adfb4d14c&v=4)|
-| #545 | Olgert Pysqyli | 7 | 1 | ![](https://avatars.githubusercontent.com/u/17994334?s=72&v=4)|
-| #546 | Moisi Xhaferaj | 14 | 1 | ![](https://avatars.githubusercontent.com/u/36812668?s=72&u=bfd42cc4a5dce59d46531dfd974e6abeec7942eb&v=4)|
-| #547 | AleksanderKoko | 39 | 1 | ![](https://avatars.githubusercontent.com/u/3903072?s=72&u=74d0d539dc9b6fff538b37c3c6cd8224afb06a7d&v=4)|
-| #548 | Redon Skikuli | 46 | 1 | ![](https://avatars.githubusercontent.com/u/17770262?s=72&u=8dd398c3ef2330ec65ab527fa4cb2c7b4b5c19f7&v=4)|
-| #549 | Zmijan Velija | 0 | 0 | ![](https://avatars.githubusercontent.com/u/26302129?s=72&u=4f16a482726e97fa691f7bd95623d5fb9fe2e495&v=4)|
-| #550 | Albi Luzi | 0 | 0 | ![](https://avatars.githubusercontent.com/u/32769808?s=72&v=4)|
-| #551 | Olsi Belishta | 0 | 0 | ![](https://avatars.githubusercontent.com/u/19526807?s=72&u=fc9cf99d9b26064cd4568bf72610df39979500e3&v=4)|
-| #552 | Oskeol Gjoni | 0 | 0 | ![](https://avatars.githubusercontent.com/u/44920167?s=72&u=735845872b6768ef6be6f382aaa2cf2f4e93094e&v=4)|
-| #553 | Andrew Kline | 0 | 0 | ![](https://avatars.githubusercontent.com/u/17965885?s=72&u=a1a7b14511b5e198402f8f0a2c890e6891542a14&v=4)|
-| #554 | ENi | 0 | 0 | ![](https://avatars.githubusercontent.com/u/16387991?s=72&u=7a3bbe77dd7082c608769d78a8856f4812055263&v=4)|
-| #555 | Elton Molla | 0 | 0 | ![](https://avatars.githubusercontent.com/u/56456845?s=72&v=4)|
-| #556 | null | 0 | 0 | ![](https://avatars.githubusercontent.com/u/66925281?s=72&u=256dca38e8cf5e51fbc67be2d41c428f66c7a479&v=4)|
-| #557 | null | 0 | 0 | ![](https://avatars.githubusercontent.com/u/41423701?s=72&u=5cdb756b8157a182c381c5acc1e48297cd1039dc&v=4)|
-| #558 | Kreshnik Arapi | 0 | 0 | ![](https://avatars.githubusercontent.com/u/3027316?s=72&u=9f2a262da8786adfdc128816c4288652910ca924&v=4)|
-| #559 | Erald Greca | 0 | 0 | ![](https://avatars.githubusercontent.com/u/26610711?s=72&u=c3113296be9de3aa8a2beed2e4387537d0f41cbe&v=4)|
-| #560 | Klodjana | 0 | 0 | ![](https://avatars.githubusercontent.com/u/25059582?s=72&v=4)|
-| #561 | Eri | 0 | 0 | ![](https://avatars.githubusercontent.com/u/24627943?s=72&v=4)|
-| #562 | Gezim Leka | 0 | 0 | ![](https://avatars.githubusercontent.com/u/24879012?s=72&u=ea4341e71fadccbfbdbbb24b47530466a5bbaca3&v=4)|
-| #563 | Nertila Ismailaja | 0 | 0 | ![](https://avatars.githubusercontent.com/u/11368749?s=72&u=57c6ee1d07be608b6b7d46840219b2c9e912666a&v=4)|
-| #564 | Sabit Aliu | 0 | 0 | ![](https://avatars.githubusercontent.com/u/10364665?s=72&v=4)|
-| #565 | xhuljan | 0 | 0 | ![](https://avatars.githubusercontent.com/u/10479547?s=72&v=4)|
-| #566 | Erton Mara | 0 | 0 | ![](https://avatars.githubusercontent.com/u/33197243?s=72&u=61286708ed42ffae575964c7659f16637fadda2e&v=4)|
-| #567 | Ndricim Jaho | 0 | 0 | ![](https://avatars.githubusercontent.com/u/17796471?s=72&v=4)|
-| #568 | Olsion Hysa | 0 | 0 | ![](https://avatars.githubusercontent.com/u/16888502?s=72&v=4)|
-| #569 | null | 0 | 0 | ![](https://avatars.githubusercontent.com/u/61877383?s=72&v=4)|
-| #570 | Erviola | 0 | 0 | ![](https://avatars.githubusercontent.com/u/55198300?s=72&v=4)|
-| #571 | Lenart Avdiu | 0 | 0 | ![](https://avatars.githubusercontent.com/u/49651438?s=72&v=4)|
-| #572 | null | 0 | 0 | ![](https://avatars.githubusercontent.com/u/67265572?s=72&v=4)|
-| #573 | Enxhi Hasanaj | 0 | 0 | ![](https://avatars.githubusercontent.com/u/17425801?s=72&v=4)|
+| #538 | Dena Muca | 4 | 1 | ![](https://avatars.githubusercontent.com/u/65178338?s=72&v=4)|
+| #539 | Geri Hoxha | 5 | 1 | ![](https://avatars.githubusercontent.com/u/60067831?s=72&v=4)|
+| #540 | null | 5 | 1 | ![](https://avatars.githubusercontent.com/u/23658459?s=72&u=bc7f2c6ad5689a0869b47816a32507e581f9877d&v=4)|
+| #541 | Pasho Toska | 6 | 1 | ![](https://avatars.githubusercontent.com/u/23460415?s=72&u=cfca06b77680818e583ffb83db29752a592167e4&v=4)|
+| #542 | Brunilda Dosti | 6 | 1 | ![](https://avatars.githubusercontent.com/u/23187783?s=72&u=53b50c2ecc891d625b4a24854ba18d3558210ea3&v=4)|
+| #543 | Endri Bimbari | 6 | 1 | ![](https://avatars.githubusercontent.com/u/6112086?s=72&u=c5593519536f2cfc6079326e939c92397f8fbe10&v=4)|
+| #544 | null | 7 | 1 | ![](https://avatars.githubusercontent.com/u/82346112?s=72&u=ab92b8a3d1a8dc6bf3c1c621d6d6ecc312f2e18e&v=4)|
+| #545 | Desara Kaba | 7 | 1 | ![](https://avatars.githubusercontent.com/u/82101026?s=72&u=ccebbd313bce30be5a7087c04784da6adfb4d14c&v=4)|
+| #546 | Olgert Pysqyli | 7 | 1 | ![](https://avatars.githubusercontent.com/u/17994334?s=72&v=4)|
+| #547 | Moisi Xhaferaj | 14 | 1 | ![](https://avatars.githubusercontent.com/u/36812668?s=72&u=bfd42cc4a5dce59d46531dfd974e6abeec7942eb&v=4)|
+| #548 | AleksanderKoko | 39 | 1 | ![](https://avatars.githubusercontent.com/u/3903072?s=72&u=74d0d539dc9b6fff538b37c3c6cd8224afb06a7d&v=4)|
+| #549 | Redon Skikuli | 46 | 1 | ![](https://avatars.githubusercontent.com/u/17770262?s=72&u=8dd398c3ef2330ec65ab527fa4cb2c7b4b5c19f7&v=4)|
+| #550 | Zmijan Velija | 0 | 0 | ![](https://avatars.githubusercontent.com/u/26302129?s=72&u=4f16a482726e97fa691f7bd95623d5fb9fe2e495&v=4)|
+| #551 | Albi Luzi | 0 | 0 | ![](https://avatars.githubusercontent.com/u/32769808?s=72&v=4)|
+| #552 | Olsi Belishta | 0 | 0 | ![](https://avatars.githubusercontent.com/u/19526807?s=72&u=fc9cf99d9b26064cd4568bf72610df39979500e3&v=4)|
+| #553 | Oskeol Gjoni | 0 | 0 | ![](https://avatars.githubusercontent.com/u/44920167?s=72&u=735845872b6768ef6be6f382aaa2cf2f4e93094e&v=4)|
+| #554 | Andrew Kline | 0 | 0 | ![](https://avatars.githubusercontent.com/u/17965885?s=72&u=a1a7b14511b5e198402f8f0a2c890e6891542a14&v=4)|
+| #555 | ENi | 0 | 0 | ![](https://avatars.githubusercontent.com/u/16387991?s=72&u=7a3bbe77dd7082c608769d78a8856f4812055263&v=4)|
+| #556 | Elton Molla | 0 | 0 | ![](https://avatars.githubusercontent.com/u/56456845?s=72&v=4)|
+| #557 | null | 0 | 0 | ![](https://avatars.githubusercontent.com/u/66925281?s=72&u=256dca38e8cf5e51fbc67be2d41c428f66c7a479&v=4)|
+| #558 | null | 0 | 0 | ![](https://avatars.githubusercontent.com/u/41423701?s=72&u=5cdb756b8157a182c381c5acc1e48297cd1039dc&v=4)|
+| #559 | Kreshnik Arapi | 0 | 0 | ![](https://avatars.githubusercontent.com/u/3027316?s=72&u=9f2a262da8786adfdc128816c4288652910ca924&v=4)|
+| #560 | Erald Greca | 0 | 0 | ![](https://avatars.githubusercontent.com/u/26610711?s=72&u=c3113296be9de3aa8a2beed2e4387537d0f41cbe&v=4)|
+| #561 | Klodjana | 0 | 0 | ![](https://avatars.githubusercontent.com/u/25059582?s=72&v=4)|
+| #562 | Eri | 0 | 0 | ![](https://avatars.githubusercontent.com/u/24627943?s=72&v=4)|
+| #563 | Gezim Leka | 0 | 0 | ![](https://avatars.githubusercontent.com/u/24879012?s=72&u=ea4341e71fadccbfbdbbb24b47530466a5bbaca3&v=4)|
+| #564 | Nertila Ismailaja | 0 | 0 | ![](https://avatars.githubusercontent.com/u/11368749?s=72&u=57c6ee1d07be608b6b7d46840219b2c9e912666a&v=4)|
+| #565 | Sabit Aliu | 0 | 0 | ![](https://avatars.githubusercontent.com/u/10364665?s=72&v=4)|
+| #566 | xhuljan | 0 | 0 | ![](https://avatars.githubusercontent.com/u/10479547?s=72&v=4)|
+| #567 | Erton Mara | 0 | 0 | ![](https://avatars.githubusercontent.com/u/33197243?s=72&u=61286708ed42ffae575964c7659f16637fadda2e&v=4)|
+| #568 | Ndricim Jaho | 0 | 0 | ![](https://avatars.githubusercontent.com/u/17796471?s=72&v=4)|
+| #569 | Olsion Hysa | 0 | 0 | ![](https://avatars.githubusercontent.com/u/16888502?s=72&v=4)|
+| #570 | null | 0 | 0 | ![](https://avatars.githubusercontent.com/u/61877383?s=72&v=4)|
+| #571 | Erviola | 0 | 0 | ![](https://avatars.githubusercontent.com/u/55198300?s=72&v=4)|
+| #572 | Lenart Avdiu | 0 | 0 | ![](https://avatars.githubusercontent.com/u/49651438?s=72&v=4)|
+| #573 | null | 0 | 0 | ![](https://avatars.githubusercontent.com/u/67265572?s=72&v=4)|
 | #574 | Agim Murati | 0 | 0 | ![](https://avatars.githubusercontent.com/u/77383882?s=72&u=a27dadac3e9441e8dd3ac76df32aeccc3b5fb3e4&v=4)|
-| #575 | Genti | 0 | 0 | ![](https://avatars.githubusercontent.com/u/24897832?s=72&u=750fb3a41a6845919db758343892f6b9793c9ef2&v=4)|
-| #576 | albion_hoxha | 0 | 0 | ![](https://avatars.githubusercontent.com/u/69018018?s=72&u=3be2ae5fb9ef9e49545d00df50bbf6d6dfa2146e&v=4)|
-| #577 | nertilaciliku | 0 | 0 | ![](https://avatars.githubusercontent.com/u/24755978?s=72&u=de438c5dca894aeeadd1d98c6a7839f99ef3365c&v=4)|
+| #575 | Enxhi Hasanaj | 0 | 0 | ![](https://avatars.githubusercontent.com/u/17425801?s=72&v=4)|
+| #576 | nertilaciliku | 0 | 0 | ![](https://avatars.githubusercontent.com/u/24755978?s=72&u=de438c5dca894aeeadd1d98c6a7839f99ef3365c&v=4)|
+| #577 | albion_hoxha | 0 | 0 | ![](https://avatars.githubusercontent.com/u/69018018?s=72&u=3be2ae5fb9ef9e49545d00df50bbf6d6dfa2146e&v=4)|
 | #578 | Jurgen Vorfi | 0 | 0 | ![](https://avatars.githubusercontent.com/u/39084744?s=72&u=8e6f638e4f7bf143f6288bae091bd07696db0ee1&v=4)|
 | #579 | Genti | 0 | 0 | ![](https://avatars.githubusercontent.com/u/24897832?s=72&u=750fb3a41a6845919db758343892f6b9793c9ef2&v=4)|
 | #580 | Marius Vasili | 0 | 0 | ![](https://avatars.githubusercontent.com/u/67637387?s=72&u=bbcbeab43f3de689b0e29258831f5d0c1da796ed&v=4)|
@@ -611,154 +611,154 @@ Raking is based on Contributions.
 | #602 | John Smith | 0 | 0 | ![](https://avatars.githubusercontent.com/u/17314957?s=72&v=4)|
 | #603 | Arbi | 0 | 0 | ![](https://avatars.githubusercontent.com/u/64432385?s=72&u=4a90fc880bd8d543b403d36d59be64600eeb2717&v=4)|
 | #604 | Ketrina Gjini | 0 | 0 | ![](https://avatars.githubusercontent.com/u/46764499?s=72&u=f01d16280e525dfeaa99bbd54b8d2daed90b3547&v=4)|
-| #605 | null | 0 | 0 | ![](https://avatars.githubusercontent.com/u/45205380?s=72&u=a5c32942cf7f1445159553b4e0aa465cfe352d02&v=4)|
-| #606 | null | 0 | 0 | ![](https://avatars.githubusercontent.com/u/60407096?s=72&u=dbf64d70b43cd27a4afdd682fe4c88b3558d9c04&v=4)|
-| #607 | Emal Lushi | 0 | 0 | ![](https://avatars.githubusercontent.com/u/1671172?s=72&v=4)|
-| #608 | Xhulio Sulce | 0 | 0 | ![](https://avatars.githubusercontent.com/u/60065418?s=72&v=4)|
-| #609 | Durim Ukmata | 0 | 0 | ![](https://avatars.githubusercontent.com/u/7816110?s=72&u=a5e8003a0e8740473022bd568553e2f4fb491ef7&v=4)|
-| #610 | Daniel Rika | 0 | 0 | ![](https://avatars.githubusercontent.com/u/50688995?s=72&v=4)|
-| #611 | Shpati  | 0 | 0 | ![](https://avatars.githubusercontent.com/u/69656201?s=72&v=4)|
-| #612 | Alban | 0 | 0 | ![](https://avatars.githubusercontent.com/u/53575143?s=72&v=4)|
-| #613 | Mikel Kasneci | 0 | 0 | ![](https://avatars.githubusercontent.com/u/46652370?s=72&u=6b5da18294b3d27465a37b21c80bdd7b06309355&v=4)|
-| #614 | bimorp | 0 | 0 | ![](https://avatars.githubusercontent.com/u/42541570?s=72&u=b587603b6c194af9274b40e38d059030786bd276&v=4)|
-| #615 | kri57i | 0 | 0 | ![](https://avatars.githubusercontent.com/u/38963168?s=72&u=9c4076c9c0b07ebeae0f30f7484ba6b4797b2778&v=4)|
-| #616 | Ervin Pusi | 0 | 0 | ![](https://avatars.githubusercontent.com/u/22253133?s=72&u=0f24ad94426b3a4520950c2f59181c157af43599&v=4)|
-| #617 | Erind Nine | 0 | 0 | ![](https://avatars.githubusercontent.com/u/11547107?s=72&u=4d5c6f75ff618117cfd9fbf916ec7bed747a7ca4&v=4)|
-| #618 | Donald Gazidedja | 0 | 0 | ![](https://avatars.githubusercontent.com/u/26392651?s=72&v=4)|
-| #619 | Saltion Satka | 0 | 0 | ![](https://avatars.githubusercontent.com/u/47357627?s=72&v=4)|
-| #620 | null | 0 | 0 | ![](https://avatars.githubusercontent.com/u/65139744?s=72&u=87cbd1605acf691b8fec7b8de694c9d67c52a552&v=4)|
-| #621 | Klaudia Shehi | 0 | 0 | ![](https://avatars.githubusercontent.com/u/31279895?s=72&u=f1ae805715147d8425c82f55053f1494b58a2380&v=4)|
-| #622 | Aldiger | 0 | 0 | ![](https://avatars.githubusercontent.com/u/37411501?s=72&v=4)|
-| #623 | null | 0 | 0 | ![](https://avatars.githubusercontent.com/u/25990888?s=72&u=4fa100f6cdc8404a45257b68ef4293b21162e669&v=4)|
-| #624 | Zaka | 0 | 0 | ![](https://avatars.githubusercontent.com/u/71976695?s=72&u=53c8d271dd512714a33227ff4037fdda5e6d13c0&v=4)|
-| #625 | Elitjon Metaliaj | 0 | 0 | ![](https://avatars.githubusercontent.com/u/22788605?s=72&u=5ab302a27f29aa7560c6568dca9e29be1aed8d1c&v=4)|
-| #626 | Elton | 0 | 0 | ![](https://avatars.githubusercontent.com/u/79363821?s=72&v=4)|
-| #627 | Albi Ndoni | 0 | 0 | ![](https://avatars.githubusercontent.com/u/8874768?s=72&u=7fcb3e50ff5fc21020edea057dbeadf331d0714b&v=4)|
-| #628 | Holger Xhameta | 0 | 0 | ![](https://avatars.githubusercontent.com/u/41898165?s=72&v=4)|
-| #629 | Rexhen | 0 | 0 | ![](https://avatars.githubusercontent.com/u/39931725?s=72&u=f1d1a57fa2db17cda9bad82a99463b19af83b58f&v=4)|
-| #630 | Erida | 0 | 0 | ![](https://avatars.githubusercontent.com/u/33018976?s=72&u=5016506517fda039b85a6074df29b6c6b9a105f0&v=4)|
-| #631 | Eno 'Erebara | 0 | 0 | ![](https://avatars.githubusercontent.com/u/26027978?s=72&u=b1541661a9dc15cdc9adfe3e83bd0ba7d2455966&v=4)|
-| #632 | LeonardGithub | 0 | 0 | ![](https://avatars.githubusercontent.com/u/24437075?s=72&v=4)|
-| #633 | Gesildo | 0 | 0 | ![](https://avatars.githubusercontent.com/u/22918050?s=72&u=417318051c6952dc3cceb827678aa3f073792093&v=4)|
-| #634 | Atis Kazaferi | 0 | 0 | ![](https://avatars.githubusercontent.com/u/22776851?s=72&u=2f935e616abf24e8fa0189f7eeb35004ba22e383&v=4)|
-| #635 | Greta Harapaj | 0 | 0 | ![](https://avatars.githubusercontent.com/u/16487209?s=72&v=4)|
-| #636 | Ali Bajaj  | 0 | 0 | ![](https://avatars.githubusercontent.com/u/11060352?s=72&v=4)|
-| #637 | Klerina Lamce | 0 | 0 | ![](https://avatars.githubusercontent.com/u/69391753?s=72&u=aa7f23a0a2e6d4e9ecd849bff3fd8709581c0afd&v=4)|
-| #638 | Merilda Piranej | 0 | 0 | ![](https://avatars.githubusercontent.com/u/44381039?s=72&v=4)|
-| #639 | Benard Sulejmani | 0 | 0 | ![](https://avatars.githubusercontent.com/u/73174219?s=72&u=59944773b4066419a1ff51c53704d9c4c507e933&v=4)|
-| #640 | ina plaku | 0 | 0 | ![](https://avatars.githubusercontent.com/u/60014935?s=72&v=4)|
-| #641 | null | 0 | 0 | ![](https://avatars.githubusercontent.com/u/60145152?s=72&v=4)|
-| #642 | null | 0 | 0 | ![](https://avatars.githubusercontent.com/u/68002873?s=72&u=ddd9de51fdcf2bac99a9848c6c7e246f630b1ced&v=4)|
-| #643 | Mateo | 0 | 0 | ![](https://avatars.githubusercontent.com/u/58042764?s=72&v=4)|
-| #644 | Elvis | 0 | 0 | ![](https://avatars.githubusercontent.com/u/38751342?s=72&v=4)|
-| #645 | Mario Lleshi | 0 | 0 | ![](https://avatars.githubusercontent.com/u/38142674?s=72&v=4)|
+| #605 | null | 0 | 0 | ![](https://avatars.githubusercontent.com/u/60407096?s=72&u=dbf64d70b43cd27a4afdd682fe4c88b3558d9c04&v=4)|
+| #606 | Emal Lushi | 0 | 0 | ![](https://avatars.githubusercontent.com/u/1671172?s=72&v=4)|
+| #607 | Xhulio Sulce | 0 | 0 | ![](https://avatars.githubusercontent.com/u/60065418?s=72&v=4)|
+| #608 | Durim Ukmata | 0 | 0 | ![](https://avatars.githubusercontent.com/u/7816110?s=72&u=a5e8003a0e8740473022bd568553e2f4fb491ef7&v=4)|
+| #609 | Daniel Rika | 0 | 0 | ![](https://avatars.githubusercontent.com/u/50688995?s=72&v=4)|
+| #610 | Shpati  | 0 | 0 | ![](https://avatars.githubusercontent.com/u/69656201?s=72&v=4)|
+| #611 | Alban | 0 | 0 | ![](https://avatars.githubusercontent.com/u/53575143?s=72&v=4)|
+| #612 | Mikel Kasneci | 0 | 0 | ![](https://avatars.githubusercontent.com/u/46652370?s=72&u=6b5da18294b3d27465a37b21c80bdd7b06309355&v=4)|
+| #613 | bimorp | 0 | 0 | ![](https://avatars.githubusercontent.com/u/42541570?s=72&u=b587603b6c194af9274b40e38d059030786bd276&v=4)|
+| #614 | kri57i | 0 | 0 | ![](https://avatars.githubusercontent.com/u/38963168?s=72&u=9c4076c9c0b07ebeae0f30f7484ba6b4797b2778&v=4)|
+| #615 | Ervin Pusi | 0 | 0 | ![](https://avatars.githubusercontent.com/u/22253133?s=72&u=0f24ad94426b3a4520950c2f59181c157af43599&v=4)|
+| #616 | Erind Nine | 0 | 0 | ![](https://avatars.githubusercontent.com/u/11547107?s=72&u=4d5c6f75ff618117cfd9fbf916ec7bed747a7ca4&v=4)|
+| #617 | Donald Gazidedja | 0 | 0 | ![](https://avatars.githubusercontent.com/u/26392651?s=72&v=4)|
+| #618 | Saltion Satka | 0 | 0 | ![](https://avatars.githubusercontent.com/u/47357627?s=72&v=4)|
+| #619 | null | 0 | 0 | ![](https://avatars.githubusercontent.com/u/65139744?s=72&u=87cbd1605acf691b8fec7b8de694c9d67c52a552&v=4)|
+| #620 | Klaudia Shehi | 0 | 0 | ![](https://avatars.githubusercontent.com/u/31279895?s=72&u=f1ae805715147d8425c82f55053f1494b58a2380&v=4)|
+| #621 | Aldiger | 0 | 0 | ![](https://avatars.githubusercontent.com/u/37411501?s=72&v=4)|
+| #622 | null | 0 | 0 | ![](https://avatars.githubusercontent.com/u/25990888?s=72&u=4fa100f6cdc8404a45257b68ef4293b21162e669&v=4)|
+| #623 | Zaka | 0 | 0 | ![](https://avatars.githubusercontent.com/u/71976695?s=72&u=53c8d271dd512714a33227ff4037fdda5e6d13c0&v=4)|
+| #624 | Elitjon Metaliaj | 0 | 0 | ![](https://avatars.githubusercontent.com/u/22788605?s=72&u=5ab302a27f29aa7560c6568dca9e29be1aed8d1c&v=4)|
+| #625 | Elton | 0 | 0 | ![](https://avatars.githubusercontent.com/u/79363821?s=72&v=4)|
+| #626 | Albi Ndoni | 0 | 0 | ![](https://avatars.githubusercontent.com/u/8874768?s=72&u=7fcb3e50ff5fc21020edea057dbeadf331d0714b&v=4)|
+| #627 | Holger Xhameta | 0 | 0 | ![](https://avatars.githubusercontent.com/u/41898165?s=72&v=4)|
+| #628 | Rexhen | 0 | 0 | ![](https://avatars.githubusercontent.com/u/39931725?s=72&u=f1d1a57fa2db17cda9bad82a99463b19af83b58f&v=4)|
+| #629 | Erida | 0 | 0 | ![](https://avatars.githubusercontent.com/u/33018976?s=72&u=5016506517fda039b85a6074df29b6c6b9a105f0&v=4)|
+| #630 | Eno 'Erebara | 0 | 0 | ![](https://avatars.githubusercontent.com/u/26027978?s=72&u=b1541661a9dc15cdc9adfe3e83bd0ba7d2455966&v=4)|
+| #631 | LeonardGithub | 0 | 0 | ![](https://avatars.githubusercontent.com/u/24437075?s=72&v=4)|
+| #632 | Gesildo | 0 | 0 | ![](https://avatars.githubusercontent.com/u/22918050?s=72&u=417318051c6952dc3cceb827678aa3f073792093&v=4)|
+| #633 | Atis Kazaferi | 0 | 0 | ![](https://avatars.githubusercontent.com/u/22776851?s=72&u=2f935e616abf24e8fa0189f7eeb35004ba22e383&v=4)|
+| #634 | Greta Harapaj | 0 | 0 | ![](https://avatars.githubusercontent.com/u/16487209?s=72&v=4)|
+| #635 | Ali Bajaj  | 0 | 0 | ![](https://avatars.githubusercontent.com/u/11060352?s=72&v=4)|
+| #636 | Klerina Lamce | 0 | 0 | ![](https://avatars.githubusercontent.com/u/69391753?s=72&u=aa7f23a0a2e6d4e9ecd849bff3fd8709581c0afd&v=4)|
+| #637 | Merilda Piranej | 0 | 0 | ![](https://avatars.githubusercontent.com/u/44381039?s=72&v=4)|
+| #638 | Benard Sulejmani | 0 | 0 | ![](https://avatars.githubusercontent.com/u/73174219?s=72&u=59944773b4066419a1ff51c53704d9c4c507e933&v=4)|
+| #639 | ina plaku | 0 | 0 | ![](https://avatars.githubusercontent.com/u/60014935?s=72&v=4)|
+| #640 | null | 0 | 0 | ![](https://avatars.githubusercontent.com/u/60145152?s=72&v=4)|
+| #641 | null | 0 | 0 | ![](https://avatars.githubusercontent.com/u/68002873?s=72&u=ddd9de51fdcf2bac99a9848c6c7e246f630b1ced&v=4)|
+| #642 | Mateo | 0 | 0 | ![](https://avatars.githubusercontent.com/u/58042764?s=72&v=4)|
+| #643 | Elvis | 0 | 0 | ![](https://avatars.githubusercontent.com/u/38751342?s=72&v=4)|
+| #644 | Mario Lleshi | 0 | 0 | ![](https://avatars.githubusercontent.com/u/38142674?s=72&v=4)|
+| #645 | Xhoel Bano | 0 | 0 | ![](https://avatars.githubusercontent.com/u/77228132?s=72&v=4)|
 | #646 | Gerti Brace | 0 | 0 | ![](https://avatars.githubusercontent.com/u/28389243?s=72&u=c781bc512d9a5fa893bb34e2d731cbe574c905da&v=4)|
-| #647 | Xhoel Bano | 0 | 0 | ![](https://avatars.githubusercontent.com/u/77228132?s=72&v=4)|
-| #648 | Florijan Allaraj | 0 | 0 | ![](https://avatars.githubusercontent.com/u/47757263?s=72&u=801cd262711c1a41234274f8aa673e47971c2216&v=4)|
-| #649 | Xhuliana Pjetri | 0 | 0 | ![](https://avatars.githubusercontent.com/u/68293253?s=72&u=a702e784e153bc2f7c9814cf22e501e90a6d0d50&v=4)|
-| #650 | Parid Kushta | 0 | 0 | ![](https://avatars.githubusercontent.com/u/8887183?s=72&v=4)|
-| #651 | Emiljan Ndokaj | 0 | 0 | ![](https://avatars.githubusercontent.com/u/51837815?s=72&v=4)|
-| #652 | Gjergji Shkembi  | 0 | 0 | ![](https://avatars.githubusercontent.com/u/66558767?s=72&u=1439f871f2ad9af3bc9f9184b5d4cbb0bc735a03&v=4)|
-| #653 | Trio Thedev | 0 | 0 | ![](https://avatars.githubusercontent.com/u/55984693?s=72&v=4)|
-| #654 | Eris Asllani | 0 | 0 | ![](https://avatars.githubusercontent.com/u/7262153?s=72&v=4)|
-| #655 | 100oferta | 0 | 0 | ![](https://avatars.githubusercontent.com/u/29068118?s=72&u=80157ada80d69dc658eaeb7f6b94f8baeddc8898&v=4)|
-| #656 | Andi | 0 | 0 | ![](https://avatars.githubusercontent.com/u/26633912?s=72&u=de9eddc73a3b5a5b57e96a1bf940d5a8afd917fc&v=4)|
-| #657 | Mogen | 0 | 0 | ![](https://avatars.githubusercontent.com/u/25842265?s=72&v=4)|
-| #658 | Silver Lila | 0 | 0 | ![](https://avatars.githubusercontent.com/u/25078805?s=72&u=0a02277075f94e1c9f63c50fcf45a2f08867b27e&v=4)|
-| #659 | Valmir Abazi | 0 | 0 | ![](https://avatars.githubusercontent.com/u/19303413?s=72&u=446eba8685903eea0857c50c6bdd9b410cbd47ab&v=4)|
-| #660 | Ermir Hoxhaj | 0 | 0 | ![](https://avatars.githubusercontent.com/u/14906809?s=72&u=7d106fa972e4e37e3b4268fcf79b5e6490a728f3&v=4)|
-| #661 | Emanuela Buci | 0 | 0 | ![](https://avatars.githubusercontent.com/u/11912296?s=72&u=34afd061e7a09290365618ca695e24fec05149ef&v=4)|
-| #662 | Sonar M. | 0 | 0 | ![](https://avatars.githubusercontent.com/u/11283014?s=72&u=a6284bebd865d8886f0bb7c4d190debbf0ea3694&v=4)|
-| #663 | Ardi Zeneli | 0 | 0 | ![](https://avatars.githubusercontent.com/u/11787654?s=72&v=4)|
-| #664 | gentian bici | 0 | 0 | ![](https://avatars.githubusercontent.com/u/78202951?s=72&v=4)|
-| #665 | Barinaa | 0 | 0 | ![](https://avatars.githubusercontent.com/u/52511930?s=72&v=4)|
-| #666 | Ledio | 0 | 0 | ![](https://avatars.githubusercontent.com/u/24372673?s=72&u=8cea53653f267c2293ced8768fe79712aa4cc204&v=4)|
-| #667 | Jona | 0 | 0 | ![](https://avatars.githubusercontent.com/u/75466394?s=72&v=4)|
-| #668 | Augerto Manci | 0 | 0 | ![](https://avatars.githubusercontent.com/u/13234945?s=72&u=568e240488997d5718050798e247e6124457d2ac&v=4)|
-| #669 | Reni Nuhu | 0 | 0 | ![](https://avatars.githubusercontent.com/u/65925076?s=72&v=4)|
-| #670 | Besjan Balliu | 0 | 0 | ![](https://avatars.githubusercontent.com/u/30199523?s=72&u=8d72f0a669da5be6ed7a92703fff15ea43661c5f&v=4)|
-| #671 | Bora Senko | 0 | 0 | ![](https://avatars.githubusercontent.com/u/20046967?s=72&u=ef89ea560ba3870c769b5163ee97dfbee3de0caa&v=4)|
-| #672 | Besmir Zekaj | 0 | 0 | ![](https://avatars.githubusercontent.com/u/6682571?s=72&u=994415d5b7a083424c3ed372fa7a80496f092688&v=4)|
-| #673 | Erjon Duka | 0 | 0 | ![](https://avatars.githubusercontent.com/u/9050959?s=72&u=8a7ba783f3c87fcf3a46ff0eb1e7d65548d92b36&v=4)|
-| #674 | AZ Graphics | 0 | 0 | ![](https://avatars.githubusercontent.com/u/36447551?s=72&u=892b4f51d432b84304ae0e8f6d504e5de32f2174&v=4)|
-| #675 | Lezeti | 0 | 0 | ![](https://avatars.githubusercontent.com/u/32872993?s=72&u=ea16d8a49dadd117ad098a1585d357a8398fb83f&v=4)|
-| #676 | Yllart Seferi | 0 | 0 | ![](https://avatars.githubusercontent.com/u/21953621?s=72&u=3cabd2c4d570860654a6e1eb99bd1868884b0a69&v=4)|
-| #677 | Altin Oga | 0 | 0 | ![](https://avatars.githubusercontent.com/u/13677112?s=72&v=4)|
-| #678 | Ermal Cifligu | 0 | 0 | ![](https://avatars.githubusercontent.com/u/12609614?s=72&u=299f3c7a36df6942a271980473210c2d56bf73f5&v=4)|
-| #679 | null | 0 | 0 | ![](https://avatars.githubusercontent.com/u/59264485?s=72&v=4)|
-| #680 | Benard Digit Sapiens | 0 | 0 | ![](https://avatars.githubusercontent.com/u/66673455?s=72&u=58aedbe0d160a9233f152e3c18fbdcbbb995c02d&v=4)|
-| #681 | null | 0 | 0 | ![](https://avatars.githubusercontent.com/u/54030355?s=72&v=4)|
-| #682 | Kristi | 0 | 0 | ![](https://avatars.githubusercontent.com/u/51929323?s=72&u=aab3ec3e51785c8bf0b8a78cee0a837e1beed911&v=4)|
-| #683 | Astrit Shuli | 0 | 0 | ![](https://avatars.githubusercontent.com/u/40426603?s=72&v=4)|
-| #684 | Kevin Pina | 0 | 0 | ![](https://avatars.githubusercontent.com/u/41594173?s=72&u=4ffdb1f1f6472f256015e7e3968752e8613bb550&v=4)|
+| #647 | Florijan Allaraj | 0 | 0 | ![](https://avatars.githubusercontent.com/u/47757263?s=72&u=801cd262711c1a41234274f8aa673e47971c2216&v=4)|
+| #648 | Xhuliana Pjetri | 0 | 0 | ![](https://avatars.githubusercontent.com/u/68293253?s=72&u=a702e784e153bc2f7c9814cf22e501e90a6d0d50&v=4)|
+| #649 | Parid Kushta | 0 | 0 | ![](https://avatars.githubusercontent.com/u/8887183?s=72&v=4)|
+| #650 | Emiljan Ndokaj | 0 | 0 | ![](https://avatars.githubusercontent.com/u/51837815?s=72&v=4)|
+| #651 | Gjergji Shkembi  | 0 | 0 | ![](https://avatars.githubusercontent.com/u/66558767?s=72&u=1439f871f2ad9af3bc9f9184b5d4cbb0bc735a03&v=4)|
+| #652 | Trio Thedev | 0 | 0 | ![](https://avatars.githubusercontent.com/u/55984693?s=72&v=4)|
+| #653 | Eris Asllani | 0 | 0 | ![](https://avatars.githubusercontent.com/u/7262153?s=72&v=4)|
+| #654 | 100oferta | 0 | 0 | ![](https://avatars.githubusercontent.com/u/29068118?s=72&u=80157ada80d69dc658eaeb7f6b94f8baeddc8898&v=4)|
+| #655 | Andi | 0 | 0 | ![](https://avatars.githubusercontent.com/u/26633912?s=72&u=de9eddc73a3b5a5b57e96a1bf940d5a8afd917fc&v=4)|
+| #656 | Mogen | 0 | 0 | ![](https://avatars.githubusercontent.com/u/25842265?s=72&v=4)|
+| #657 | Silver Lila | 0 | 0 | ![](https://avatars.githubusercontent.com/u/25078805?s=72&u=0a02277075f94e1c9f63c50fcf45a2f08867b27e&v=4)|
+| #658 | Valmir Abazi | 0 | 0 | ![](https://avatars.githubusercontent.com/u/19303413?s=72&u=446eba8685903eea0857c50c6bdd9b410cbd47ab&v=4)|
+| #659 | Ermir Hoxhaj | 0 | 0 | ![](https://avatars.githubusercontent.com/u/14906809?s=72&u=7d106fa972e4e37e3b4268fcf79b5e6490a728f3&v=4)|
+| #660 | Emanuela Buci | 0 | 0 | ![](https://avatars.githubusercontent.com/u/11912296?s=72&u=34afd061e7a09290365618ca695e24fec05149ef&v=4)|
+| #661 | Sonar M. | 0 | 0 | ![](https://avatars.githubusercontent.com/u/11283014?s=72&u=a6284bebd865d8886f0bb7c4d190debbf0ea3694&v=4)|
+| #662 | Ardi Zeneli | 0 | 0 | ![](https://avatars.githubusercontent.com/u/11787654?s=72&v=4)|
+| #663 | gentian bici | 0 | 0 | ![](https://avatars.githubusercontent.com/u/78202951?s=72&v=4)|
+| #664 | Barinaa | 0 | 0 | ![](https://avatars.githubusercontent.com/u/52511930?s=72&v=4)|
+| #665 | Ledio | 0 | 0 | ![](https://avatars.githubusercontent.com/u/24372673?s=72&u=8cea53653f267c2293ced8768fe79712aa4cc204&v=4)|
+| #666 | Jona | 0 | 0 | ![](https://avatars.githubusercontent.com/u/75466394?s=72&v=4)|
+| #667 | Augerto Manci | 0 | 0 | ![](https://avatars.githubusercontent.com/u/13234945?s=72&u=568e240488997d5718050798e247e6124457d2ac&v=4)|
+| #668 | Reni Nuhu | 0 | 0 | ![](https://avatars.githubusercontent.com/u/65925076?s=72&v=4)|
+| #669 | Besjan Balliu | 0 | 0 | ![](https://avatars.githubusercontent.com/u/30199523?s=72&u=8d72f0a669da5be6ed7a92703fff15ea43661c5f&v=4)|
+| #670 | Bora Senko | 0 | 0 | ![](https://avatars.githubusercontent.com/u/20046967?s=72&u=ef89ea560ba3870c769b5163ee97dfbee3de0caa&v=4)|
+| #671 | Besmir Zekaj | 0 | 0 | ![](https://avatars.githubusercontent.com/u/6682571?s=72&u=994415d5b7a083424c3ed372fa7a80496f092688&v=4)|
+| #672 | Erjon Duka | 0 | 0 | ![](https://avatars.githubusercontent.com/u/9050959?s=72&u=8a7ba783f3c87fcf3a46ff0eb1e7d65548d92b36&v=4)|
+| #673 | AZ Graphics | 0 | 0 | ![](https://avatars.githubusercontent.com/u/36447551?s=72&u=892b4f51d432b84304ae0e8f6d504e5de32f2174&v=4)|
+| #674 | Lezeti | 0 | 0 | ![](https://avatars.githubusercontent.com/u/32872993?s=72&u=ea16d8a49dadd117ad098a1585d357a8398fb83f&v=4)|
+| #675 | Yllart Seferi | 0 | 0 | ![](https://avatars.githubusercontent.com/u/21953621?s=72&u=3cabd2c4d570860654a6e1eb99bd1868884b0a69&v=4)|
+| #676 | Altin Oga | 0 | 0 | ![](https://avatars.githubusercontent.com/u/13677112?s=72&v=4)|
+| #677 | Ermal Cifligu | 0 | 0 | ![](https://avatars.githubusercontent.com/u/12609614?s=72&u=299f3c7a36df6942a271980473210c2d56bf73f5&v=4)|
+| #678 | null | 0 | 0 | ![](https://avatars.githubusercontent.com/u/59264485?s=72&v=4)|
+| #679 | Benard Digit Sapiens | 0 | 0 | ![](https://avatars.githubusercontent.com/u/66673455?s=72&u=58aedbe0d160a9233f152e3c18fbdcbbb995c02d&v=4)|
+| #680 | null | 0 | 0 | ![](https://avatars.githubusercontent.com/u/54030355?s=72&v=4)|
+| #681 | Kristi | 0 | 0 | ![](https://avatars.githubusercontent.com/u/51929323?s=72&u=aab3ec3e51785c8bf0b8a78cee0a837e1beed911&v=4)|
+| #682 | Astrit Shuli | 0 | 0 | ![](https://avatars.githubusercontent.com/u/40426603?s=72&v=4)|
+| #683 | Kevin Pina | 0 | 0 | ![](https://avatars.githubusercontent.com/u/41594173?s=72&u=4ffdb1f1f6472f256015e7e3968752e8613bb550&v=4)|
+| #684 | Markelian Kapidani | 0 | 0 | ![](https://avatars.githubusercontent.com/u/61168031?s=72&u=0ca5a08a0fcf25a6d1ab1ea32a68ae00507c3d41&v=4)|
 | #685 | Ismet Ahmetaj | 0 | 0 | ![](https://avatars.githubusercontent.com/u/39103265?s=72&v=4)|
-| #686 | Markelian Kapidani | 0 | 0 | ![](https://avatars.githubusercontent.com/u/61168031?s=72&u=0ca5a08a0fcf25a6d1ab1ea32a68ae00507c3d41&v=4)|
-| #687 | KEVIN | 0 | 0 | ![](https://avatars.githubusercontent.com/u/64549956?s=72&v=4)|
-| #688 | Morix | 0 | 0 | ![](https://avatars.githubusercontent.com/u/28785619?s=72&u=c8b51523cd8cd51fbc4e3f168350e067c8143c23&v=4)|
-| #689 | Bora Lamce | 0 | 0 | ![](https://avatars.githubusercontent.com/u/33930954?s=72&v=4)|
-| #690 | Alban Proko | 0 | 0 | ![](https://avatars.githubusercontent.com/u/17899286?s=72&u=fc465a9f5769c9c961a92e2294731016cf014774&v=4)|
-| #691 | Dimitri Mile | 0 | 0 | ![](https://avatars.githubusercontent.com/u/42406462?s=72&u=b683172b59668472c8cfae52e787a97aea74ef2a&v=4)|
-| #692 | Rubin Bekteshi | 0 | 0 | ![](https://avatars.githubusercontent.com/u/36812947?s=72&u=f15b99e9d64b6274690abd7eba70b46859793f4e&v=4)|
-| #693 | CoolerZog | 0 | 0 | ![](https://avatars.githubusercontent.com/u/68675789?s=72&u=32516d00318359888e7afd22885cd966cecc0df2&v=4)|
-| #694 | Harris On Ford | 0 | 0 | ![](https://avatars.githubusercontent.com/u/73243532?s=72&v=4)|
-| #695 | Mirlind | 0 | 0 | ![](https://avatars.githubusercontent.com/u/32404595?s=72&u=b29cb83caf61292d0dae0e5c4ece440f81df266f&v=4)|
-| #696 | Andi Resuli | 0 | 0 | ![](https://avatars.githubusercontent.com/u/33346613?s=72&u=bb910448398eb58ca5017dd2e82a51abb2f4993b&v=4)|
-| #697 | Arsen Cenko | 0 | 0 | ![](https://avatars.githubusercontent.com/u/20623341?s=72&u=b3f4143f9f161948b88fcdd21c35d5bebd589619&v=4)|
-| #698 | Ilir Hamitaj | 0 | 0 | ![](https://avatars.githubusercontent.com/u/12698805?s=72&v=4)|
-| #699 | Innova.al | 0 | 0 | ![](https://avatars.githubusercontent.com/u/29663837?s=72&u=b8def49e6306179f7fa4083e24955aa16a36ad4e&v=4)|
-| #700 | Marin Sauku | 0 | 0 | ![](https://avatars.githubusercontent.com/u/27692406?s=72&u=4ac1f27663d394ccf9bdcea3781df997115ff71e&v=4)|
-| #701 | Xhelua | 0 | 0 | ![](https://avatars.githubusercontent.com/u/24947605?s=72&u=a7420ca01423f46fb0d68b626032cd90d07bc7dd&v=4)|
-| #702 | Joel Bollo | 0 | 0 | ![](https://avatars.githubusercontent.com/u/24661534?s=72&u=b6aa34268a81c639a5ec38ca980c03bf8a58e59f&v=4)|
-| #703 | null | 0 | 0 | ![](https://avatars.githubusercontent.com/u/8427768?s=72&u=da5ef6cb6cc8dbce917f2ee10d3024072d478d7f&v=4)|
-| #704 | Fatjona Zenelaj | 0 | 0 | ![](https://avatars.githubusercontent.com/u/78125348?s=72&v=4)|
-| #705 | MegiD | 0 | 0 | ![](https://avatars.githubusercontent.com/u/74194404?s=72&v=4)|
-| #706 | Klajdi Priska | 0 | 0 | ![](https://avatars.githubusercontent.com/u/47832393?s=72&u=87f257199d8fff775a231695faf306ae38132a78&v=4)|
+| #686 | KEVIN | 0 | 0 | ![](https://avatars.githubusercontent.com/u/64549956?s=72&v=4)|
+| #687 | Morix | 0 | 0 | ![](https://avatars.githubusercontent.com/u/28785619?s=72&u=c8b51523cd8cd51fbc4e3f168350e067c8143c23&v=4)|
+| #688 | Bora Lamce | 0 | 0 | ![](https://avatars.githubusercontent.com/u/33930954?s=72&v=4)|
+| #689 | Alban Proko | 0 | 0 | ![](https://avatars.githubusercontent.com/u/17899286?s=72&u=fc465a9f5769c9c961a92e2294731016cf014774&v=4)|
+| #690 | Dimitri Mile | 0 | 0 | ![](https://avatars.githubusercontent.com/u/42406462?s=72&u=b683172b59668472c8cfae52e787a97aea74ef2a&v=4)|
+| #691 | Rubin Bekteshi | 0 | 0 | ![](https://avatars.githubusercontent.com/u/36812947?s=72&u=f15b99e9d64b6274690abd7eba70b46859793f4e&v=4)|
+| #692 | CoolerZog | 0 | 0 | ![](https://avatars.githubusercontent.com/u/68675789?s=72&u=32516d00318359888e7afd22885cd966cecc0df2&v=4)|
+| #693 | Harris On Ford | 0 | 0 | ![](https://avatars.githubusercontent.com/u/73243532?s=72&v=4)|
+| #694 | Mirlind | 0 | 0 | ![](https://avatars.githubusercontent.com/u/32404595?s=72&u=b29cb83caf61292d0dae0e5c4ece440f81df266f&v=4)|
+| #695 | Andi Resuli | 0 | 0 | ![](https://avatars.githubusercontent.com/u/33346613?s=72&u=bb910448398eb58ca5017dd2e82a51abb2f4993b&v=4)|
+| #696 | Arsen Cenko | 0 | 0 | ![](https://avatars.githubusercontent.com/u/20623341?s=72&u=b3f4143f9f161948b88fcdd21c35d5bebd589619&v=4)|
+| #697 | Ilir Hamitaj | 0 | 0 | ![](https://avatars.githubusercontent.com/u/12698805?s=72&v=4)|
+| #698 | Innova.al | 0 | 0 | ![](https://avatars.githubusercontent.com/u/29663837?s=72&u=b8def49e6306179f7fa4083e24955aa16a36ad4e&v=4)|
+| #699 | Marin Sauku | 0 | 0 | ![](https://avatars.githubusercontent.com/u/27692406?s=72&u=4ac1f27663d394ccf9bdcea3781df997115ff71e&v=4)|
+| #700 | Xhelua | 0 | 0 | ![](https://avatars.githubusercontent.com/u/24947605?s=72&u=a7420ca01423f46fb0d68b626032cd90d07bc7dd&v=4)|
+| #701 | Joel Bollo | 0 | 0 | ![](https://avatars.githubusercontent.com/u/24661534?s=72&u=b6aa34268a81c639a5ec38ca980c03bf8a58e59f&v=4)|
+| #702 | null | 0 | 0 | ![](https://avatars.githubusercontent.com/u/8427768?s=72&u=da5ef6cb6cc8dbce917f2ee10d3024072d478d7f&v=4)|
+| #703 | Fatjona Zenelaj | 0 | 0 | ![](https://avatars.githubusercontent.com/u/78125348?s=72&v=4)|
+| #704 | MegiD | 0 | 0 | ![](https://avatars.githubusercontent.com/u/74194404?s=72&v=4)|
+| #705 | Klajdi Priska | 0 | 0 | ![](https://avatars.githubusercontent.com/u/47832393?s=72&u=87f257199d8fff775a231695faf306ae38132a78&v=4)|
+| #706 | Jonis Mulaj | 0 | 0 | ![](https://avatars.githubusercontent.com/u/74658013?s=72&v=4)|
 | #707 | Jonis Mulaj | 0 | 0 | ![](https://avatars.githubusercontent.com/u/74658013?s=72&v=4)|
-| #708 | Daniele Di Gregorio | 0 | 0 | ![](https://avatars.githubusercontent.com/u/4458727?s=72&v=4)|
-| #709 | null | 0 | 0 | ![](https://avatars.githubusercontent.com/u/7899899?s=72&v=4)|
-| #710 | null | 0 | 0 | ![](https://avatars.githubusercontent.com/u/78563530?s=72&v=4)|
-| #711 | null | 0 | 0 | ![](https://avatars.githubusercontent.com/u/76539584?s=72&u=73e1c670a63e86de44ca9e8156dc6742b981164c&v=4)|
-| #712 | null | 0 | 0 | ![](https://avatars.githubusercontent.com/u/50763257?s=72&v=4)|
-| #713 | Albatrans Website | 0 | 0 | ![](https://avatars.githubusercontent.com/u/51709657?s=72&u=24a6e3156fd5c2efe8db68b165eac4cf921c275b&v=4)|
-| #714 | null | 0 | 0 | ![](https://avatars.githubusercontent.com/u/71787366?s=72&v=4)|
-| #715 | ermal hoxhaj | 0 | 0 | ![](https://avatars.githubusercontent.com/u/66274070?s=72&v=4)|
-| #716 | Emelend | 0 | 0 | ![](https://avatars.githubusercontent.com/u/37377860?s=72&u=458aa64de2a9b0c7543e6cc9a47ae3e64bead4a6&v=4)|
-| #717 | Kudret Bojko | 0 | 0 | ![](https://avatars.githubusercontent.com/u/36930742?s=72&u=2dd9cff15d8313f2b3eb440b5113ab86f13abd4e&v=4)|
-| #718 | Vullnet | 0 | 0 | ![](https://avatars.githubusercontent.com/u/40643473?s=72&v=4)|
-| #719 | Irdi Buzali | 0 | 0 | ![](https://avatars.githubusercontent.com/u/8348731?s=72&u=3cc3bd7053e15bb0b656d7d91663d6f7632a105b&v=4)|
-| #720 | Rejvi Dardha | 0 | 0 | ![](https://avatars.githubusercontent.com/u/29729599?s=72&v=4)|
-| #721 | Enxhi Abazi | 0 | 0 | ![](https://avatars.githubusercontent.com/u/25501189?s=72&v=4)|
-| #722 | Elison Ramovi | 0 | 0 | ![](https://avatars.githubusercontent.com/u/15983356?s=72&v=4)|
-| #723 | Shemsi R. | 0 | 0 | ![](https://avatars.githubusercontent.com/u/47541974?s=72&v=4)|
-| #724 | Halit Lala | 0 | 0 | ![](https://avatars.githubusercontent.com/u/57323178?s=72&v=4)|
-| #725 | Erion Muca | 0 | 0 | ![](https://avatars.githubusercontent.com/u/23213436?s=72&v=4)|
-| #726 | Uilliam  | 0 | 0 | ![](https://avatars.githubusercontent.com/u/70378859?s=72&v=4)|
-| #727 | Mali | 0 | 0 | ![](https://avatars.githubusercontent.com/u/34396160?s=72&v=4)|
-| #728 | Kristina Ko | 0 | 0 | ![](https://avatars.githubusercontent.com/u/32222933?s=72&u=a1f1a0e276c3011f8b4d2a160ea40cecf38115e3&v=4)|
-| #729 | null | 0 | 0 | ![](https://avatars.githubusercontent.com/u/18721688?s=72&v=4)|
-| #730 | Soni Lamkaj | 0 | 0 | ![](https://avatars.githubusercontent.com/u/64134339?s=72&v=4)|
-| #731 | Glisav Katroshi | 0 | 0 | ![](https://avatars.githubusercontent.com/u/22434655?s=72&u=19bbfb2d84846e8a0d0579f630290013390b1095&v=4)|
-| #732 | null | 0 | 0 | ![](https://avatars.githubusercontent.com/u/56966700?s=72&v=4)|
-| #733 | Noel Stafa | 0 | 0 | ![](https://avatars.githubusercontent.com/u/27357353?s=72&u=1501ca3b33e47a0645dfe4397fda63fd30d3754f&v=4)|
-| #734 | MaDy xA | 0 | 0 | ![](https://avatars.githubusercontent.com/u/8677366?s=72&u=185c986d93318da143cce4d5bbbb1df6bd3a1cdb&v=4)|
-| #735 | perparim | 0 | 0 | ![](https://avatars.githubusercontent.com/u/64183544?s=72&v=4)|
-| #736 | Olgert | 0 | 0 | ![](https://avatars.githubusercontent.com/u/34354442?s=72&v=4)|
-| #737 | Etleva Ramushi  | 0 | 0 | ![](https://avatars.githubusercontent.com/u/59691167?s=72&v=4)|
-| #738 | Era | 0 | 0 | ![](https://avatars.githubusercontent.com/u/47402276?s=72&u=9ddd16db0e771449e975757a30a4f985a179e351&v=4)|
-| #739 | Aleksandros | 0 | 0 | ![](https://avatars.githubusercontent.com/u/57413780?s=72&v=4)|
-| #740 | Markeljan lesaj | 0 | 0 | ![](https://avatars.githubusercontent.com/u/53902351?s=72&v=4)|
-| #741 | null | 0 | 0 | ![](https://avatars.githubusercontent.com/u/50547600?s=72&v=4)|
-| #742 | Sergej Alibali | 0 | 0 | ![](https://avatars.githubusercontent.com/u/6506211?s=72&v=4)|
-| #743 | Granit Gjana | 0 | 0 | ![](https://avatars.githubusercontent.com/u/7522678?s=72&v=4)|
-| #744 | Ylber | 0 | 0 | ![](https://avatars.githubusercontent.com/u/24505618?s=72&v=4)|
-| #745 | sx8286 | 0 | 0 | ![](https://avatars.githubusercontent.com/u/21987169?s=72&u=68391c64f4c22b8eb129f520fdee34e2eed555e8&v=4)|
-| #746 | AlboGuy | 0 | 0 | ![](https://avatars.githubusercontent.com/u/19734797?s=72&u=464ba06d7a8cf76bdb1fb74ee9e9d19b528ab16f&v=4)|
-| #747 | Talk-socialmedia | 0 | 0 | ![](https://avatars.githubusercontent.com/u/17988015?s=72&u=ac6c811f7330e217ba76bb8cf9437fa885212270&v=4)|
-| #748 | Agartha | 0 | 0 | ![](https://avatars.githubusercontent.com/u/31229475?s=72&v=4)|
-| #749 | Indrit Nikjari | 0 | 0 | ![](https://avatars.githubusercontent.com/u/28442316?s=72&v=4)|
-| #750 | olsi.qatipi | 0 | 0 | ![](https://avatars.githubusercontent.com/u/46634475?s=72&u=33d21050f48d65d2a52f844adb94fc2f5db3b817&v=4)|
-| #751 | leloaurel | 0 | 0 | ![](https://avatars.githubusercontent.com/u/50328347?s=72&u=348934133242f708c836c8a8febfaf3677ee5475&v=4)|
-| #752 | Mirditor Kucaj | 0 | 0 | ![](https://avatars.githubusercontent.com/u/65112453?s=72&u=75e4889ef161fb130c12cfb4db485a64c2052c1b&v=4)|
+| #708 | Klajdi Priska | 0 | 0 | ![](https://avatars.githubusercontent.com/u/47832393?s=72&u=87f257199d8fff775a231695faf306ae38132a78&v=4)|
+| #709 | Daniele Di Gregorio | 0 | 0 | ![](https://avatars.githubusercontent.com/u/4458727?s=72&v=4)|
+| #710 | Daniele Di Gregorio | 0 | 0 | ![](https://avatars.githubusercontent.com/u/4458727?s=72&v=4)|
+| #711 | null | 0 | 0 | ![](https://avatars.githubusercontent.com/u/7899899?s=72&v=4)|
+| #712 | null | 0 | 0 | ![](https://avatars.githubusercontent.com/u/78563530?s=72&v=4)|
+| #713 | null | 0 | 0 | ![](https://avatars.githubusercontent.com/u/76539584?s=72&u=73e1c670a63e86de44ca9e8156dc6742b981164c&v=4)|
+| #714 | null | 0 | 0 | ![](https://avatars.githubusercontent.com/u/50763257?s=72&v=4)|
+| #715 | Albatrans Website | 0 | 0 | ![](https://avatars.githubusercontent.com/u/51709657?s=72&u=24a6e3156fd5c2efe8db68b165eac4cf921c275b&v=4)|
+| #716 | null | 0 | 0 | ![](https://avatars.githubusercontent.com/u/71787366?s=72&v=4)|
+| #717 | ermal hoxhaj | 0 | 0 | ![](https://avatars.githubusercontent.com/u/66274070?s=72&v=4)|
+| #718 | Emelend | 0 | 0 | ![](https://avatars.githubusercontent.com/u/37377860?s=72&u=458aa64de2a9b0c7543e6cc9a47ae3e64bead4a6&v=4)|
+| #719 | Kudret Bojko | 0 | 0 | ![](https://avatars.githubusercontent.com/u/36930742?s=72&u=2dd9cff15d8313f2b3eb440b5113ab86f13abd4e&v=4)|
+| #720 | Vullnet | 0 | 0 | ![](https://avatars.githubusercontent.com/u/40643473?s=72&v=4)|
+| #721 | Irdi Buzali | 0 | 0 | ![](https://avatars.githubusercontent.com/u/8348731?s=72&u=3cc3bd7053e15bb0b656d7d91663d6f7632a105b&v=4)|
+| #722 | Rejvi Dardha | 0 | 0 | ![](https://avatars.githubusercontent.com/u/29729599?s=72&v=4)|
+| #723 | Enxhi Abazi | 0 | 0 | ![](https://avatars.githubusercontent.com/u/25501189?s=72&v=4)|
+| #724 | Elison Ramovi | 0 | 0 | ![](https://avatars.githubusercontent.com/u/15983356?s=72&v=4)|
+| #725 | Shemsi R. | 0 | 0 | ![](https://avatars.githubusercontent.com/u/47541974?s=72&v=4)|
+| #726 | Kristina Ko | 0 | 0 | ![](https://avatars.githubusercontent.com/u/32222933?s=72&u=a1f1a0e276c3011f8b4d2a160ea40cecf38115e3&v=4)|
+| #727 | Uilliam  | 0 | 0 | ![](https://avatars.githubusercontent.com/u/70378859?s=72&v=4)|
+| #728 | Mali | 0 | 0 | ![](https://avatars.githubusercontent.com/u/34396160?s=72&v=4)|
+| #729 | Kristina Ko | 0 | 0 | ![](https://avatars.githubusercontent.com/u/32222933?s=72&u=a1f1a0e276c3011f8b4d2a160ea40cecf38115e3&v=4)|
+| #730 | null | 0 | 0 | ![](https://avatars.githubusercontent.com/u/18721688?s=72&v=4)|
+| #731 | Soni Lamkaj | 0 | 0 | ![](https://avatars.githubusercontent.com/u/64134339?s=72&v=4)|
+| #732 | Glisav Katroshi | 0 | 0 | ![](https://avatars.githubusercontent.com/u/22434655?s=72&u=19bbfb2d84846e8a0d0579f630290013390b1095&v=4)|
+| #733 | null | 0 | 0 | ![](https://avatars.githubusercontent.com/u/56966700?s=72&v=4)|
+| #734 | Noel Stafa | 0 | 0 | ![](https://avatars.githubusercontent.com/u/27357353?s=72&u=1501ca3b33e47a0645dfe4397fda63fd30d3754f&v=4)|
+| #735 | MaDy xA | 0 | 0 | ![](https://avatars.githubusercontent.com/u/8677366?s=72&u=185c986d93318da143cce4d5bbbb1df6bd3a1cdb&v=4)|
+| #736 | perparim | 0 | 0 | ![](https://avatars.githubusercontent.com/u/64183544?s=72&v=4)|
+| #737 | Olgert | 0 | 0 | ![](https://avatars.githubusercontent.com/u/34354442?s=72&v=4)|
+| #738 | Etleva Ramushi  | 0 | 0 | ![](https://avatars.githubusercontent.com/u/59691167?s=72&v=4)|
+| #739 | Era | 0 | 0 | ![](https://avatars.githubusercontent.com/u/47402276?s=72&u=9ddd16db0e771449e975757a30a4f985a179e351&v=4)|
+| #740 | Aleksandros | 0 | 0 | ![](https://avatars.githubusercontent.com/u/57413780?s=72&v=4)|
+| #741 | Markeljan lesaj | 0 | 0 | ![](https://avatars.githubusercontent.com/u/53902351?s=72&v=4)|
+| #742 | null | 0 | 0 | ![](https://avatars.githubusercontent.com/u/50547600?s=72&v=4)|
+| #743 | Sergej Alibali | 0 | 0 | ![](https://avatars.githubusercontent.com/u/6506211?s=72&v=4)|
+| #744 | Granit Gjana | 0 | 0 | ![](https://avatars.githubusercontent.com/u/7522678?s=72&v=4)|
+| #745 | Ylber | 0 | 0 | ![](https://avatars.githubusercontent.com/u/24505618?s=72&v=4)|
+| #746 | sx8286 | 0 | 0 | ![](https://avatars.githubusercontent.com/u/21987169?s=72&u=68391c64f4c22b8eb129f520fdee34e2eed555e8&v=4)|
+| #747 | AlboGuy | 0 | 0 | ![](https://avatars.githubusercontent.com/u/19734797?s=72&u=464ba06d7a8cf76bdb1fb74ee9e9d19b528ab16f&v=4)|
+| #748 | Talk-socialmedia | 0 | 0 | ![](https://avatars.githubusercontent.com/u/17988015?s=72&u=ac6c811f7330e217ba76bb8cf9437fa885212270&v=4)|
+| #749 | Agartha | 0 | 0 | ![](https://avatars.githubusercontent.com/u/31229475?s=72&v=4)|
+| #750 | Indrit Nikjari | 0 | 0 | ![](https://avatars.githubusercontent.com/u/28442316?s=72&v=4)|
+| #751 | olsi.qatipi | 0 | 0 | ![](https://avatars.githubusercontent.com/u/46634475?s=72&u=33d21050f48d65d2a52f844adb94fc2f5db3b817&v=4)|
+| #752 | leloaurel | 0 | 0 | ![](https://avatars.githubusercontent.com/u/50328347?s=72&u=348934133242f708c836c8a8febfaf3677ee5475&v=4)|
 | #753 | Mirditor Kucaj | 0 | 0 | ![](https://avatars.githubusercontent.com/u/65112453?s=72&u=75e4889ef161fb130c12cfb4db485a64c2052c1b&v=4)|
 | #754 | Adela Alushi | 0 | 0 | ![](https://avatars.githubusercontent.com/u/51212803?s=72&u=bd3183dfba14d6d6285e352af84f54641cbe6f5a&v=4)|
 | #755 | Altin Kambo | 0 | 0 | ![](https://avatars.githubusercontent.com/u/6568471?s=72&v=4)|
@@ -905,25 +905,27 @@ Raking is based on Contributions.
 | #896 | Anis Mashku | 4 | 0 | ![](https://avatars.githubusercontent.com/u/5527858?s=72&u=42bad0a7035485801051792799c127baeb76ee83&v=4)|
 | #897 | Mariglen Kerciku | 4 | 0 | ![](https://avatars.githubusercontent.com/u/13080408?s=72&u=aed42dedb8de1f2fe1bfda9f3719e47ae6c5a98b&v=4)|
 | #898 | Valentino | 4 | 0 | ![](https://avatars.githubusercontent.com/u/18137127?s=72&v=4)|
-| #899 | Meriton | 4 | 0 | ![](https://avatars.githubusercontent.com/u/24980269?s=72&u=23af5f2b5650afe69a270668d01a0756b3fa83e4&v=4)|
-| #900 | Shpresim Ndrukaj | 5 | 0 | ![](https://avatars.githubusercontent.com/u/30705528?s=72&u=e6dcb51f9f8434ccf01ae99f923804732cc4a277&v=4)|
-| #901 | null | 5 | 0 | ![](https://avatars.githubusercontent.com/u/46891160?s=72&u=ee3bd2669e7b3fcad299a3b9299f06c8570db6da&v=4)|
-| #902 | null | 5 | 0 | ![](https://avatars.githubusercontent.com/u/17452121?s=72&u=0e82128a427103da143215306bf6e173ccfbc0c4&v=4)|
-| #903 | Amir Buzo | 5 | 0 | ![](https://avatars.githubusercontent.com/u/3788671?s=72&u=4c80e875f8792322486ccf7421f6dfe600c34183&v=4)|
-| #904 | CERBEROS | 5 | 0 | ![](https://avatars.githubusercontent.com/u/469691?s=72&v=4)|
-| #905 | Ergest Nako | 6 | 0 | ![](https://avatars.githubusercontent.com/u/20150899?s=72&v=4)|
-| #906 | Olsi Celaj | 6 | 0 | ![](https://avatars.githubusercontent.com/u/444117?s=72&v=4)|
-| #907 | Fluzion Hanaj | 6 | 0 | ![](https://avatars.githubusercontent.com/u/20613629?s=72&u=87b933567cffbe0e64d6fbc91e093ba9b4856750&v=4)|
-| #908 | Genci Likaj | 6 | 0 | ![](https://avatars.githubusercontent.com/u/3028856?s=72&u=cd9ffeee8313629a5541dda67d4d2d3f9b17d5dc&v=4)|
-| #909 | Blin Varfi | 6 | 0 | ![](https://avatars.githubusercontent.com/u/15792890?s=72&u=9ee5c0a010a7c68095ee5b2cbc4a33feaa34c52c&v=4)|
-| #910 | Diamant Neziri | 6 | 0 | ![](https://avatars.githubusercontent.com/u/1141882?s=72&v=4)|
-| #911 | Mirel | 7 | 0 | ![](https://avatars.githubusercontent.com/u/13148005?s=72&u=b58c93b44c595b0d06551cf8aac15926853200a0&v=4)|
-| #912 | Kostaq Cipo | 8 | 0 | ![](https://avatars.githubusercontent.com/u/1000159?s=72&u=2da5ffd30b1ed96273db66ca1f2c9e108bf31970&v=4)|
-| #913 | Eriol Po | 9 | 0 | ![](https://avatars.githubusercontent.com/u/15707559?s=72&u=9a8bc9491633d773f9261fd7c13f4809eda40f43&v=4)|
-| #914 | Indrit Zeqiris | 9 | 0 | ![](https://avatars.githubusercontent.com/u/1752451?s=72&u=3e94d75342ad06504b4d88e2d33cf8144becf6de&v=4)|
-| #915 | grt107 | 10 | 0 | ![](https://avatars.githubusercontent.com/u/31504327?s=72&u=abcb8ef75c862a24ebddf3375ffa01d7b30f78f0&v=4)|
-| #916 | Ermir Beqiraj | 11 | 0 | ![](https://avatars.githubusercontent.com/u/7790756?s=72&u=0e7df93aab9f6012dc42feeea9a115b54a0ef59b&v=4)|
-| #917 | Aleksander Prenga | 12 | 0 | ![](https://avatars.githubusercontent.com/u/5831127?s=72&u=90d4fdaabc975800ed6a6b433044ce0be4b069b7&v=4)|
-| #918 | null | 13 | 0 | ![](https://avatars.githubusercontent.com/u/5224636?s=72&v=4)|
-| #919 | Megi Sila | 57 | 0 | ![](https://avatars.githubusercontent.com/u/80169743?s=72&u=1e9bb119d7ba2deb5c28c0f5b3ef68338fde3ff7&v=4)|
-| #920 | Fadion Dashi | 60 | 0 | ![](https://avatars.githubusercontent.com/u/374519?s=72&u=85199cd9d05139c075b39cf489a66582c03687a0&v=4)|
+| #899 | Gerald Haxhillari | 4 | 0 | ![](https://avatars.githubusercontent.com/u/32375141?s=72&v=4)|
+| #900 | Gerald Haxhillari | 4 | 0 | ![](https://avatars.githubusercontent.com/u/32375141?s=72&v=4)|
+| #901 | Meriton | 4 | 0 | ![](https://avatars.githubusercontent.com/u/24980269?s=72&u=23af5f2b5650afe69a270668d01a0756b3fa83e4&v=4)|
+| #902 | Shpresim Ndrukaj | 5 | 0 | ![](https://avatars.githubusercontent.com/u/30705528?s=72&u=e6dcb51f9f8434ccf01ae99f923804732cc4a277&v=4)|
+| #903 | null | 5 | 0 | ![](https://avatars.githubusercontent.com/u/17452121?s=72&u=0e82128a427103da143215306bf6e173ccfbc0c4&v=4)|
+| #904 | null | 5 | 0 | ![](https://avatars.githubusercontent.com/u/46891160?s=72&u=ee3bd2669e7b3fcad299a3b9299f06c8570db6da&v=4)|
+| #905 | Amir Buzo | 5 | 0 | ![](https://avatars.githubusercontent.com/u/3788671?s=72&u=4c80e875f8792322486ccf7421f6dfe600c34183&v=4)|
+| #906 | CERBEROS | 5 | 0 | ![](https://avatars.githubusercontent.com/u/469691?s=72&v=4)|
+| #907 | Ergest Nako | 6 | 0 | ![](https://avatars.githubusercontent.com/u/20150899?s=72&v=4)|
+| #908 | Olsi Celaj | 6 | 0 | ![](https://avatars.githubusercontent.com/u/444117?s=72&v=4)|
+| #909 | Fluzion Hanaj | 6 | 0 | ![](https://avatars.githubusercontent.com/u/20613629?s=72&u=87b933567cffbe0e64d6fbc91e093ba9b4856750&v=4)|
+| #910 | Genci Likaj | 6 | 0 | ![](https://avatars.githubusercontent.com/u/3028856?s=72&u=cd9ffeee8313629a5541dda67d4d2d3f9b17d5dc&v=4)|
+| #911 | Blin Varfi | 6 | 0 | ![](https://avatars.githubusercontent.com/u/15792890?s=72&u=9ee5c0a010a7c68095ee5b2cbc4a33feaa34c52c&v=4)|
+| #912 | Diamant Neziri | 6 | 0 | ![](https://avatars.githubusercontent.com/u/1141882?s=72&v=4)|
+| #913 | Mirel | 7 | 0 | ![](https://avatars.githubusercontent.com/u/13148005?s=72&u=b58c93b44c595b0d06551cf8aac15926853200a0&v=4)|
+| #914 | Kostaq Cipo | 8 | 0 | ![](https://avatars.githubusercontent.com/u/1000159?s=72&u=2da5ffd30b1ed96273db66ca1f2c9e108bf31970&v=4)|
+| #915 | Eriol Po | 9 | 0 | ![](https://avatars.githubusercontent.com/u/15707559?s=72&u=9a8bc9491633d773f9261fd7c13f4809eda40f43&v=4)|
+| #916 | Indrit Zeqiris | 9 | 0 | ![](https://avatars.githubusercontent.com/u/1752451?s=72&u=3e94d75342ad06504b4d88e2d33cf8144becf6de&v=4)|
+| #917 | grt107 | 10 | 0 | ![](https://avatars.githubusercontent.com/u/31504327?s=72&u=abcb8ef75c862a24ebddf3375ffa01d7b30f78f0&v=4)|
+| #918 | Ermir Beqiraj | 11 | 0 | ![](https://avatars.githubusercontent.com/u/7790756?s=72&u=0e7df93aab9f6012dc42feeea9a115b54a0ef59b&v=4)|
+| #919 | Aleksander Prenga | 12 | 0 | ![](https://avatars.githubusercontent.com/u/5831127?s=72&u=90d4fdaabc975800ed6a6b433044ce0be4b069b7&v=4)|
+| #920 | null | 13 | 0 | ![](https://avatars.githubusercontent.com/u/5224636?s=72&v=4)|
+| #921 | Megi Sila | 57 | 0 | ![](https://avatars.githubusercontent.com/u/80169743?s=72&u=1e9bb119d7ba2deb5c28c0f5b3ef68338fde3ff7&v=4)|
+| #922 | Fadion Dashi | 60 | 0 | ![](https://avatars.githubusercontent.com/u/374519?s=72&u=85199cd9d05139c075b39cf489a66582c03687a0&v=4)|
