@@ -36,27 +36,7 @@ function sleep(ms) {
 }
 
 function pushChanges(country) {
-    const c = simpleGitPromise.default(".")
-        c.add('.')
-        .then(
-        (addSuccess) => {
-            console.log(addSuccess);
-        }, (failedAdd) => {
-            console.log('adding files failed');
-        });
-    c.commit(`Update ${country} | autoupdate.js`)
-    .then(
-        (successCommit) => {
-            console.log(successCommit);
-        }, (failed) => {
-            console.log('failed commmit'+failed);
-    });
-    c.push('origin','main')
-        .then((success) => {
-        console.log('repo successfully pushed');
-        },(failed)=> {
-        console.log('repo push failed');
-    });
+    exec("git add /Users/glaukiollupo/Projects/top-github-commiters")
 }
 
 const run = async (country) => {
