@@ -25,6 +25,7 @@ See your countries leaderboard for most GitHub commits!
 |[Azerbaijan](output/azerbaijan.md)|
 |[Bulgaria](output/sofia,bulgaria.md)|
 |[Indonesia](output/bogor,jakarta,indonesia.md)|
+|[Syria](output/syria.md)|
 
 ## 🤔 Why am I not here?
 
