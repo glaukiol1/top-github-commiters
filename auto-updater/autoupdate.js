@@ -19,7 +19,8 @@ const countries = [
     ["addis+ababa", "ethiopia"],
     ["azerbaijan"],
     ["sofia,bulgaria"],
-    ["bogor", "jakarta", "indonesia"]
+    ["bogor", "jakarta", "indonesia"],
+    ["syria"]
 ]
 
 const { exec } = require('child_process');
