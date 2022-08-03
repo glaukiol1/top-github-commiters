@@ -2,30 +2,31 @@
 
 See your countries leaderboard for most GitHub commits!
 
-|Country|
-|-------|
-|[Albania](output/albania.md)|
-|[Kosovo](output/kosovo.md)|
-|[Macedonia](output/macedonia.md)|
-|[India](output/india.md)|
-|[Canada](output/canada.md)|
-|[Ukraine](output/ukraine.md)|
-|[USA](output/usa,united+states,united+states+of+america,america.md)|
-|[Italy](output/italy.md)|
-|[Greece](output/greece.md)|
-|[Afghanistan](output/afghanistan.md)|
-|[Germany](output/germany.md)|
-|[Netherlands](output/netherlands.md)|
-|[France](output/france.md)|
-|[Algeria](output/algeria.md)|
-|[Andorra](output/andorra,andorra-la-vella,santa-coloma,la-margineda,engolasters.md)|
-|[Angola](output/angola,luanda,cabinda,huambo,lubango,kuito,malanje,lobito,benguela.md)|
-|[Argentina](output/argentina.md)|
-|[Ethiopia](output/addis+ababa,ethiopia.md)|
-|[Azerbaijan](output/azerbaijan.md)|
-|[Bulgaria](output/sofia,bulgaria.md)|
-|[Indonesia](output/bogor,jakarta,indonesia.md)|
-|[Syria](output/syria.md)|
+| Country                                                                                |
+| -------------------------------------------------------------------------------------- |
+| [Afghanistan](output/afghanistan.md)                                                   |
+| [Albania](output/albania.md)                                                           |
+| [Algeria](output/algeria.md)                                                           |
+| [Andorra](output/andorra,andorra-la-vella,santa-coloma,la-margineda,engolasters.md)    |
+| [Angola](output/angola,luanda,cabinda,huambo,lubango,kuito,malanje,lobito,benguela.md) |
+| [Argentina](output/argentina.md)                                                       |
+| [Azerbaijan](output/azerbaijan.md)                                                     |
+| [Brasil](output/brazil,brasil.md)                                                      |
+| [Bulgaria](output/sofia,bulgaria.md)                                                   |
+| [Canada](output/canada.md)                                                             |
+| [Ethiopia](output/addis+ababa,ethiopia.md)                                             |
+| [France](output/france.md)                                                             |
+| [Germany](output/germany.md)                                                           |
+| [Greece](output/greece.md)                                                             |
+| [India](output/india.md)                                                               |
+| [Indonesia](output/bogor,jakarta,indonesia.md)                                         |
+| [Italy](output/italy.md)                                                               |
+| [Kosovo](output/kosovo.md)                                                             |
+| [Macedonia](output/macedonia.md)                                                       |
+| [Netherlands](output/netherlands.md)                                                   |
+| [Syria](output/syria.md)                                                               |
+| [Ukraine](output/ukraine.md)                                                           |
+| [USA](output/usa,united+states,united+states+of+america,america.md)                    |
 
 ## 🤔 Why am I not here?
 
